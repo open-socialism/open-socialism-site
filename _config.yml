@@ -20,16 +20,16 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
-include: ["blah"]
-
 defaults:
   -
     scope:
       path: ""
+      type: "pages"
     values:
       layout: "page"
   -
     scope:
-      path: "blah" # an empty string here means all files in the project
+      path: "open-socialism" # an empty string here means all files in the project
+      type: "pages"
     values:
       layout: "wow"
