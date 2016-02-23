@@ -10,4 +10,4 @@ DC as a system has served humanity well for a period of time and there has been 
 
 Changing from DC is going to be difficult as we have individuals with extreme wealth and power who don't want to change. Having said that, as wealth and power inequality continues to worsen changing will become increasingly difficult. It is time to start talking working towards better alternatives lest we be forever unable to change to a system that is focused on benefiting all it's members equally.
 
-[Ok I want to know more](introduction.md).
+[Ok I want to know more](introduction).
