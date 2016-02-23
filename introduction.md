@@ -106,10 +106,47 @@ A better system can be designed!
 
 ## What should a new system focus on?
 
-### Ok so the most important thing to deal with is corruption
+### Ok so the most important thing to deal with is corruption (and the domination structure)
 
 * Extreme wealth inequality will almost always lead to political influence so there shouldn't be mechanisms that allow this. In other words there should be no free enterprise or this will eventually occur.
-
 * At higher levels of society decisions should be made by groups of leaders, not individuals. It is much harder to corrupt the majority of a group as opposed to an individual.
 * Wherever possible information and decision making should be completely open and available on the internet. Anyone can see the basis for any decision and flag anything they disagree with or that seems like it could involve corruption.
-* There should be AI programs that analyze data around decision making and check for patterns that indicate bias or corruption. AI programs can also analyse banks accounts and transactions to look for suspicious activity that could indicate corruption.
+* There should be AI programs that analyze data around decision making and check for patterns that indicate bias or corruption. AI programs can also analyze banks accounts and transactions to look for suspicious activity that could indicate corruption.
+
+### At the same time, there needs to be reward for effort
+
+* Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige) just that these rewards should not be tremendously greater than than a lesser worker
+* There should be monetary or [gamified](https://en.wikipedia.org/wiki/Gamification) rewards for additional assistance to society such as proposing ideas to different parts of society that are used.
+
+### General equality should be a core goal
+
+* Everyone should get a base salary, even if unemployed, that is enough to live off of
+* All education and health care should be free
+* All legal matters should not be influenced by wealth
+
+### There needs to be a strong sense of community
+
+* Technology to assist with people associating with others that they have things in common with such as interests, location, profession and so on.
+* More local community cooperation and activities. People should live in tribes and those that you live around should be known and work together on a local level.
+
+### There should be a heavy focus on long term thinking
+
+* The environment should be looked after carefully.
+* There should be a heavy and continual investment in science and technology.
+* There should be a focus on spreading humanity out from Earth so the species will survive a cataclysmic event occuring to our home planet.
+* The societal system should be made to improve over time, not get stuck in a situation that is not beneficial for the majority.
+
+### The well being and happiness of the people is very important
+
+* Happiness is important. Unhappy people are less productive and even what is the point of adopting a system if everyone is miserable all the time?
+* There should be continual scientific study into how we can remain satisfied at a basic level in a world with constantly evolving technology.
+
+## Conclusion
+
+Humans have come from a society that we were perfectly suited to. From there we have had had a series of domination based societies, democratic capitalism being no different. New and better societies ARE possible and Open Socialism IS a compelling option.
+
+[Interesting, I'd like to know more about Open Socialism](open-socialism).
+[How can we measure the quality of a societal system?](societal-metrics).
+[I want to know more about the good and bad of democratic capitalism](assess-dc).
+
+[Wow, this all sounds quite cool. Can I help?](participate.md)
