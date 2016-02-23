@@ -146,7 +146,9 @@ A better system can be designed!
 Humans have come from a society that we were perfectly suited to. From there we have had had a series of domination based societies, democratic capitalism being no different. New and better societies ARE possible and Open Socialism IS a compelling option.
 
 [Interesting, I'd like to know more about Open Socialism](open-socialism).
+
 [How can we measure the quality of a societal system?](societal-metrics).
+
 [I want to know more about the good and bad of democratic capitalism](assess-dc).
 
 [Wow, this all sounds quite cool. Can I help?](participate.md)
