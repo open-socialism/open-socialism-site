@@ -151,4 +151,4 @@ Humans have come from a society that we were perfectly suited to. From there we 
 
 [I want to know more about the good and bad of democratic capitalism](assess-dc).
 
-[Wow, this all sounds quite cool. Can I help?](participate.md)
+[Wow, this all sounds quite cool. Can I help?](participate)
