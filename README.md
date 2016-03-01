@@ -1,1 +1,1 @@
-# opensocialism.github.io
+# open-socialism.github.io
