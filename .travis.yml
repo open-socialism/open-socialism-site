@@ -12,5 +12,5 @@ before_script:
 
 script: ./script/cibuild.sh
 
-deploy:
+after_script:
 - ./script/deploy.sh
