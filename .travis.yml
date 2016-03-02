@@ -1,0 +1,19 @@
+language: ruby
+rvm:
+- 2.3
+env:
+  global:
+  - GH_REF: github.com/open-socialism/open-socialism.github.io.git
+  - secure: "CdmlO1OfeBownUDQqtHS7ViAnmnbgKu4btts1tvsZIoxTgKGZrJnFMc/N+e2eciWb7S/jVwJIrnS4UiYW8ev+D5Zh+iGIcNxRQ9CMJ67UX3Jtfdudv+ckmX0PsZfRQSLW9BTPu3pk4UYvpj5t+4W6TW+73zJG/fXDxbBcnhC6vLIUbpeeDLxUn1t4KVbVvMZ9S7iwkLTza78yGx/fUuRE7RTD3De7gD8mPOEdgykz4gMMULcjKiVc5TDRbAPf1K2oA4ENRhBXthF6twiNW3GzcBCqvkTiWqgjIbiYtef6Pn75U4Frp1bRRaEQXjNnoVuaA5IUNzxSNRwLt1nz0H90ui40u2AFcw+EwexPZX9AW0aloJNR89nc5vKNjveKYrJJSDosLfvAWYslYxahCOPVn6hiJOuEG4851Ob2ygaJSJMQU+qIpqQK2FREJZqwRVsfels0vT3KwsTPK323PTlp020ZzGFWq0uF7s19CRwbqOZjSFS8djlUe//UlgPOyylPN+901kZlR37YJDR3Zt2NsLcrs/xphqNAtDyCq70x3xfCPus45rIZfx+VKUXpGqFEsFJf+dwqYkifjlRBmHDQjMpodxqEeBTkAWO/wlyxlmk2Tcd8wiZbM7fMBW53fgPzAHPjBQsjrvthwVVAAIZq5Eiwc02lZTofqmTKAEZJlY="
+
+before_script:
+- chmod +x ./script/beforeBuild.sh
+- chmod +x ./script/cibuild.sh
+- chmod +x ./script/afterBuild.sh
+- chmod +x ./script/updateSubmodules.sh
+- ./script/beforeBuild.sh
+
+script: ./script/cibuild
+
+after_script:
+- ./script/afterBuild.sh
