@@ -44,17 +44,17 @@ One core metric of a society is to what degree does selfish human behavior coinc
 
 Post the development of agriculture the class system quickly came to be. There are typically 3 classes.
 
-  #### The Ruling Class
+#### The Ruling Class
 
-  The ruling class have an extreme amount of wealth and power. They are largely in control of the society.
+The ruling class have an extreme amount of wealth and power. They are largely in control of the society.
 
-  #### The Middle Class
+#### The Middle Class
 
-  The middle class have a moderate amount of wealth and power which allows them to live very comfortably. The attain this by being of use to the ruling class and supporting their rule against the working class.
+The middle class have a moderate amount of wealth and power which allows them to live very comfortably. The attain this by being of use to the ruling class and supporting their rule against the working class.
 
-  #### The Working Class
+#### The Working Class
 
-  The working class have a low amount of wealth and power and make up the majority of society.
+The working class have a low amount of wealth and power and make up the majority of society.
 
 Ultimately the class based system is a system of domination by a small group of people who are the rulers. It became possible once agriculture enabled wealth accumulation. The progression looks like this:
 
@@ -77,41 +77,41 @@ How does DC fit into all this? Is it a new beast?
 
 No DC is is simply the newest iteration of the class system. It is unique only in that it is the most sophisticated version that has ever existed.
 
-  ### The Ruling Class
+#### The Ruling Class
 
-  The ruling class are typically not politicians although they can be members. The ruling class are the extremely wealthy individuals in society. There are some extremely wealthy individuals who do not use their power to rule, but they are the exception.
+The ruling class are typically not politicians although they can be members. The ruling class are the extremely wealthy individuals in society. There are some extremely wealthy individuals who do not use their power to rule, but they are the exception.
 
-  How do they 'rule'?
+How do they 'rule'?
 
-  Unlike previous iterations of the class system in DC the ruling class do not need to rule as such. They can satisfy their human selfish urge by amassing wealth and power in ever increasing amounts. They 'rule' only insofar as it helps them increase their wealth. This is done through largely legal means via the [lobbying system](https://en.wikipedia.org/wiki/Lobbying). Primarily they make political campaign donations or find legal means to bribe political figures to make policy that favors them.
+Unlike previous iterations of the class system in DC the ruling class do not need to rule as such. They can satisfy their human selfish urge by amassing wealth and power in ever increasing amounts. They 'rule' only insofar as it helps them increase their wealth. This is done through largely legal means via the [lobbying system](https://en.wikipedia.org/wiki/Lobbying). Primarily they make political campaign donations or find legal means to bribe political figures to make policy that favors them.
 
-  ### The Middle Class
+#### The Middle Class
 
-  The middle class in DC have many facets. First and foremost they are politicians. The politicians assist the ruling class by helping them increase their wealth and power and controlling the working class.
+The middle class in DC have many facets. First and foremost they are politicians. The politicians assist the ruling class by helping them increase their wealth and power and controlling the working class.
 
-  They are also made up of medium sized business owners. There are those who provide services to the companies of the ruling class (that are cheaper and better value than those that came before) and thus assist them for a portion of their wealth and power. Although, there are entrepreneurs who sometimes create businesses that service the middle or working class which largely sit outside the class based system in that they don't serve the ruling class, unless they become rich enough to exert political influence for their gain and become a member of the ruling class.
+They are also made up of medium sized business owners. There are those who provide services to the companies of the ruling class (that are cheaper and better value than those that came before) and thus assist them for a portion of their wealth and power. Although, there are entrepreneurs who sometimes create businesses that service the middle or working class which largely sit outside the class based system in that they don't serve the ruling class, unless they become rich enough to exert political influence for their gain and become a member of the ruling class.
 
-  There are also skilled laborers who work for the ruling class, or companies that server the ruling class. They in return for their service (creating more wealth for the ruling class) get a portion of the wealth they create, which due to the huge amount of wealth the ruling class has can be sizable depending on the supply and demand equation and their skill.
+There are also skilled laborers who work for the ruling class, or companies that server the ruling class. They in return for their service (creating more wealth for the ruling class) get a portion of the wealth they create, which due to the huge amount of wealth the ruling class has can be sizable depending on the supply and demand equation and their skill.
 
-  ### The Working Class
+#### The Working Class
 
-  The working class are unskilled laborers and includes the unemployed and homeless. They can either work for the ruling class for a much lower portion of the wealth they create when compared to the skilled middle class laborer, or they can not work and live in abject poverty.
+The working class are unskilled laborers and includes the unemployed and homeless. They can either work for the ruling class for a much lower portion of the wealth they create when compared to the skilled middle class laborer, or they can not work and live in abject poverty.
 
-### The propaganda of DC
+#### The propaganda of DC
 
 The propaganda of DC is interesting in that it is the most complex that has been seen.
 
-#### DC is fair and equitable. Anyone can through work become rich and each individual has freedom and equal rights.
+##### DC is fair and equitable. Anyone can through work become rich and each individual has freedom and equal rights.
 
 Fundamental to DC propaganda is everyone is equal and the notion of freedom. Let's look into those.
 
-#### Equality
+##### Equality
 
 In DC it is true that everyone has equal rights and is subject to the same laws. However, the reality of what is actually attainable by an individual of the ruling class and the working class is quite different. A member of the ruling class, through wealth has the right to superior education, health, legal rights, etc. Anything that a working class member has a right to, a ruling class member has a right to a better version of it.
 
 To generalize, 'Equal rights to all (assuming you have a large amount of wealth)'.
 
-#### Freedom
+##### Freedom
 
 Everyone is free in DC to do whatever they want. However, those not already a member of the ruling class need to feed, clothe and houses themselves so whilst they are free, they must work for the ruling class. In doing so they generate much more wealth for the ruling class than they themselves receive. They are free to choose which particular member of the ruling class they will generate wealth for and to certain degree what kind of work that will entail. You are not free when going down this path to directly benefit proportionally to the wealth you produce.
 
@@ -121,7 +121,7 @@ The option of starting a business is also risky, especially if the individual do
 
 To generalize, everyone is free to choose any number of bad options for how they work.
 
-#### The worst system, except for all the others
+##### The worst system, except for all the others
 
 'DC has wealth inequality but it's DC or a dictatorship eg communism, socialism which has failed time and again'. DC (which is to say the ruling class of DC) was greatly afraid of communism and has seen the need to invade or provide military assistance to many countries over the years to combat it such as Vietnam. The propaganda of the red communists is quite a famous example. This propaganda is quite clear to us as hysterical when viewed through the lens of history.
 
@@ -160,21 +160,21 @@ Whilst we as individuals don't particularly have the ability to suddenly not be 
 
 In fact two simple additions are all that is required to make communism/socialism work in such a way.
 
-  ### Prevent Corruption
+### Prevent Corruption
 
-  Corruption is selfishness that benefits oneself only and likely hurts other people. This is the corruption that existed since agriculture.
+Corruption is selfishness that benefits oneself only and likely hurts other people. This is the corruption that existed since agriculture.
 
-  Here are some solutions:
+Here are some solutions:
 
-  * Extreme wealth inequality will almost always lead to political influence so there shouldn't be mechanisms that allow this. In other words there should be no free enterprise or this will eventually occur.
-  * At higher levels of society decisions should be made by groups of leaders, not individuals. It is much harder to corrupt the majority of a group as opposed to an individual.
-  * Wherever possible information and decision making should be completely open and available on the internet. Anyone can see the basis for any decision and flag anything they disagree with or that seems like it could involve corruption.
-  * There should be AI programs that analyze data around decision making and check for patterns that indicate bias or corruption. AI programs can also analyze banks accounts and transactions to look for suspicious activity that could indicate corruption.
+* Extreme wealth inequality will almost always lead to political influence so there shouldn't be mechanisms that allow this. In other words there should be no free enterprise or this will eventually occur.
+* At higher levels of society decisions should be made by groups of leaders, not individuals. It is much harder to corrupt the majority of a group as opposed to an individual.
+* Wherever possible information and decision making should be completely open and available on the internet. Anyone can see the basis for any decision and flag anything they disagree with or that seems like it could involve corruption.
+* There should be AI programs that analyze data around decision making and check for patterns that indicate bias or corruption. AI programs can also analyze banks accounts and transactions to look for suspicious activity that could indicate corruption.
 
-  ### Reward Selfish striving
+### Reward Selfish striving
 
-  * Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige).
-  * There should be monetary or [gamified](https://en.wikipedia.org/wiki/Gamification) rewards for additional assistance to society such as proposing ideas to different parts of society that are used or types of volunteer work.
+* Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige).
+* There should be monetary or [gamified](https://en.wikipedia.org/wiki/Gamification) rewards for additional assistance to society such as proposing ideas to different parts of society that are used or types of volunteer work.
 
 By preventing corruption and rewarding individual effort a cooperative system that aligns with our psychology, much like the tribal system, is possible. Such a system can be set up that directly focuses on these core societal problems and gets better and better at dealing with them. This is a continual challenge as technology changes and human selfishness threatens corruption creeping in. Thankfully we have the intelligence and the technology to address these problems if we can just recognise them for what they are.
 
