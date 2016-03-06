@@ -32,7 +32,7 @@ For the first time humans had the the ability to stay in one place as they could
 
 As technology advanced and the ability to accumulate wealth increased leaders rose to the top. We progressed to the system of society that has been recurring throughout history with different classes including a ruling class.
 
-The reason this happened is that humans are actually self interested above all else. Humans that have not favored themselves primarily have not been selected by evolution since this kind of selfishness greatly increases the chance of an individuals genes being passed on. However, pre agriculture it wasn't a problem as there was only so much room for selfishness. We pretty much had to be highly cooperative with the tribe or we risk being ostracized which likely means death. The wiggle room was being more prominent in the tribe and attracting mates. If a member can be selfish in these ways then that is acceptable (and the competition and striving is actually good for the tribe anyway).
+The reason this happened is that humans are actually self interested above all else. Humans that have not favored themselves primarily have not been selected by evolution since this kind of selfishness greatly increases the chance of an individuals genes being passed on. However, pre-agriculture it wasn't a problem as there was only so much room for selfishness. We pretty much had to be highly cooperative with the tribe or we risk being ostracized which likely means death. The wiggle room was being more prominent in the tribe and attracting mates. If a member can be selfish in these ways then that is acceptable (and the competition and striving is actually good for the tribe anyway).
 
 Since agriculture and commerce the tribal system collapsed and we were suddenly living with a new system. For the first time an individual could be greatly selfish and not only not get ostracized but could prosper, be celebrated, become powerful and be a ruler of society. This is the same humans exercising the same selfishness. The difference is that the system of society had changed and the natural urge for selfishness was no longer held in check by the nature of a tribal society and also by necessity (a tribe of selfish members was not strong enough to survive).
 
@@ -83,7 +83,7 @@ The ruling class are typically not politicians although they can be members. The
 
 How do they 'rule'?
 
-Unlike previous iterations of the class system in DC the ruling class do not need to rule as such. They can satisfy their human selfish urge by amassing wealth and power in ever increasing amounts. They 'rule' only insofar as it helps them increase their wealth. This is done through largely legal means via the [lobbying system](https://en.wikipedia.org/wiki/Lobbying). Primarily they make political campaign donations or find legal means to bribe political figures to make policy that favors them.
+Unlike previous iterations of the class system in DC the ruling class do not need to rule as such. They can satisfy their human selfish urge by amassing wealth and power in ever increasing amounts. They 'rule' only insofar as it helps them increase their wealth. This is done through largely legal means via the [lobbying system](https://en.wikipedia.org/wiki/Lobbying){:target="_blank"}. Primarily they make political campaign donations or find legal means to bribe political figures to make policy that favors them.
 
 #### The Middle Class
 
@@ -91,7 +91,7 @@ The middle class in DC have many facets. First and foremost they are politicians
 
 They are also made up of medium sized business owners. There are those who provide services to the companies of the ruling class (that are cheaper and better value than those that came before) and thus assist them for a portion of their wealth and power. Although, there are entrepreneurs who sometimes create businesses that service the middle or working class which largely sit outside the class based system in that they don't serve the ruling class, unless they become rich enough to exert political influence for their gain and become a member of the ruling class.
 
-There are also skilled laborers who work for the ruling class, or companies that server the ruling class. They in return for their service (creating more wealth for the ruling class) get a portion of the wealth they create, which due to the huge amount of wealth the ruling class has can be sizable depending on the supply and demand equation and their skill.
+There are also skilled laborers who work for the ruling class, or companies that serve the ruling class. They in return for their service (creating more wealth for the ruling class) get a portion of the wealth they create, which due to the huge amount of wealth the ruling class has can be sizable depending on the supply and demand equation and their skill.
 
 #### The Working Class
 
@@ -99,7 +99,7 @@ The working class are unskilled laborers and includes the unemployed and homeles
 
 #### The propaganda of DC
 
-The propaganda of DC is interesting in that it is the most complex that has been seen.
+The propaganda of DC is interesting in that it is the most complex that has existed.
 
 ##### DC is fair and equitable. Anyone can through work become rich and each individual has freedom and equal rights.
 
@@ -113,7 +113,7 @@ To generalize, 'Equal rights to all (assuming you have a large amount of wealth)
 
 ##### Freedom
 
-Everyone is free in DC to do whatever they want. However, those not already a member of the ruling class need to feed, clothe and houses themselves so whilst they are free, they must work for the ruling class. In doing so they generate much more wealth for the ruling class than they themselves receive. They are free to choose which particular member of the ruling class they will generate wealth for and to certain degree what kind of work that will entail. You are not free when going down this path to directly benefit proportionally to the wealth you produce.
+Everyone is free in DC to do whatever they want. However, those not already a member of the ruling class need to feed, clothe and houses themselves so whilst they are 'free', they must work for the ruling class. In doing so they generate much more wealth for the ruling class than they themselves receive. They are free to choose which particular member of the ruling class they will generate wealth for and to a certain degree what kind of work that will entail. You are not free when going down this path to directly benefit proportionally to the wealth you produce.
 
 The other option available is to attempt to become one of the ruling or middle class by starting a business. Firstly it is worth noting that it is much rarer for the working class to do this. They lack the education of the ruling and middle class to be able to see the system that they live in and find a niche for a business to exploit. They also lack the wealth to go down an initially highly unprofitable path. 'Anyone can start a business and become rich' boils down to 'Those that are already relatively rich can gamble to become more rich'.
 
@@ -123,19 +123,19 @@ To generalize, everyone is free to choose any number of bad options for how they
 
 ##### The worst system, except for all the others
 
-'DC has wealth inequality but it's DC or a dictatorship eg communism, socialism which has failed time and again'. DC (which is to say the ruling class of DC) was greatly afraid of communism and has seen the need to invade or provide military assistance to many countries over the years to combat it such as Vietnam. The propaganda of the red communists is quite a famous example. This propaganda is quite clear to us as hysterical when viewed through the lens of history.
+'DC has wealth inequality but it's DC or a dictatorship eg. communism, socialism which has failed time and again'. DC (which is to say the ruling class of DC) was greatly afraid of communism and has seen the need to invade or provide military assistance to many countries over the years to combat it such as Vietnam. The propaganda of the red communists is quite a famous example. This propaganda is quite clear to us as hysterical when viewed through the lens of history.
 
 It's true that communism and other alternative systems of society have all devolved into the class system however DC is also a an example of the class system so it's a moot point.
 
-It can be argued that DC is the best iteration of the class system, but this doesn't mean that a new system that is not a class system isn't feasible. Or at least that DC can be modified to be less class based.
+It can be argued that DC is the best iteration of the class system, but this doesn't mean that a new system that is not a class system isn't feasible. Or at least it doesn't mean that DC can't be modified to be less class based.
 
-In fact communism, socialism, [cooperative businesses](https://en.wikipedia.org/wiki/Cooperative) are certainly feasible. They have only traditionally failed because like DC the core problem of human selfishness which leads to the class system was not the primary issue being addressed. Or because they were in fact dictatorships wearing the name of communism or socialism.
+In fact communism, socialism (and many others such as  [cooperative businesses](https://en.wikipedia.org/wiki/Cooperative){:target="_blank"}) are certainly feasible. They have only traditionally failed because like DC the core problem of human selfishness which leads to the class system was not the primary issue being addressed. Or because they were in fact dictatorships wearing the name of communism or socialism.
 
-Capitalism itself is actually only kept in check by socialistic elements. During early capitalism and industrial times for example in [1819 there was a law passed](https://en.wikipedia.org/wiki/Cotton_Mills_and_Factories_Act_1819) that prevent children of 8 or under working in factories and children of 9-16 years working for no more than 12 hours. Children under 8 working in factories is what unrestrained capitalism looks like.
+Capitalism itself is actually only kept in check by socialistic elements. During early capitalism and industrial times for example in [1819 there was a law passed](https://en.wikipedia.org/wiki/Cotton_Mills_and_Factories_Act_1819){:target="_blank"} that prevented children of 8 or under working in factories and children of 9-16 years working for no more than 12 hours. Children under 8 working in factories is what unrestrained capitalism looks like.
 
 It's also worth nothing that capitalism and democracy are 300 years old.  Are we saying that in 300 years of development including explosion of modern technology this very old system is essentially the best conceivable?
 
-Also modern DC is very UNdemocratic and UNcapitalistic. Using wealth and power for political influence is the antithesis of democracy and the free market (capitalism). 'The current system the best and only one possible' is overly simplistic. There are many people who simple want to fix DC by moving to more democracy and capitalism. Point being the current iteration of DC is certainly no the be all and end all of societal systems!
+Also modern DC is very UNdemocratic and UNcapitalistic. Using wealth and power for political influence is the antithesis of democracy and the free market (capitalism). 'The current system is the best and only one possible' is overly simplistic. There are many people who simple want to fix DC by moving to more democracy and capitalism. Point being the current iteration of DC is certainly not the be all and end all of societal systems!
 
 ## The Problem To Solve
 
@@ -162,7 +162,7 @@ In fact two simple additions are all that is required to make communism/socialis
 
 ### Prevent Corruption
 
-Corruption is selfishness that benefits oneself only and likely hurts other people. This is the corruption that existed since agriculture.
+Corruption is selfishness that benefits oneself only and likely hurts other people. This is the corruption that has existed since agriculture.
 
 Here are some solutions:
 
@@ -171,12 +171,12 @@ Here are some solutions:
 * Wherever possible information and decision making should be completely open and available on the internet. Anyone can see the basis for any decision and flag anything they disagree with or that seems like it could involve corruption.
 * There should be AI programs that analyze data around decision making and check for patterns that indicate bias or corruption. AI programs can also analyze banks accounts and transactions to look for suspicious activity that could indicate corruption.
 
-### Reward Selfish striving
+### Reward Selfish Striving
 
 * Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige).
-* There should be monetary or [gamified](https://en.wikipedia.org/wiki/Gamification) rewards for additional assistance to society such as proposing ideas to different parts of society that are used or types of volunteer work.
+* There should be monetary or [gamified](https://en.wikipedia.org/wiki/Gamification){:target="_blank"} rewards for additional assistance to society such as proposing ideas to different parts of society that are used or types of volunteer work.
 
-By preventing corruption and rewarding individual effort a cooperative system that aligns with our psychology, much like the tribal system, is possible. Such a system can be set up that directly focuses on these core societal problems and gets better and better at dealing with them. This is a continual challenge as technology changes and human selfishness threatens corruption creeping in. Thankfully we have the intelligence and the technology to address these problems if we can just recognise them for what they are.
+By preventing corruption and rewarding individual effort a cooperative system that aligns with our psychology, much like the tribal system, is possible. Such a system can be set up that directly focuses on these core societal problems and gets better and better at dealing with them. This is a continual challenge as technology changes and human selfishness threatens corruption creeping in. Thankfully we have the intelligence and the technology to address these problems if we can just recognize them for what they are.
 
 There is a lot more to Open Socialism than this, but this is the foundational concept that can enable a highly productive and fulfilling society that benefits everyone.
 
