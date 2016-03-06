@@ -6,7 +6,7 @@ permalink: /introduction/
 
 Open Socialism is a system that is designed to be the most equitable and productive societal system given our current level of scientific and technological advancement.
 
-Before we get into the specifics, let's look at the history of human societies and look at the recurring problems. Let's in particular look at democratic capitalism (DC) and show that whilst it has achieved a lot and it does have good parts, it is not terribly different from systems that have come before it that favor a ruling class. Let's then look into how we can take the good parts from DC and a variety of other systems and create a societal system that is far better for the vast majority of the population.
+Before we get into the specifics, let's look at the history of human societies and look at the recurring problems. Let's in particular look at Democratic Capitalism (DC) and show that whilst it has achieved a lot and it does have good parts, it is not terribly different from systems that have come before it that favor a ruling class. Let's then look into how we can take the good parts from DC and a variety of other systems and create a societal system that is far better for the vast majority of the population.
 
 ## A History of Human Societies
 
@@ -18,7 +18,7 @@ Humans lived in nomadic tribes. Everyone basically had the same job of hunting a
 
 Tribes were closely bonded kin and each individual had a strong sense of belonging and community in their tribe. This is because tribes that worked together and cooperated were selected via the process of natural selection.
 
-It is important to note that physiologically we have not significantly changed from those humans of old. We are still the same humans that if raised in a tribal would fit perfectly into it. This is a society in which our natural instincts and ways of organizing ourselves suit the environment perfectly. There is leadership based on merit, small wealth and power inequality and a strong sense of community. In a sense it is the perfect society for us, however it is not feasible on a global scale at the level of population the earth now has.
+It is important to note that physiologically we have not significantly changed from those humans of old. We are still the same humans that if raised in a tribe would fit perfectly into it. This is a society in which our natural instincts and ways of organizing ourselves suit the environment perfectly. There is leadership based on merit, small wealth and power inequality and a strong sense of community. In a sense it is the perfect society for us, however it is not feasible on a global scale at the level of population the earth now has.
 
 Why do such societies so perfectly fit our psychology? The main reason is our own self interest almost perfectly aligns with the interest of our tribe. If in this environment we took a capitalistic approach and hoarded our own food we would be shunned and expelled (or worse). A bunch of humans working for themselves is less productive than humans working together (and by extension for themselves at the same). Being valuable to your tribe, providing good leadership, all these things help yourself and your tribe at the same time. This is why the tribal system is so good and why our ancestors who worked together were selected by natural selection.
 
@@ -150,7 +150,7 @@ A system is needed that:
 
 Put simply, humans should be being selfish in ways that increase the chance of their genes being passed on but at the same time  that are cooperative and benefit society as a whole.
 
-DC has failed because self interest largely just benefits the self, often as the expense of others. Communism and socialism have failed because they assumed that humans are inherently 'good' and in the right environment, with the right humans they won't be selfish at all.
+DC has failed because self interest largely just benefits the self, often at the expense of others. Communism and socialism have failed because they assumed that humans are inherently 'good' and in the right environment, with the right humans they won't be selfish at all.
 
 ## A Solution
 
@@ -173,7 +173,7 @@ Here are some solutions:
 
 ### Reward Selfish Striving
 
-* Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige).
+* Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige). The monetary rewards don't need to be extreme to being a leader of society a desirable goal.
 * There should be monetary or [gamified](https://en.wikipedia.org/wiki/Gamification){:target="_blank"} rewards for additional assistance to society such as proposing ideas to different parts of society that are used or types of volunteer work.
 
 By preventing corruption and rewarding individual effort a cooperative system that aligns with our psychology, much like the tribal system, is possible. Such a system can be set up that directly focuses on these core societal problems and gets better and better at dealing with them. This is a continual challenge as technology changes and human selfishness threatens corruption creeping in. Thankfully we have the intelligence and the technology to address these problems if we can just recognize them for what they are.
