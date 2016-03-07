@@ -152,13 +152,19 @@ Put simply, humans should be being selfish in ways that increase the chance of t
 
 DC has failed because self interest largely just benefits the self, often at the expense of others. Communism and socialism have failed because they assumed that humans are inherently 'good' and in the right environment, with the right humans they won't be selfish at all.
 
+## A Naive Solution
+
+Commonly when people notice the issues of DC and propose solutions they still start with DC as a base, then layer on top more socialistic principles. Unfortunately when the base is DC which inherently based on selfish behavior that does not benefit the whole and naturally leads to the class system, it is extremely difficult and wasteful to then attempt to temper that with socialism. For example you can add more regulation and taxation on wealthy corporations and individuals, however this results in an arms race to avoid these measures by the ruling class. A large amount of resources is spent in this fight as loopholes are discovered and closed progressively. It also devolves into a rigged competiton as democracy allows for the rulling class to exert political influence and keep their loopholes.
+
 ## A Solution
 
-Open Socialism is a solution to the problem stated above. Communism and socialism were close to being a viable solution in that they were at least cooperative, with everyone working together for the greater good, similar to the tribal system. However, they assumed that humans could be unselfish.
+Open Socialism is a solution to the problem stated above that starts with an idealistic base that is cooperative (socialism/communism).
+
+Communism and socialism were close to being a viable solution in that they were at least cooperative, with everyone working together for the greater good, similar to the tribal system. However, they assumed that humans could be unselfish.
 
 Whilst we as individuals don't particularly have the ability to suddenly not be selfish. We do have powerful brains and we have the ability to create systems that don't require humans to be unselfish.
 
-In fact two simple additions are all that is required to make communism/socialism work in such a way.
+In fact two simple additions are all that is required to make communism/socialism work in such a way. This is far less effort than the complexity of mitigating the inherent issues of DC.
 
 ### Prevent Corruption
 
