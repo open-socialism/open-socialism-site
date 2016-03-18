@@ -5,15 +5,28 @@ permalink: /contribute/
 
 So you want to help? Awesome!
 
-## Provide feedback
+Start by reading the [introduction](introduction). Then checkout [Open Socialism in more detail](open-socialism). If you are feeling motivated keep on reading through the different sections.
 
-[You can provide feedback here](feedback.md)
+## What help is currently desired?
 
-## Make improvements
+Any help in any capacity is welcome ranging from redesigning the entire system, to making the sentences flow better to fixing typos. If you want you can even join and regularly contribute if it's something you care about.
 
-You can assist via the feedback page or if you want to contribute directly currently the following is necessary.
+Generally the most important help that is required is criticizing the system, pointing out flaws, showing evidence that OS (or parts of it) wont work and identifying missing information on OS.
 
-1. Create a [github](https://github.com) account.
-2. Go to [Open Socialism on github](https://github.com/open-socialism).
-3. Select a section (or 'repository') to contribute to.
-4. [Follow these instructions to suggest a change](https://help.github.com/articles/editing-files-in-your-repository).
+Mabye OS is fundamentally broken. If you can show this it is the most valuable help because it will provide the most fuel for OS to improve.
+
+## How to help
+
+### Provide feedback
+
+[You can provide general feedback](feedback.md)
+
+You can click feedback on a page to provide page specific feedback.
+
+### Make improvements
+
+To directly suggest improvements you will need a [github](https://github.com) account.
+
+Once this is done you can click edit on any page and you will be able to make changes. [Follow these instructions to suggest a change](https://help.github.com/articles/editing-files-in-your-repository).
+
+If this sounds too difficult don't worry, just suggest changes via the feedback options.
