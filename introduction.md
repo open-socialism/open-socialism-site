@@ -172,7 +172,7 @@ Corruption is selfishness that benefits oneself only and likely hurts other peop
 
 Here are some solutions:
 
-* Extreme wealth inequality will almost always lead to political influence so there shouldn't be mechanisms that allow this. In other words there should be no free enterprise or this will eventually occur.
+* Extreme wealth (and thus power) inequality will almost always lead to political influence so there shouldn't be mechanisms that allow this. In other words there should be no free enterprise or this will eventually occur.
 * At higher levels of society decisions should be made by groups of leaders, not individuals. It is much harder to corrupt the majority of a group as opposed to an individual.
 * Wherever possible information and decision making should be completely open and available on the internet. Anyone can see the basis for any decision and flag anything they disagree with or that seems like it could involve corruption.
 * There should be AI programs that analyze data around decision making and check for patterns that indicate bias or corruption. AI programs can also analyze banks accounts and transactions to look for suspicious activity that could indicate corruption.
