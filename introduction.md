@@ -50,7 +50,7 @@ The ruling class have an extreme amount of wealth and power. They are largely in
 
 #### The Middle Class
 
-The middle class have a moderate amount of wealth and power which allows them to live very comfortably. The attain this by being of use to the ruling class and supporting their rule against the working class.
+The middle class have a moderate amount of wealth and power which allows them to live very comfortably. They attain this by being of use to the ruling class and supporting their rule against the working class.
 
 #### The Working Class
 
