@@ -179,7 +179,7 @@ Here are some solutions:
 
 ### Reward Selfish Striving
 
-* Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige). The monetary rewards don't need to be extreme to being a leader of society a desirable goal.
+* Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige). The monetary rewards don't need to be extreme for being a leader to be a strongly desired role.
 * There should be monetary or [gamified](https://en.wikipedia.org/wiki/Gamification){:target="_blank"} rewards for additional assistance to society such as proposing ideas to different parts of society that are used or types of volunteer work.
 
 By preventing corruption and rewarding individual effort a cooperative system that aligns with our psychology, much like the tribal system, is possible. Such a system can be set up that directly focuses on these core societal problems and gets better and better at dealing with them. This is a continual challenge as technology changes and human selfishness threatens corruption creeping in. Thankfully we have the intelligence and the technology to address these problems if we can just recognize them for what they are.
