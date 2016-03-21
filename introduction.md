@@ -125,7 +125,7 @@ To generalize, everyone is free to choose any number of bad options for how they
 
 'DC has wealth inequality but it's DC or a dictatorship eg. communism, socialism which has failed time and again'. DC (which is to say the ruling class of DC) was greatly afraid of communism and has seen the need to invade or provide military assistance to many countries over the years to combat it such as Vietnam. The propaganda of the red communists is quite a famous example. This propaganda is quite clear to us as hysterical when viewed through the lens of history.
 
-It's true that communism and other alternative systems of society have all devolved into the class system however DC is also a an example of the class system so it's a moot point.
+It's true that communism and other alternative systems of society have all devolved into the class system however DC is also an example of the class system so it's a moot point.
 
 It can be argued that DC is the best iteration of the class system, but this doesn't mean that a new system that is not a class system isn't feasible. Or at least it doesn't mean that DC can't be modified to be less class based.
 
