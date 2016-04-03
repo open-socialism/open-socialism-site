@@ -1,19 +1,18 @@
 ---
 layout: default
 ---
-<article class="post">
+<article class="page">
   {% assign pagePath = page.path | replace: 'open-socialism/', '' %}
   {% assign pathParts = page.path | split: '/' %}
   {% assign sectionName = pathParts.first %}
 
-  <header class="post-header">
-    <div><a href="https://github.com/open-socialism/{{sectionName}}/edit/master/{{pagePath}}">Edit This Page</a></div>
-    <div><a href="https://github.com/open-socialism/{{sectionName}}/issues/new?title={{page.title}} feedback - ">Feedback On This Page</a></div>
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+  <h1 class="page-title">{{ page.title }}</h1>
 
-  <div class="post-content">
-    {{ content }}
+  <div class="page-links">
+    <a href="https://github.com/open-socialism/{{sectionName}}/edit/master/{{pagePath}}">Edit This Page</a>
+    <a href="https://github.com/open-socialism/{{sectionName}}/issues/new?title={{page.title}} feedback - ">Feedback On This Page</a>
   </div>
+
+  {{ content }}
 
 </article>
