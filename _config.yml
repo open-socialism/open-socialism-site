@@ -1,17 +1,10 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
 title: Open Socialism
 description: > # this means to ignore newlines until "baseurl:"
   a compelling alternative to democratic capitalism
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://opensocialism.com" # the base hostname & protocol for your site
+url: http://opensocialism.com
 github_username:  open-socialism
+analytics_id: UA-75947611-1
 
 # Build settings
 markdown: kramdown
