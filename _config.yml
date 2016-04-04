@@ -16,6 +16,10 @@ github_username:  open-socialism
 # Build settings
 markdown: kramdown
 
+sass:
+  sass_dir: _sass
+  style: :compressed
+
 defaults:
   -
     scope:
