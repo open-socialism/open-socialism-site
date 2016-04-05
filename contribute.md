@@ -19,13 +19,11 @@ Mabye OS is fundamentally broken. If you can show this it is the most valuable h
 
 ### Provide feedback
 
-[You can provide general feedback](feedback.md)
-
-You can click feedback on a page to provide page specific feedback.
+You can click feedback on a page to provide page specific feedback ([github](https://github.com/join){:target="_blank"} account required).
 
 ### Make improvements
 
-To directly suggest improvements you will need a [github](https://github.com) account.
+To directly suggest improvements you will also need a [github](https://github.com/join){:target="_blank"} account.
 
 Once this is done you can click edit on any page and you will be able to make changes. [Follow these instructions to suggest a change](https://help.github.com/articles/editing-files-in-your-repository).
 
