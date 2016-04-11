@@ -30,7 +30,7 @@ Get some initial feedback on the basics of the system to fix any obvious problem
 
 ## Next Milestone
 
-The next milestone is to reach a level that is ready for public consumption and feedback.
+The next milestone is to reach a level that is ready for public consumption. However this stage is still primarily focus on generating feedback.
 
 * The initial entry into the system should be very streamlined, visual and persuasive.
 * There needs to be more facts backing up the arguments made (or obviously the arguments adjusted if that facts don't match).
