@@ -13,13 +13,17 @@ Any help in any capacity is welcome ranging from redesigning the entire system, 
 
 Generally the most important help that is required is criticizing the system, pointing out flaws, showing evidence that OS (or parts of it) wont work and identifying missing information on OS.
 
-Mabye OS is fundamentally broken. If you can show this it is the most valuable help because it will provide the most fuel for OS to improve.
+Maybe OS is fundamentally broken. If you can show this it is the most valuable help because it will provide the most fuel for OS to improve.
 
 ## How to help
 
-### Provide feedback
+### Complete the survey
 
-You can click feedback on a page to provide page specific feedback ([github](https://github.com/join){:target="_blank"} account required).
+Complete [the Open Socialism survey](https://docs.google.com/forms/d/1fbNE7hpmryylvsILKRK18PYORs4Mxkf7qOLOkiFDww0/viewform){:target="_blank"} to give general feedback.
+
+### Provide page specific feedback
+
+You can click feedback on a page to provide feedback ([github](https://github.com/join){:target="_blank"} account required).
 
 ### Make improvements
 
