@@ -27,6 +27,8 @@ layout: default
   {% assign pathParts = page.path | split: '/' %}
   {% assign sectionName = pathParts.first %}
 
+  <div>{{ page.section }}</div>
+
   <div class="page-links">
     <a href="https://github.com/open-socialism/{{sectionName}}/edit/master/{{pagePath}}">Edit</a>
     <a href="https://github.com/open-socialism/{{sectionName}}/issues/new?title={{page.title}} feedback - ">Feedback</a>
