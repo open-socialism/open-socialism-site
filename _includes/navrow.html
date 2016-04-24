@@ -1,0 +1,4 @@
+<li class="{% if page.url contains include.url %}active{% endif %}">
+    <a href="{{ site.baseurl }}{{ include.url }}">{{ entry.title }}</a>
+    {% include navigation.html context=entry.url %}
+</li>

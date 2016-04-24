@@ -23,7 +23,27 @@
 
     </div>
 
-    {% include navigation.html context="/" %}
+    {% assign entries = site.pages | sort: "path" %}
+
+    <ul>
+      <li><a href="/introduction">Introduction</a></li>
+      <li>
+        <a href="/open-socialism">The System</a>
+
+        {% include navigation.html context="/open-socialism/" entries=entries %}
+      </li>
+      <li>
+        <a href="/open-socialism">Societal Metrics</a>
+
+        {% include navigation.html context="/societal-metrics/" entries=entries %}
+      </li>
+      <li>
+        <a href="/open-socialism">Assess DC</a>
+
+        {% include navigation.html context="/assess-dc/" entries=entries %}
+      </li>
+      <li><a href="/introduction">Contribute</a></li>
+    </ul>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script>
     <script src="/js/jquery-menu-aim.min.js"></script>
