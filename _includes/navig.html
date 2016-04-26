@@ -1,0 +1,28 @@
+<div class="cd-dropdown-wrapper">
+  <a class="cd-dropdown-trigger sidebar-toggle" href="#0"></a>
+  <nav class="cd-dropdown">
+    <h2>{{page.title}}</h2>
+    <a href="#0" class="cd-close">Close</a>
+    <ul class="cd-dropdown-content">
+      {% assign entries = site.pages | sort: "path" %}
+
+      <li><a href="/introduction">Introduction</a></li>
+      <li class="has-children">
+        <a href="/open-socialism">The System</a>
+
+        {% include navigation.html context="/open-socialism/" entries=entries topLevel=true %}
+      </li>
+      <li class="has-children">
+        <a href="/open-socialism">Societal Metrics</a>
+
+        {% include navigation.html context="/societal-metrics/" entries=entries topLevel=true %}
+      </li>
+      <li class="has-children">
+        <a href="/open-socialism">Assess DC</a>
+
+        {% include navigation.html context="/assess-dc/" entries=entries topLevel=true %}
+      </li>
+      <li><a href="/introduction">Contribute</a></li>
+    </ul>
+  </nav>
+</div>

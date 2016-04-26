@@ -1,5 +1,5 @@
 {% capture html %}
-  <ul>
+  <ul class="is-hidden {% if include.topLevel %}cd-secondary-dropdown{% endif %}">
     {% for entry in include.entries %}
 
         {% if entry.title != "" %}
@@ -8,11 +8,15 @@
           {% capture current %}{{ entry.url | remove: slug | replace: "//", "/" }}{% endcapture %}
 
           {% if current == include.context %}
-              <li class="{% if page.url contains entry.url %}active{% endif %}">
-                  <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+            {% capture children %}{% include navigation.html context=entry.url entries=include.entries topLevel=false %}{% endcapture %}
 
-                  {% include navigation.html context=entry.url entries=include.entries %}
-              </li>
+            <li class="{% if page.url contains entry.url %}active{% endif %} {% if children contains 'li' %}has-children{% endif %}">
+                <a href="{{ site.baseurl }}{{ entry.url | remove: '.html' }}">{{ entry.title }}</a>
+
+                {% if children contains "li" %}
+                  {{children}}
+                {% endif %}
+            </li>
           {% endif %}
         {% endif %}
     {% endfor %}
