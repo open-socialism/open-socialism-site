@@ -36,7 +36,7 @@ The reason this happened is that humans are actually self interested above all e
 
 Since agriculture and commerce the tribal system collapsed and we were suddenly living with a new system. For the first time an individual could be greatly selfish and not only not get ostracized but could prosper, be celebrated, become powerful and be a ruler of society. This is the same humans exercising the same selfishness. The difference is that the system of society had changed and the natural urge for selfishness was no longer held in check by the nature of a tribal society and also by necessity (a tribe of selfish members was not strong enough to survive).
 
-However, the selfish system of individuals is less productive, less satisfying and is analogous to candy. Similarly to how when our environment limits our intake of sweets and survival is tough sweet foods are great because they have a lot of energy. Although nowadays we have endless access to cheap candy and struggle to fight our instincts to over consume. The tribal environment no longer exists and our selfish instincts hurt us (as we become lonely loners) and hurt society with decreased productivity due to the inefficieny of large amounts of recourses being expended for competition.
+However, the selfish system of individuals is less productive, less satisfying and is analogous to candy. Similarly to how when our environment limits our intake of sweets and survival is tough sweet foods are great because they have a lot of energy. Although nowadays we have endless access to cheap candy and struggle to fight our instincts to over consume. The tribal environment no longer exists and our selfish instincts hurt us (as we become lonely loners) and hurt society with decreased productivity due to the inefficieny of large amounts of resources being expended for competition.
 
 One core metric of a society is to what degree does selfish human behavior coincide with the greater good. The tribal system was almost perfect. Since then there hasn't been a society that has been remotely close. What we have had since then is the class based system.
 
@@ -84,6 +84,8 @@ The ruling class are typically not politicians although they can be members. The
 How do they 'rule'?
 
 Unlike previous iterations of the class system in DC the ruling class do not need to rule as such. They can satisfy their human selfish urge by amassing wealth and power in ever increasing amounts. They 'rule' only insofar as it helps them increase their wealth. This is done through largely legal means via the [lobbying system](https://en.wikipedia.org/wiki/Lobbying){:target="_blank"}. Primarily they make political campaign donations or find legal means to bribe political figures to make policy that favors them.
+
+[One study estimated the rate of return on lobbying to be ~%22000 ](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1375082){:target="_blank"}
 
 #### The Middle Class
 
