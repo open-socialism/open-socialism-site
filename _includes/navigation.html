@@ -1,5 +1,7 @@
 {% capture html %}
   <ul class="is-hidden cd-dropdown-content">
+    <li class="go-back"><a href="#0">Back</a></li>
+    <li class="see-all"><a>{{ include.title }}</a></li>
     {% for entry in include.entries %}
 
         {% if entry.title != "" %}
@@ -8,12 +10,12 @@
           {% capture current %}{{ entry.url | remove: slug | replace: "//", "/" }}{% endcapture %}
 
           {% if current == include.context %}
-            {% capture children %}{% include navigation.html context=entry.url entries=include.entries topLevel=false %}{% endcapture %}
+            {% capture children %}{% include navigation.html context=entry.url entries=include.entries topLevel=false title=entry.title %}{% endcapture %}
 
-            <li class="{% if page.url contains entry.url %}active{% endif %} {% if children contains 'li' %}has-children{% endif %}">
+            <li class="menu-item {% if page.url contains entry.url %}active{% endif %} {% if children contains 'menu-item' %}has-children{% endif %}">
                 <a href="{{ site.baseurl }}{{ entry.url | remove: '.html' }}">{{ entry.title }}</a>
 
-                {% if children contains "li" %}
+                {% if children contains "menu-item" %}
                   {{children}}
                 {% endif %}
             </li>
@@ -21,4 +23,4 @@
         {% endif %}
     {% endfor %}
   </ul>
-{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' | replace:'<ul></ul>', '' }}
+{% endcapture %}{{ html | strip_newlines | replace:'    ','' | replace:'    ','' | replace:'  ',' ' }}
