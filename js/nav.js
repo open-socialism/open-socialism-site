@@ -15,9 +15,11 @@ $(document).ready(function($){
   //on mobile - open submenu
   $('.has-children').children('a').on('click', function(event){
     //prevent default clicking on direct children of .cd-dropdown-content
-    event.preventDefault();
-    var selected = $(this);
-    selected.next('ul').removeClass('is-hidden').end().parent('.has-children').parent('ul').addClass('move-out');
+    if ($(window).width() < 1024) {
+      event.preventDefault();
+      var selected = $(this);
+      selected.next('ul').removeClass('is-hidden').end().parent('.has-children').parent('ul').addClass('move-out');
+    }
   });
 
   //on desktop - differentiate between a user trying to hover over a dropdown item vs trying to navigate into a submenu's contents
