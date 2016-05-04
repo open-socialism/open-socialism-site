@@ -1,24 +1,44 @@
+{% capture html %}
 <ul class="is-hidden cd-dropdown-content">
   <li class="go-back"><a href="#0">Back</a></li>
   <li class="see-all"><a>{{ include.title }}</a></li>
+
   {% for entry in include.entries %}
-      {% capture slug    %}{{ entry.url | split: "/"   | last               }}{% endcapture %}
-      {% capture current %}{{ entry.url | remove: slug | replace: "//", "/" }}{% endcapture %}
 
-      {% if current == include.context %}
+    {% capture slug    %}{{ entry.url | split: "/"   | last               }}{% endcapture %}
+    {% capture current %}{{ entry.url | remove: slug | replace: "//", "/" }}{% endcapture %}
+
+    {% if !entry.placeholder and entry.url == include.context %}
+      {% assign isOverview = true %}
+    {% else %}
+      {% assign isOverview = false %}
+    {% endif %}
+
+    {% if current == include.context or isOverview == true %}
+      {% if isOverview == false %}
         {% capture children %}{% include nav-list.html context=entry.url entries=include.entries topLevel=false title=entry.title %}{% endcapture %}
-
-        <li class="menu-item {% if page.url contains entry.url %}active{% endif %} {% if children contains 'menu-item' %}has-children{% endif %}">
-            {% if entry.placeholder %}
-            <a href="#" class="placeholder-link">{{ entry.title }}</span>
-            {% else %}
-            <a href="{{ site.baseurl }}{{ entry.url | remove: '.html' }}">{{ entry.title }}</a>
-            {% endif %}
-
-            {% if children contains "menu-item" %}
-              {{children}}
-            {% endif %}
-        </li>
       {% endif %}
+
+      {% if isOverview == false and children contains 'menu-item' %}
+        {% assign hasChildren = true %}
+      {% else %}
+        {% assign hasChildren = false %}
+      {% endif %}
+
+      <li class="menu-item {% if page.url contains entry.url %}active{% endif %} {% if hasChildren %}has-children{% endif %}">
+        {% if isOverview == true %}
+          <a href="{{ site.baseurl }}{{ entry.url | remove: '.html' }}">Overview</a>
+        {% elsif entry.placeholder == true %}
+          <a href="#" class="placeholder-link">{{ entry.title }}</a>
+        {% else %}
+          <a href="{{ site.baseurl }}{{ entry.url | remove: '.html' }}">{{ entry.title }}</a>
+        {% endif %}
+
+        {% if hasChildren %}
+          {{children}}
+        {% endif %}
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
+{% endcapture %}{{ html | rstrip | strip_newlines }}
