@@ -8,22 +8,21 @@ based upon https://codyhouse.co/demo/mega-dropdown/index.html
     <a href="#0" class="cd-close">Close</a>
     <ul class="cd-dropdown-content">
       {% assign entries = site.pages | sort: "path" %}
-
       <li><a href="/introduction">Introduction</a></li>
       <li class="has-children">
         <a href="/open-socialism">The System</a>
 
-        {% include nav-list.html context="/open-socialism/" entries=entries topLevel=true title="Open Socialism" %}
+        {% include nav-list.html context="/open-socialism/" entries=entries title="Open Socialism" %}
       </li>
       <li class="has-children">
-        <a href="/open-socialism">Societal Metrics</a>
+        <a href="/societal-metrics">Societal Metrics</a>
 
-        {% include nav-list.html context="/societal-metrics/" entries=entries topLevel=true title="Societal Metrics" %}
+        {% include nav-list.html context="/societal-metrics/" entries=entries title="Societal Metrics" %}
       </li>
       <li class="has-children">
-        <a href="/open-socialism">Assess DC</a>
+        <a href="/assess-dc">Assess DC</a>
 
-        {% include nav-list.html context="/assess-dc/" entries=entries topLevel=true title="Assess DC" %}
+        {% include nav-list.html context="/assess-dc/" entries=entries title="Assess DC" %}
       </li>
       <li><a href="/introduction">Contribute</a></li>
     </ul>

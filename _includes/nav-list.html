@@ -5,8 +5,8 @@
 
   {% for entry in include.entries %}
 
-    {% capture slug    %}{{ entry.url | split: "/"   | last               }}{% endcapture %}
-    {% capture current %}{{ entry.url | remove: slug | replace: "//", "/" }}{% endcapture %}
+    {% capture slug    %}/{{ entry.url | split: "/"   | last               }}{% endcapture %}
+    {% capture current %}{{ entry.url | remove: slug | append: "/" | replace: "//", "/" }}{% endcapture %}
 
     {% if entry.placeholder != true and entry.url == include.context %}
       {% assign isOverview = true %}
@@ -15,8 +15,9 @@
     {% endif %}
 
     {% if current == include.context or isOverview == true %}
+
       {% if isOverview != true %}
-        {% capture children %}{% include nav-list.html context=entry.url entries=include.entries topLevel=false title=entry.title %}{% endcapture %}
+        {% capture children %}{% include nav-list.html context=entry.url entries=include.entries title=entry.title %}{% endcapture %}
       {% endif %}
 
       {% if isOverview != true and children contains 'child-link' %}
