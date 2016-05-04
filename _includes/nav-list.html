@@ -8,18 +8,18 @@
     {% capture slug    %}{{ entry.url | split: "/"   | last               }}{% endcapture %}
     {% capture current %}{{ entry.url | remove: slug | replace: "//", "/" }}{% endcapture %}
 
-    {% if !entry.placeholder and entry.url == include.context %}
+    {% if entry.placeholder != true and entry.url == include.context %}
       {% assign isOverview = true %}
     {% else %}
       {% assign isOverview = false %}
     {% endif %}
 
     {% if current == include.context or isOverview == true %}
-      {% if isOverview == false %}
+      {% if isOverview != true %}
         {% capture children %}{% include nav-list.html context=entry.url entries=include.entries topLevel=false title=entry.title %}{% endcapture %}
       {% endif %}
 
-      {% if isOverview == false and children contains 'menu-item' %}
+      {% if isOverview != true and children contains 'child-link' %}
         {% assign hasChildren = true %}
       {% else %}
         {% assign hasChildren = false %}
@@ -31,7 +31,7 @@
         {% elsif entry.placeholder == true %}
           <a href="#" class="placeholder-link">{{ entry.title }}</a>
         {% else %}
-          <a href="{{ site.baseurl }}{{ entry.url | remove: '.html' }}">{{ entry.title }}</a>
+          <a class="child-link" href="{{ site.baseurl }}{{ entry.url | remove: '.html' }}">{{ entry.title }}</a>
         {% endif %}
 
         {% if hasChildren %}
