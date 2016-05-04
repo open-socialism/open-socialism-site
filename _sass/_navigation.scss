@@ -207,8 +207,8 @@
 
   .cd-dropdown-content, .cd-dropdown-content ul {
     position: absolute;
-    top: 0;
     left: 0;
+    top: 0;
     height: 100%;
     width: 100%;
     overflow-x: hidden;
@@ -216,7 +216,6 @@
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;
-    padding-top: 50px;
   }
   .cd-dropdown-content a, .cd-dropdown-content ul a {
     display: block;
@@ -229,6 +228,10 @@
     border-color: #242643;
     border-style: solid;
   }
+  .cd-dropdown-content li {
+    position: relative;
+  }
+
   .cd-dropdown-content li:last-of-type > a, .cd-dropdown-content ul li:last-of-type > a {
     border-bottom-width: 1px;
   }
