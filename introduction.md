@@ -190,8 +190,4 @@ There is a lot more to Open Socialism than this, but this is the foundational co
 
 [Interesting, I'd like to know more about Open Socialism](/open-socialism).
 
-[How can we measure the quality of a societal system?](/societal-metrics).
-
-[I want to know more about the good and bad of democratic capitalism](/assess-dc).
-
-[Wow, this all sounds quite cool. Can I help?](/participate)
+[Wow, this all sounds quite cool. Can I help?](/contribute)
