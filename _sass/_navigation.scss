@@ -580,7 +580,7 @@
 
   /* Style the `label` that we use to target the `.sidebar-checkbox` */
   .sidebar-toggle {
-    position: absolute;
+    position: fixed;
     top:  1.2rem;
     left: .8rem;
     display: block;
