@@ -5,13 +5,15 @@ permalink: /contribute/
 
 So you want to help? Awesome!
 
-Start by reading the [introduction](introduction). Then checkout [Open Socialism in more detail](open-socialism). If you are feeling motivated keep on reading through the different sections.
+To learn about the system have a look at the [introduction](/introduction). Then checkout [Open Socialism in more detail](/open-socialism). If you are feeling motivated move on to the [core tenets](/open-socialism/core-tenets), then read about [circles](/open-socialism/hierarchy/circles). Keep on reading through the different sections.
+
+Also check out the [status](/status) to understand the current and next milestone for OS.
 
 ## What help is currently desired?
 
-Any help in any capacity is welcome ranging from redesigning the entire system, to making the sentences flow better to fixing typos. If you want you can even join and regularly contribute if it's something you care about.
+Any help in any capacity is welcome ranging from redesigning the entire system to fixing typos. If you want you can even join and regularly contribute if it's something you care about.
 
-Generally the most important help that is required is criticizing the system, pointing out flaws, showing evidence that OS (or parts of it) wont work and identifying missing information on OS.
+Generally at this stage the most important help that is required is criticizing the system, pointing out flaws, showing evidence that OS (or parts of it) wont work and identifying missing information on OS.
 
 Maybe OS is fundamentally broken. If you can show this it is the most valuable help because it will provide the most fuel for OS to improve.
 
