@@ -4,7 +4,7 @@ permalink: /introduction/
 ---
 ## What is 'Open Socialism'?
 
-Open Socialism is a system that is designed to be the most equitable and productive societal system given our current level of scientific and technological advancement.
+Open Socialism is a system that is designed to be the most equitable and productive societal system given our current level of scientific knowledge and technological advancement.
 
 Before we get into the specifics, let's look at the history of human societies and look at the recurring problems. Let's in particular look at Democratic Capitalism (DC) and show that whilst it has achieved a lot and it does have good parts, it is not terribly different from systems that have come before it that favor a ruling class. Let's then look into how we can take the good parts from DC and a variety of other systems and create a societal system that is far better for the vast majority of the population.
 
@@ -85,7 +85,7 @@ How do they 'rule'?
 
 Unlike previous iterations of the class system in DC the ruling class do not need to rule as such. They can satisfy their human selfish urge by amassing wealth and power in ever increasing amounts. They 'rule' only insofar as it helps them increase their wealth. This is done through largely legal means via the [lobbying system](https://en.wikipedia.org/wiki/Lobbying){:target="_blank"}. Primarily they make political campaign donations or find legal means to bribe political figures to make policy that favors them.
 
-[One study estimated the rate of return on lobbying to be ~%22000 ](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1375082){:target="_blank"}
+[One study estimated the rate of return on lobbying to be ~22,000% ](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1375082){:target="_blank"}
 
 #### The Middle Class
 
@@ -103,7 +103,7 @@ The working class are unskilled laborers and includes the unemployed and homeles
 
 The propaganda of DC is interesting in that it is the most complex that has existed.
 
-##### DC is fair and equitable. Anyone can through work become rich and each individual has freedom and equal rights.
+##### "DC is fair and equitable. Anyone can through work become rich and each individual has freedom and equal rights."
 
 Fundamental to DC propaganda is everyone is equal and the notion of freedom. Let's look into those.
 
@@ -121,6 +121,8 @@ The other option available is to attempt to become one of the ruling or middle c
 
 The option of starting a business is also risky, especially if the individual doesn't already have a nest egg of wealth. They will likely either make it and make a considerable amount of money, or the business will fail and they will be worse off as they need to pay back the debts they accumulated.
 
+The difficulty of raising ones level of wealth can be seen by [the middle class diminishing in DC countries](http://www.theguardian.com/commentisfree/2015/dec/14/the-strange-case-of-americas-disappearing-middle-class){target="_blank"}.
+
 To generalize, everyone is free to choose any number of bad options for how they work.
 
 ##### The worst system, except for all the others
@@ -133,7 +135,7 @@ It can be argued that DC is the best iteration of the class system, but this doe
 
 In fact communism, socialism (and many others such as  [cooperative businesses](https://en.wikipedia.org/wiki/Cooperative){:target="_blank"}) are certainly feasible. They have only traditionally failed because like DC the core problem of human selfishness which leads to the class system was not the primary issue being addressed. Or because they were in fact dictatorships wearing the name of communism or socialism.
 
-Capitalism itself is actually only kept in check by socialistic elements. During early capitalism and industrial times for example in [1819 there was a law passed](https://en.wikipedia.org/wiki/Cotton_Mills_and_Factories_Act_1819){:target="_blank"} that prevented children of 8 or under working in factories and children of 9-16 years working for no more than 12 hours. Children under 8 working in factories is what unrestrained capitalism looks like.
+Capitalism itself is actually only kept in check by socialistic elements. During early capitalism and industrial times for example in [1819 there was a law passed](https://en.wikipedia.org/wiki/Cotton_Mills_and_Factories_Act_1819){:target="_blank"} that prevented children of 8 or under working in factories and children of 9-16 years working for no more than 12 hours a day. Children under 8 working in factories is what unrestrained capitalism looks like.
 
 It's also worth nothing that capitalism and democracy are 300 years old.  Are we saying that in 300 years of development including the explosion of modern technology this very old system is essentially the best conceivable?
 
@@ -156,11 +158,11 @@ DC has failed because self interest largely just benefits the self, often at the
 
 ## A Naive Solution
 
-Commonly when people notice the issues of DC and propose solutions they still start with DC as a base, then layer on top more socialistic principles. Unfortunately when the base is DC which inherently based on selfish behavior that does not benefit the whole and naturally leads to the class system, it is extremely difficult and wasteful to then attempt to temper that with socialism. For example you can add more regulation and taxation on wealthy corporations and individuals, however this results in an arms race to avoid these measures by the ruling class. A large amount of resources is spent in this fight as loopholes are discovered and closed progressively. It also devolves into a rigged competiton as democracy allows for the rulling class to exert political influence and keep their loopholes.
+Commonly when people notice the issues of DC and propose solutions they still start with DC as a base, then layer on top more socialistic principles. Unfortunately when the base is DC which is inherently based on selfish behavior that does not benefit the whole and naturally leads to the class system, it is extremely difficult and wasteful to then attempt to temper that with socialism. For example you can add more regulation and taxation on wealthy corporations and individuals, however this results in an arms race to avoid these measures by the ruling class. A large amount of resources is spent in this fight as loopholes are discovered and closed progressively. It also devolves into a rigged competiton as democracy allows for the rulling class to exert political influence and keep their loopholes.
 
 ## A Solution
 
-Open Socialism is a solution to the problem stated above that starts with an idealistic base that is cooperative (socialism/communism).
+Open Socialism is a solution to the problem stated above that starts with an idealistic base that is cooperative (socialism/communism) where the people collectively own and run the means of production.
 
 Communism and socialism were close to being a viable solution in that they were at least cooperative, with everyone working together for the greater good, similar to the tribal system. However, they assumed that humans could be unselfish.
 
@@ -181,7 +183,7 @@ Here are some solutions:
 
 ### Reward Selfish Striving
 
-* Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige). The monetary rewards don't need to be extreme for being a leader to be a strongly desired role.
+* Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige). The monetary rewards don't need to be extreme for being a leader to be a strongly desired role. Humans will strive for prestige and wealth even when they are not excessive as they will try and attract a good mate by any means that are available. Extreme monetary reward actually doesn't add a lot of additional motivation for people.
 * There should be monetary or [gamified](https://en.wikipedia.org/wiki/Gamification){:target="_blank"} rewards for additional assistance to society such as proposing ideas to different parts of society that are used or types of volunteer work.
 
 By preventing corruption and rewarding individual effort a cooperative system that aligns with our psychology, much like the tribal system, is possible. Such a system can be set up that directly focuses on these core societal problems and gets better and better at dealing with them. This is a continual challenge as technology changes and human selfishness threatens corruption creeping in. Thankfully we have the intelligence and the technology to address these problems if we can just recognize them for what they are.
