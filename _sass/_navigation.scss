@@ -618,9 +618,10 @@
     background-image:         linear-gradient(to bottom, #fff, #fff 20%, #555 20%, #555 40%, #fff 40%, #fff 60%, #555 60%, #555 80%, #fff 80%, #fff 100%);
   }
 
-  @media (min-width: 30.1em) {
+  @media only screen and (min-width: 1024px) {
     .sidebar-toggle {
-      position: fixed;
+      top: -1rem;
+      padding-top: 0;
     }
   }
 
