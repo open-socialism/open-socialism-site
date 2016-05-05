@@ -30,9 +30,9 @@
         {% if isOverview == true %}
           <a href="{{ site.baseurl }}{{ entry.url | remove: '.html' }}">Overview</a>
         {% elsif entry.placeholder == true %}
-          <a href="#" class="placeholder-link">{{ entry.title }}</a>
+          <a href="#" class="placeholder-link" title="{{ entry.title }}">{{ entry.title }}</a>
         {% else %}
-          <a class="child-link" href="{{ site.baseurl }}{{ entry.url | remove: '.html' }}">{{ entry.title }}</a>
+          <a class="child-link" href="{{ site.baseurl }}{{ entry.url | remove: '.html' }}" title="{{ entry.title }}">{{ entry.title }}</a>
         {% endif %}
 
         {% if hasChildren %}
