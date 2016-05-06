@@ -13,7 +13,7 @@
   {% for entry in entries %}
 
     {% if entry.url contains root and entry.placeholder != true %}
-      <li><a href="{{entry.url}}">{{entry.title}}</a></li>
+      <li><a href="{{ entry.url | remove: '.html' }}">{{entry.title}}</a></li>
     {% endif %}
 
   {% endfor %}
