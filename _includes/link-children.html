@@ -1,0 +1,20 @@
+<ul>
+  {% assign entries = site.pages | sort: "path" %}
+
+  {% if include.rootPath %}
+    {% assign root = include.rootPath %}
+  {% else %}
+    {% capture slug    %}/{{ page.url | split: "/"   | last               }}{% endcapture %}
+    {% capture current %}{{ page.url | remove: slug | append: "/" | replace: "//", "/" }}{% endcapture %}
+
+    {% assign root = current %}
+  {% endif %}
+
+  {% for entry in entries %}
+
+    {% if entry.url contains root and entry.placeholder != true %}
+      <li><a href="{{entry.url}}">{{entry.title}}</a></li>
+    {% endif %}
+
+  {% endfor %}
+</ul>
