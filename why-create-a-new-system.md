@@ -16,13 +16,13 @@ However, that was 300 years ago. Since then a massive amount has changed, not le
 
 ## DC has been getting worse
 
-DC steadily improved in terms of wealth equality until the 1970s and since then it has steadily gotten worse. Productivity is continuing to dramatically improve and yet all but the super rich are getting less and less of the pie. The wealth is not [trickling down](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} and the middle class is constantly shrinking.
+DC steadily improved in terms of wealth equality until the 1970s and since then it has steadily gotten worse. Productivity is continuing to dramatically improve and yet only those already very rich are seeing the benefits. The wealth is not [trickling down](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} and the middle class is constantly shrinking. [President Obama has called 'wealth inequality the defining challenge of our time'](https://www.whitehouse.gov/the-press-office/2013/12/04/remarks-president-economic-mobility){:target="_blank"}.
 
 On a global scale as well DC is very destructive in that it exploits poverty for cheap labor and nations with sweat shops are not being paid fairly for their work and are not able to fix their countries. Meanwhile workers in first world countries and losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. [On the global level there is now startling wealth inequality with the 62 people having the same amount of wealth as the bottom 3.5 billion](https://www.oxfam.org.au/media/2016/01/62-people-own-same-as-half-the-world-oxfam/){:target="_blank"}.
 
 DC is causing repeated financial crisis in a boom bust boom pattern that is quite destructive for everyone but those already wealthy.
 
-[President Obama on some of the issues with democracy in the USA](https://www.youtube.com/watch?v=AxuwazaXOMg){:target="_blank"}.
+Democracy is also compromised with big money corrupting politics via the [lobbying system](https://en.wikipedia.org/wiki/Lobbying){:target="_blank"}. [President Obama on some of the issues with democracy in the USA](https://www.youtube.com/watch?v=AxuwazaXOMg){:target="_blank"}.
 
 In short DC has had some good years but at the moment it is very inequitable and unstable. Yes, the USA is particularly bad example, but all DC countries are following the same trends of wealth inequality and a manipulated democracy.
 
@@ -47,5 +47,7 @@ Even if we can't suddenly switch to a new system at least documenting and iterat
 Firstly, there is amazing technology available that can allow for totally new ways of organizing people. For example though technology a referendum could be a trivial matter to run. Society could be run by every decision being voted on by anyone in the population who wants to. That would be an extreme democracy! The point is that so much is possible now and at the very least it is worth considering options that weren't available 300 years ago when DC started.
 
 Secondly, business and more specifically technology companies have advanced methods of organizing people and making decisions. These techniques have proven to be highly sophisticated and productive. This is a lot of the reason why companies like Google are so effective. [This video goes into a bunch of these practices used at Spotify without too much technobabble](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/){:target="blank"}. Additionally, free software, known as 'Open Source' which is created by remote volunteers has created the [open source model](https://en.wikipedia.org/wiki/Open-source_model){:target="blank"} for managing teams which is also highly advanced and productive.
+
+This open source model can also be used to develop an alternative to DC very effectively as well.
 
 We have the technology and the knowledge to make ambitious new systems for managing people and society. So let's do it!
