@@ -51,3 +51,5 @@ Secondly, business and more specifically technology companies have advanced meth
 This open source model can also be used to develop an alternative to DC very effectively as well.
 
 We have the technology and the knowledge to make ambitious new systems for managing people and society. So let's do it!
+
+[Check out the introduction](/introduction)
