@@ -13,7 +13,7 @@ Also check out the [plan](/plan) to understand the current and next milestone fo
 
 Any help in any capacity is welcome ranging from redesigning the entire system to fixing typos. If you want you can even join and regularly contribute if it's something you care about.
 
-Generally at this stage the most important help that is required is criticizing the system, pointing out flaws, showing evidence that OS (or parts of it) wont work and identifying missing information on OS.
+Generally at this stage the most important help that is required is criticizing the system, pointing out flaws, showing evidence that OS (or parts of it) wont work and identifying missing information in OS.
 
 Maybe OS is fundamentally broken. If you can show this it is the most valuable help because it will provide the most fuel for OS to improve.
 
