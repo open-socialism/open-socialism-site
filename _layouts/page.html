@@ -23,14 +23,24 @@ layout: default
 </ul>
 
 <article class="page">
-  {% assign pagePath = page.path | replace: 'open-socialism/', '' %}
+
   {% assign pathParts = page.path | split: '/' %}
-  {% assign sectionName = pathParts.first %}
+  {% assign rootPath = pathParts | first %}
+
+  {% if rootPath != 'open-socialism' and rootPath != 'assess-dc' and rootPath != 'societal-metrics' %}
+    {% assign sectionName = 'open-socialism.github.io' %}
+    {% assign repoRelativePath = page.path %}
+  {% else %}
+    {% assign sectionName = rootPath %}
+    {% capture slashWrappedSectionName %}/{{ sectionName }}/{% endcapture %}
+    {% capture beginSlashPrependedPagePath %}/{{ page.path }}{% endcapture %}
+    {% assign repoRelativePath = beginSlashPrependedPagePath | remove: slashWrappedSectionName %}
+  {% endif %}
 
   <div>{{ page.section }}</div>
 
   <div class="page-links">
-    <a href="https://github.com/open-socialism/{{sectionName}}/edit/master/{{pagePath}}">Edit</a>
+    <a href="https://github.com/open-socialism/{{sectionName}}/edit/master/{{repoRelativePath}}">Edit</a>
     <a href="https://github.com/open-socialism/{{sectionName}}/issues/new?title={{page.title}} feedback - ">Feedback</a>
   </div>
 

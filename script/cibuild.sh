@@ -7,4 +7,4 @@ if echo "${JEKYLLBUILDOUTPUT}" | grep -i -q "ERROR"; then
     printf '%s\n' 'An Error was found in the Jekyll build' >&2
     exit 1
 fi
-bundle exec 'htmlproof ./_site --href_ignore "#"'
+bundle exec 'htmlproofer ./_site --url-ignore=#,#0 --assume-extension'
