@@ -31,6 +31,6 @@ You can click feedback on a page to provide feedback ([github](https://github.co
 
 To directly suggest improvements you will also need a [github](https://github.com/join){:target="_blank"} account.
 
-Once this is done you can click edit on any page and you will be able to make changes. [Follow these instructions to suggest a change](https://help.github.com/articles/editing-files-in-your-repository).
+Once this is done you can click edit on any page and you will be able to make changes. [Follow these instructions to suggest a change](https://help.github.com/articles/editing-files-in-your-repository){:target="_blank"}.
 
 If this sounds too difficult don't worry, just suggest changes via the feedback options.
