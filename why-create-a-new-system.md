@@ -28,7 +28,7 @@ In short DC has had some good years but at the moment it is very inequitable and
 
 ## Even the president of the USA recognizes the issues, but why is no one talking about alternative systems?
 
-This is the startling thing. Why is there no talk publicly about alternative systems when DC, a 300 year old system, has all these problems. Why aren't you looking at this going 'Oh not another guy with a DC alternative' but are instead probably thinking 'Oh wow, some DC alternative? Hmm but we know that communism doesn't work right, what else could there be? Democracy, equal rights, freedom, these are all great things, what alternative could there possibly be?'.
+This is the startling thing. Why is there no talk publicly about alternative systems when DC, a 300 year old system, has all these problems. Why aren't you looking at this going 'Oh not another person with a new political system' but are instead probably thinking 'Oh wow, some DC alternative? Hmm but we know that communism doesn't work right, what else could there be? Democracy, equal rights, freedom, these are all great things, what alternative could there possibly be?'.
 
 <blockquote>
 A map of the world that does not include Utopia is not worth even glancing at, for it leaves out the one country at which Humanity is always landing. And when Humanity lands there, it looks out, and, seeing a better country, sets sail. Progress is the realization of Utopias. <cite>Oscar Wilde</cite>
