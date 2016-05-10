@@ -14,7 +14,7 @@ Create an initial draft of the concept with some facts but without going through
 
 ## Promote to special interest groups via the internet
 
-Create a version that is more fleshed out with facts and flows better to be more accessible and convincing. Then post the site on widening circles of special interest groups to solicit feedback and contributors. For example https://www.reddit.com/r/capitalism
+Create a version that is more fleshed out with facts and flows better to be more accessible and convincing. Then post the site on widening circles of special interest groups to solicit feedback and contributors. For example [https://www.reddit.com/r/capitalism](https://www.reddit.com/r/capitalism){:target="_blank"}
 
 ## Promote to the general public
 
