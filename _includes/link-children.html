@@ -4,10 +4,7 @@
   {% if include.rootPath %}
     {% assign root = include.rootPath %}
   {% else %}
-    {% capture slug    %}/{{ page.url | split: "/"   | last               }}{% endcapture %}
-    {% capture current %}{{ page.url | remove: slug | append: "/" | replace: "//", "/" }}{% endcapture %}
-
-    {% assign root = current %}
+    {% assign root = page.url | remove: 'index.html' %}
   {% endif %}
 
   {% for entry in entries %}
