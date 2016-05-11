@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: http://opensocialism.com
 github_username:  open-socialism
 analytics_id: UA-75947611-1
+exclude: ["vendor"]
 
 # Build settings
 markdown: kramdown
