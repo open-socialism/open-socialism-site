@@ -75,6 +75,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .container {
   max-width: 28rem;
+  position: relative;
 }
 @media (min-width: 38em) {
   .container {
@@ -124,92 +125,16 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-
-/*
- * Sidebar
- *
- * The sidebar is the drawer, the item we are toggling with our handy hamburger
- * button in the corner of the page.
- *
- * This particular sidebar implementation was inspired by Chris Coyier's
- * "Offcanvas Menu with CSS Target" article, and the checkbox variation from the
- * comments by a reader. It modifies both implementations to continue using the
- * checkbox (no change in URL means no polluted browser history), but this uses
- * `position` for the menu to avoid some potential content reflow issues.
- *
- * Source: http://css-tricks.com/off-canvas-menu-with-css-target/#comment-207504
- */
-
-/* Style and "hide" the sidebar */
-.sidebar {
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  left: -14rem;
-  width: 14rem;
-  visibility: hidden;
-  overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: .875rem; /* 15px */
-  color: rgba(255,255,255,.6);
-  background-color: #202020;
-  -webkit-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;
-}
-@media (min-width: 30em) {
-  .sidebar {
-    font-size: .75rem; /* 14px */
-  }
-}
-
-/* Sidebar content */
-.sidebar a {
-  font-weight: normal;
-  color: #fff;
-}
-.sidebar-item {
-  padding: 1rem;
-}
-.sidebar-item p:last-child {
-  margin-bottom: 0;
-}
-
-/* Sidebar nav */
-.sidebar-nav {
-  border-bottom: 1px solid rgba(255,255,255,.1);
-}
-.sidebar-nav-item {
-  display: block;
-  padding: .5rem 1rem;
-  border-top: 1px solid rgba(255,255,255,.1);
-}
-.sidebar-nav-item.active,
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: none;
-  background-color: rgba(255,255,255,.1);
-  border-color: transparent;
-}
-
-@media (min-width: 48em) {
-  .sidebar-item {
-    padding: 1.5rem;
-  }
-  .sidebar-nav-item {
-    padding-left:  1.5rem;
-    padding-right: 1.5rem;
-  }
-}
-
-/* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
-.sidebar-checkbox {
+.github-icon-container {
   position: absolute;
-  opacity: 0;
-  -webkit-user-select: none;
-     -moz-user-select: none;
-          user-select: none;
-}
+  top: 0;
+  right: 0;
 
+  .icon > svg {
+    height: 20px;
+    width: 20px;
+  }
+}
 
 /*
  * Posts and pages
