@@ -21,7 +21,11 @@ Maybe OS is fundamentally broken. If you can show this it is the most valuable h
 
 ### Complete the survey
 
-Complete [the Open Socialism survey](https://docs.google.com/forms/d/1fbNE7hpmryylvsILKRK18PYORs4Mxkf7qOLOkiFDww0/viewform){:target="_blank"} to give general feedback.
+Complete [the Open Socialism survey](https://docs.google.com/forms/d/1fbNE7hpmryylvsILKRK18PYORs4Mxkf7qOLOkiFDww0/viewform){:target="_blank"}.
+
+### Provide general feedback
+
+[Provide general feedback](https://docs.google.com/forms/d/1FFv6d9JLqP23ZSKLjj63bPuzKtl6VaSRxqDM4VdFYdg/viewform){:target="_blank"}
 
 ### Provide page specific feedback
 
