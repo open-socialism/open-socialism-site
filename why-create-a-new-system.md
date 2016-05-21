@@ -20,7 +20,7 @@ DC steadily improved in terms of wealth equality until the 1970s and since then 
 
 On a global scale as well DC is very destructive in that it exploits poverty for cheap labor and nations with sweat shops are not being paid fairly for their work and are not able to fix their countries. Meanwhile workers in first world countries and losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. [On the global level there is now startling wealth inequality with the 62 people having the same amount of wealth as the bottom 3.5 billion](https://www.oxfam.org.au/media/2016/01/62-people-own-same-as-half-the-world-oxfam/){:target="_blank"}.
 
-DC is causing repeated financial crisis in a boom bust boom pattern that is quite destructive for everyone but those already wealthy.
+DC is causing repeated financial crisis in a boom bust boom pattern that is quite destructive for everyone but those already wealthy. All the while it is proving to be highly destructive to the environment which is totally unexceptable for our generation to be doing.
 
 Democracy is also compromised with big money corrupting politics via the [lobbying system](https://en.wikipedia.org/wiki/Lobbying){:target="_blank"}. [President Obama on some of the issues with democracy in the USA](https://www.youtube.com/watch?v=AxuwazaXOMg){:target="_blank"}.
 
