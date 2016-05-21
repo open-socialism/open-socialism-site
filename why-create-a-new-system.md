@@ -28,6 +28,8 @@ In short DC has had some good years but at the moment it is very inequitable and
 
 If you want to dive further into DC issues check out the [assess DC section](/assess-dc). Or [Requiem for the American Dream](http://requiemfortheamericandream.com/){:target="_blank"} is a fantastic film and a deep dive into the fundamental issues. It is focused on the USA which is probably the worst example of DC, but as mentioned the same trends and issues are seen in all DC countries.
 
+Also, ['What about the good example of DC such as Norway?'](/open-socialism/criticisms/there-are-great-dc-countries)
+
 ## Even the president of the USA recognizes the issues, but why is no one talking about alternative systems?
 
 This is the startling thing. Why is there no talk publicly about alternative systems when DC, a 300 year old system, has all these problems. Why aren't you looking at this going 'Oh not another person with a new political system' but are instead probably thinking 'Oh wow, some DC alternative? Hmm but we know that communism doesn't work right, what else could there be? Democracy, equal rights, freedom, these are all great things, what alternative could there possibly be?'.
