@@ -139,7 +139,7 @@ Capitalism itself is actually only kept in check by socialistic elements. During
 
 It's also worth nothing that capitalism and democracy are 300 years old. Are we saying that in 300 years of development including the explosion of modern technology this very old system is essentially the best conceivable?
 
-Also modern DC is very UNdemocratic and UNcapitalistic. Using wealth and power for political influence is the antithesis of democracy and the free market (capitalism). 'The current system is the best and only one possible' is overly simplistic. There are many people who simple want to fix DC by moving to more democracy and capitalism. Point being the current iteration of DC is certainly not the be all and end all of societal systems!
+Also modern DC is very UNdemocratic and UNcapitalistic. Using wealth and power for political influence is the antithesis of democracy and the free market (capitalism). 'The current system is the best and only one possible' is overly simplistic. [There are many people who simple want to fix DC by moving to more democracy and capitalism](https://www.youtube.com/watch?v=5fbvquHSPJU){:target="_blank"}. Point being the current iteration of DC is certainly not the be all and end all of societal systems!
 
 ## The Problem To Solve
 
@@ -166,7 +166,7 @@ Open Socialism is a solution to the problem stated above that starts with an ide
 
 Communism and socialism were close to being a viable solution in that they were at least cooperative, with everyone working together for the greater good, similar to the tribal system. However, they assumed that humans could be unselfish.
 
-Whilst we as individuals don't particularly have the ability to suddenly not be selfish. We do have powerful brains and we have the ability to create systems that don't require humans to be unselfish.
+Whilst we as individuals don't particularly have the ability to suddenly not be selfish we do have powerful brains and can use our intellect to create systems that don't require humans to be unselfish.
 
 In fact two simple additions are all that is required to make communism/socialism work in such a way. This is far less effort than the complexity of mitigating the inherent issues of DC.
 
@@ -186,7 +186,7 @@ Here are some solutions:
 * Rising up in society and doing more critical work for society should result in monetary rewards (as well as prestige). The monetary rewards don't need to be extreme for being a leader to be a strongly desired role. Humans will strive for prestige and wealth even when they are not excessive as they will try and attract a good mate by any means that are available. Extreme monetary reward actually doesn't add a lot of additional motivation for people.
 * There should be monetary or [gamified](https://en.wikipedia.org/wiki/Gamification){:target="_blank"} rewards for additional assistance to society such as proposing ideas to different parts of society that are used or types of volunteer work.
 
-By preventing corruption and rewarding individual effort a cooperative system that aligns with our psychology, much like the tribal system, is possible. Such a system can be set up that directly focuses on these core societal problems and gets better and better at dealing with them. This is a continual challenge as technology changes and human selfishness threatens corruption creeping in. Thankfully we have the intelligence and the technology to address these problems if we can just recognize them for what they are.
+By preventing corruption and rewarding individual effort a cooperative and highly productive system that aligns with our psychology, much like the tribal system, is possible. Such a system can be set up that directly focuses on these core societal problems and improves over time at dealing with them. This is a continual challenge as technology changes and human selfishness threatens corruption creeping in. Thankfully we have the intelligence and the technology to address these problems if we can just recognize them for what they are.
 
 There is a lot more to Open Socialism than this, but this is the foundational concept that can enable a highly productive and fulfilling society that benefits everyone.
 
