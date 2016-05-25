@@ -103,7 +103,7 @@ The working class are unskilled laborers and includes the unemployed and homeles
 
 The propaganda of DC is interesting in that it is the most complex that has existed.
 
-##### "DC is fair and equitable. Anyone can through work become rich and each individual has freedom and equal rights."
+##### 'DC is fair and equitable. Anyone can through work become rich and each individual has freedom and equal rights.'
 
 Fundamental to DC propaganda is everyone is equal and the notion of freedom. Let's look into those.
 
@@ -137,7 +137,7 @@ In fact communism, socialism (and many others such as  [cooperative businesses](
 
 Capitalism itself is actually only kept in check by socialistic elements. During early capitalism and industrial times for example in [1819 there was a law passed](https://en.wikipedia.org/wiki/Cotton_Mills_and_Factories_Act_1819){:target="_blank"} that prevented children of 8 or under working in factories and children of 9-16 years working for no more than 12 hours a day. Children under 8 working in factories is what unrestrained capitalism looks like.
 
-It's also worth nothing that capitalism and democracy are 300 years old.  Are we saying that in 300 years of development including the explosion of modern technology this very old system is essentially the best conceivable?
+It's also worth nothing that capitalism and democracy are 300 years old. Are we saying that in 300 years of development including the explosion of modern technology this very old system is essentially the best conceivable?
 
 Also modern DC is very UNdemocratic and UNcapitalistic. Using wealth and power for political influence is the antithesis of democracy and the free market (capitalism). 'The current system is the best and only one possible' is overly simplistic. There are many people who simple want to fix DC by moving to more democracy and capitalism. Point being the current iteration of DC is certainly not the be all and end all of societal systems!
 
