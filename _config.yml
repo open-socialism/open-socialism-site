@@ -7,6 +7,8 @@ url: http://opensocialism.com
 github_username:  open-socialism
 analytics_id: UA-75947611-1
 exclude: ["vendor"]
+url: https://opensocialism.com
+enforce_ssl: opensocialism.com
 
 # Build settings
 markdown: kramdown
