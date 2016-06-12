@@ -67,9 +67,11 @@ This process snowballs until you have extremely powerful rulers.
 
 The challenge the ruling class has is that as they become increasingly powerful (and others become less powerful) there is more chance of those beneath them getting fed up and revolting. As such they need propaganda, which the middle class greatly assists with, to control the working class. This propaganda can take a few forms:
 
-* The rulers are special. Holy, ordained, superhuman, chosen by God, etc.
+* The rulers are special. Holy, ordained, superhuman, chosen by God, geniuses, 'winners', etc.
 * Create the illusion that the current distribution is actually just.
 * Those in power are too powerful and can never be resisted.
+
+Interestingly the ruling class will often buy into this propaganda themselves and think that they are special.
 
 ### Democratic Capitalism
 
