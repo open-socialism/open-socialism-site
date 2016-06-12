@@ -152,7 +152,7 @@ A system is needed that:
 * is sustainable in the long term
 * ensures the survival of the society
 
-Put simply, humans should be being selfish in ways that increase the chance of their genes being passed on but at the same time  that are cooperative and benefit society as a whole.
+Put simply, humans should be being selfish in ways that increase the chance of their genes being passed on but at the same time that are cooperative and benefit society as a whole.
 
 DC has failed because self interest largely just benefits the self, often at the expense of others. Communism and socialism have failed because they assumed that humans are inherently 'good' and in the right environment, with the right humans they won't be selfish at all.
 
