@@ -40,3 +40,10 @@ Once this is done you can click edit on any page and you will be able to make ch
 If you are making a significant change please read the [contributing guidelines](https://github.com/open-socialism/open-socialism.github.io/blob/master/CONTRIBUTING.md){:target="_blank"}
 
 If this sounds too difficult don't worry, just suggest changes via the feedback options.
+
+## I want to help, is there any recommended reading?
+
+If you want to help but feel like you need more knowledge of human history and societies the following books are good.
+
+* [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095){:target="_blank"}. A history of Homo Sapiens and societies.
+* [Utopia for Realsts](https://thecorrespondent.com/utopia-for-realists/){:target="_blank"}. Gives a good summary of the current state of affairs with DC (and suggests some good steps DC can move towards).
