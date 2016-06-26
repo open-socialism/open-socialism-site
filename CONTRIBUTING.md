@@ -37,3 +37,7 @@ eg.
 {&#37; endcomment &#37;}
 
 To avoid building the nav which causes the build to take about 7 minutes. Just make sure you don't commit this change.
+
+### Browser Support ###
+
+These browsers and versions http://browsehappy.com
