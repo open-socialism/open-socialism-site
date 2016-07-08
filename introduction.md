@@ -12,7 +12,7 @@ Before we get into the specifics, let's look at the history of human societies a
 
 ### The Nomadic Tribe
 
-About 200,000 years ago modern humans evolved from primates.
+About 200,000 years ago modern humans evolved.
 
 Humans lived in nomadic tribes. Everyone basically had the same job of hunting and gathering. Whilst some individuals might be leadership figures of a tribe they did not dominate others in the tribe and each individual got a relatively even share of the tribes resources.
 
@@ -20,7 +20,7 @@ Tribes were closely bonded kin and each individual had a strong sense of belongi
 
 It is important to note that physiologically we have not significantly changed from those humans of old. We are still the same humans that if raised in a tribe would fit perfectly into it. This is a society in which our natural instincts and ways of organizing ourselves suit the environment perfectly. There is leadership based on merit, small wealth and power inequality and a strong sense of community. In a sense it is the perfect society for us, however it is not feasible on a global scale at the level of population the earth now has.
 
-Why do such societies so perfectly fit our psychology? The main reason is our own self interest almost perfectly aligns with the interest of our tribe. If in this environment we took a capitalistic approach and hoarded our own food we would be shunned and expelled (or worse). A bunch of humans working for themselves is less productive than humans working together (and by extension for themselves at the same). Being valuable to your tribe, providing good leadership, all these things help yourself and your tribe at the same time. This is why the tribal system is so good and why our ancestors who worked together were selected by natural selection.
+Why do such societies so perfectly fit our psychology? The main reason is our own self interest almost perfectly aligns with the interest of our tribe. If in this environment we took a capitalistic approach and hoarded our own food we would be shunned and expelled (or worse). A bunch of humans working for themselves is less productive than humans working together. Being valuable to your tribe, providing good leadership, all these things help yourself and your tribe at the same time. This is why the tribal system is so good and why our ancestors who worked together were selected by natural selection.
 
 Not only is this working together more effective, it is also hard wired into our psychology and cooperation, belonging to a tribe is tremendously satisfying and ultimately a strong need of ours.
 
@@ -38,7 +38,7 @@ Since agriculture and commerce the tribal system collapsed and we were suddenly 
 
 However, the selfish system of individuals is less productive, less satisfying and is analogous to candy. Similarly to how when our environment limits our intake of sweets and survival is tough sweet foods are great because they have a lot of energy. Although nowadays we have endless access to cheap candy and struggle to fight our instincts to over consume. The tribal environment no longer exists and our selfish instincts hurt us (as we become lonely loners) and hurt society with decreased productivity due to the inefficieny of large amounts of resources being expended for competition.
 
-One core metric of a society is to what degree does selfish human behavior coincide with the greater good. The tribal system was almost perfect. Since then there hasn't been a society that has been remotely close. What we have had since then is the class based system.
+The core metric of a society is to what degree does selfish human behavior coincide with the greater good. The tribal system was almost perfect. Since then there hasn't been a society that has been remotely close. What we have had since then is the class based system.
 
 ### The Class System
 
@@ -139,7 +139,7 @@ In fact communism, socialism (and many others such as  [cooperative businesses](
 
 Capitalism itself is actually only kept in check by socialistic elements. During early capitalism and industrial times for example in [1819 there was a law passed](https://en.wikipedia.org/wiki/Cotton_Mills_and_Factories_Act_1819){:target="_blank"} that prevented children of 8 or under working in factories and children of 9-16 years working for no more than 12 hours a day. Children under 8 working in factories is what unrestrained capitalism looks like.
 
-It's also worth nothing that capitalism and democracy are 300 years old. Are we saying that in 300 years of development including the explosion of modern technology this very old system is essentially the best conceivable?
+It's also worth nothing that modern capitalism and democracy are 300 years old. Are we saying that in 300 years of development including the explosion of modern technology this very old system is essentially the best conceivable?
 
 Also modern DC is very UNdemocratic and UNcapitalistic. Using wealth and power for political influence is the antithesis of democracy and the free market (capitalism). 'The current system is the best and only one possible' is overly simplistic. [There are many people who simple want to fix DC by moving to more democracy and capitalism](https://www.youtube.com/watch?v=5fbvquHSPJU){:target="_blank"}. Point being the current iteration of DC is certainly not the be all and end all of societal systems!
 
