@@ -25,19 +25,3 @@ Wikipedia links are more reliable than links to articles as they are constantly 
 Use a conversational tone to communicate as clearly as possible. [http://paulgraham.com/talk.html](http://paulgraham.com/talk.html) explains this concept in more detail.
 
 The goal is to be clear and convincing. Not wow people with big words or grand prose.
-
-## Technical
-
-To run the site locally ruby + jekyll latest is required. Recommend in _layouts/default.html wrap the navigation in liquid template comments.
-
-eg.
-
-{&#37; comment &#37;}
-{&#37; include nav.html &#37;}
-{&#37; endcomment &#37;}
-
-To avoid building the nav which causes the build to take about 7 minutes. Just make sure you don't commit this change.
-
-### Browser Support ###
-
-These browsers and versions http://browsehappy.com
