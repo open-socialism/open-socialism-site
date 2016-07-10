@@ -10,7 +10,6 @@ based upon https://codyhouse.co/demo/mega-dropdown/index.html
       {% assign entries = site.pages | sort: "path" %}
       <li><a href="/introduction">Introduction</a></li>
       <li><a href="/why-create-a-new-system">Why Create This?</a></li>
-      {% comment %}
       <li class="has-children">
         <a href="/open-socialism">The System</a>
 
@@ -26,7 +25,6 @@ based upon https://codyhouse.co/demo/mega-dropdown/index.html
 
         {% include nav-list.html context="/assess-dc/" entries=entries title="Assess DC" %}
       </li>
-      {% endcomment %}
       <li><a href="/contribute">Contribute</a></li>
       <li><a href="https://docs.google.com/forms/d/1fbNE7hpmryylvsILKRK18PYORs4Mxkf7qOLOkiFDww0/viewform" target="_blank">Take the Survey</a></li>
       <li><a href="https://docs.google.com/forms/d/1FFv6d9JLqP23ZSKLjj63bPuzKtl6VaSRxqDM4VdFYdg/viewform" target="_blank">General Feedback</a></li>
