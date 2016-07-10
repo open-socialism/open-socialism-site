@@ -16,11 +16,11 @@ However, that was 300 years ago. Since then a massive amount has changed, not le
 
 ## DC has been getting worse
 
-DC improved in terms of wealth equality until the 1970s and since then it has steadily gotten worse. Productivity is continuing to dramatically improve and yet only those already very rich are seeing the benefits. The wealth is not [trickling down](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} and the middle class is constantly shrinking. [President Obama has called 'wealth inequality the defining challenge of our time'](https://www.whitehouse.gov/the-press-office/2013/12/04/remarks-president-economic-mobility){:target="_blank"}.
+DC improved in terms of wealth equality leading up to the 1970s and since then it has steadily gotten worse. Productivity is continuing to dramatically improve and yet only those already very rich are seeing the benefits. The wealth is not [trickling down](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} and the middle class is constantly shrinking. [President Obama has called wealth inequality 'the defining challenge of our time'](https://www.whitehouse.gov/the-press-office/2013/12/04/remarks-president-economic-mobility){:target="_blank"}.
 
-On a global scale as well DC is very destructive in that it exploits poverty for cheap labor and nations with sweat shops are not being paid fairly for their work and are not able to fix their countries. Meanwhile workers in first world countries and losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. [On the global level there is now startling wealth inequality with the 62 people having the same amount of wealth as the bottom 3.5 billion](https://www.oxfam.org.au/media/2016/01/62-people-own-same-as-half-the-world-oxfam/){:target="_blank"}.
+On a global scale as well DC is very destructive in that it exploits poverty for cheap labor and nations with sweat shops are not being paid fairly for their work and are not able to fix their countries. Meanwhile workers in first world countries are losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. [On the global level there is now startling wealth inequality with the wealthiest 62 people having the same amount of wealth as the bottom 3.5 billion](https://www.oxfam.org.au/media/2016/01/62-people-own-same-as-half-the-world-oxfam/){:target="_blank"}. This is greater wealth inequality than has ever existed before.
 
-DC is causing repeated financial crisis in a boom bust boom pattern that is quite destructive for everyone but those already wealthy. All the while it is proving to be highly destructive to the environment which is totally unexceptable for our generation to be doing.
+DC is causing repeated financial crisis in a boom bust boom pattern that is quite destructive for everyone but those already wealthy. All the while it is proving to be highly destructive to the environment which is totally unexceptable for our generation to be doing. The worst example of this is of course global warking. [Elon Musk sums up what we are doing very well in this video](https://www.youtube.com/watch?v=xKCuDxpccYM).
 
 Democracy is also compromised with big money corrupting politics via the [lobbying system](https://en.wikipedia.org/wiki/Lobbying){:target="_blank"}. [President Obama on some of the issues with democracy in the USA](https://www.youtube.com/watch?v=AxuwazaXOMg){:target="_blank"}.
 
@@ -28,7 +28,7 @@ In short DC has had some good years but at the moment it is very inequitable and
 
 If you want to dive further into DC issues check out the [assess DC section](/assess-dc). Or [Requiem for the American Dream](http://requiemfortheamericandream.com/){:target="_blank"} is a fantastic film and a deep dive into the fundamental issues. It is focused on the USA which is probably the worst example of DC, but as mentioned the same trends and issues are seen in all DC countries.
 
-Also, ['What about the good example of DC such as Norway?'](/open-socialism/criticisms/there-are-great-dc-countries)
+Also, ['What about a good example of DC such as Norway?'](/open-socialism/criticisms/there-are-great-dc-countries)
 
 ## Even the president of the USA recognizes the issues, but why is no one talking about alternative systems?
 
@@ -40,7 +40,7 @@ A map of the world that does not include Utopia is not worth even glancing at, f
 
 Shouldn't we be looking for the next Utopia? Or at least look to take new steps to achieve a better world?
 
-[Utopia for realists](https://thecorrespondent.com/utopia-for-realists/){:target="_blank"} is an excellent book on large strides we can make with the existing system. It is also a remarkably rare example of media that strongly questions the existing system. However, even more remarkably there are no current compelling examples of proposed alternative systems. With the number of highly educated people in the world this is quite amazing.
+[Utopia for realists](https://thecorrespondent.com/utopia-for-realists/){:target="_blank"} is an excellent book on large strides we can make with the existing system. It is also a remarkably rare example of media that strongly questions the current system. However, even more remarkably there are no current compelling examples of proposed alternative systems. With the number of highly educated people in the world this is quite amazing.
 
 ## There is value in considering what a modern utopian society would look like
 
@@ -52,8 +52,6 @@ There is amazing technology available that can allow for totally new ways of org
 
 Business and more specifically technology companies have advanced methods of organizing people and making decisions. These techniques have proven to be highly sophisticated and productive. This is a lot of the reason why companies like Google are so effective. [This video goes into a bunch of these practices used at Spotify without too much technobabble](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/){:target="blank"}. Additionally, free software, known as 'Open Source' which is created by remote volunteers has created the [open source model](https://en.wikipedia.org/wiki/Open-source_model){:target="blank"} for managing teams which is also highly advanced and productive.
 
-This open source model can also be used to develop an alternative to DC very effectively as well.
-
-We have the technology and the knowledge to make ambitious new systems for managing people and society. So let's do it!
+We have the technology and the knowledge to make ambitious new systems for managing people and society. Let's work together on taking a big stride forward as a species.
 
 [Check out the introduction](/introduction)
