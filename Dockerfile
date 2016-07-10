@@ -16,4 +16,4 @@ ADD . /work
 
 EXPOSE 4000
 
-CMD jekyll serve --incremental -H 0.0.0.0
+CMD bundle exec jekyll serve --incremental -H 0.0.0.0
