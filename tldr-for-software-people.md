@@ -1,8 +1,8 @@
 ---
-title: 'tl;dr; for software people'
+title: 'tl;dr for software people'
 ---
 
-## tl;dr; of the tl;dr
+## tl;dr of the tl;dr
 
 Democratic capitalism (DC) had some good years and achieved a lot, but it has started to be highly inequitable and exploitative. With modern technology, science and project/team management, many of which we learn about in our jobs as software people we can create much better systems. We can create a cooperative system that is much more equitable and productive than DC.
 
