@@ -9,12 +9,12 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 ## Democratic capitalism (DC) not so good
 
 * DC is performing really poorly in terms of being equitable. [The wealthiest 1% in the world have more wealth than the bottom 99%. The wealthiest 62 people have as much wealth as the bottom 3.5 billion.](http://policy-practice.oxfam.org.uk/publications/an-economy-for-the-1-how-privilege-and-power-in-the-economy-drive-extreme-inequ-592643){:target="_blank"}.
-* DC is damaging the environment. Worst example, [Elon Musk sums this up really well and talks about how 97% of scientists believe the transition to sustainable energy will the catastroptic](https://www.youtube.com/watch?v=xKCuDxpccYM){:target="_blank"}
+* DC is damaging the environment. Worst example, [Elon Musk sums this up really well and talks about how 97% of scientists believe the transition to sustainable energy will the catastroptic](https://www.youtube.com/watch?v=xKCuDxpccYM){:target="_blank"}.
 * DC as a system is about 300 years old. Can't we do better with the explosion of modern technology and science?
 
 [More on the case for change](https://opensocialism.com/why-create-a-new-system)
 
-## Software people in a great position to design a new system
+## Software people are in a great position to design a new system
 
 * We work at the forefront of team, project and culture development including developments such as Agile and the open source model.
 * We understand technology and what kind of system through technology is possible.
@@ -30,11 +30,11 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 
 ## What is a good new system then?
 
-* Look at a company like Google. It has no bias to any particular system. It primarily works on a cooperative system. There may be elements of democracy or capitalism added here and there, but these are only in certain cases.
-* [This is because a cooperative system is inherently far more efficient](https://opensocialism.com/open-socialism/arguments/the-free-market-is-inefficient)
+* Look at a company like Google. It has no bias to any particular system. It primarily works on a cooperative system. There may be elements of democracy or capitalism added here and there, but these are uncommon.
+* [This is because a cooperative system is inherently far more efficient](https://opensocialism.com/open-socialism/arguments/the-free-market-is-inefficient).
 * The main argument is the cooperative system won't work because people will become corrupt when this is applied to the whole of a society. However, this is a solvable problem.
 * Much like open source, all information both in real time and historical can be made available on the internet meaning corruption needs to happen under the nose of the entirety of society.
-* The [conensus seeking model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) of decision making can be used to make corrupting a decision requiring corropting the majority of a committee which is much more difficult.
+* The [conensus seeking model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) of decision making can be used to make corrupting a decision requiring corrupting the majority of a committee which is much more difficult.
 
 ## Use your geeky powers for good
 
@@ -42,6 +42,6 @@ All help and feedback is appreciated.
 
 [github.com/open-socialism](https://github.com/open-socialism){:target="_blank"} Love PRs or creating github issues. Also looking for core contributors.
 
-[Survey (after you have read some of the website)](https://docs.google.com/forms/d/e/1FAIpQLSfE_MH5VYb82YSmVgENdMArXByNpOG4tb0i8J0t4ccjMtawgg/viewform){:target="_blank"}
+[Survey (after you have read some of the website)](https://docs.google.com/forms/d/e/1FAIpQLSfE_MH5VYb82YSmVgENdMArXByNpOG4tb0i8J0t4ccjMtawgg/viewform){:target="_blank"}.
 
-[Quick general feedback](https://docs.google.com/forms/d/e/1FAIpQLSdDNpb3Qp3Jh1dGck9KuIpoAm1mk1ypAdvFOW_Z6I_T9VgE2g/viewform){:target="_blank"}
+[Quick general feedback](https://docs.google.com/forms/d/e/1FAIpQLSdDNpb3Qp3Jh1dGck9KuIpoAm1mk1ypAdvFOW_Z6I_T9VgE2g/viewform){:target="_blank"}.
