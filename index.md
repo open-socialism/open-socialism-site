@@ -26,6 +26,8 @@ Open Socialism is societal system designed to be the best possible system given 
 
 DC as a system has served humanity well for a period of time and there has been great technological development. However, it is outgrowing its usefulness as recurring problems of wealth inequality and financial crisis worsen. Now that we have advanced so far with the internet and modern business we have the tools to create much superior systems that are equitable for everyone in society and greatly productive.
 
+[I work in software, give me the tl;dr](tldr-for-software-people)
+
 [Ok, I want to know more](introduction).
 
 [Wait, why do you even want to create a new system?](why-create-a-new-system)

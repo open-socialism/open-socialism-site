@@ -4,7 +4,7 @@ title: 'tl;dr for software people'
 
 ## tl;dr of the tl;dr
 
-Democratic capitalism (DC) had some good years and achieved a lot, but it has started to be highly inequitable and exploitative. With modern technology, science and project/team management, many of which we learn about in our jobs as software people we can create much better systems. We can create a cooperative system that is much more equitable and productive than DC.
+Democratic capitalism (DC) had some good years and achieved a lot, but it has started to be highly inequitable and exploitative. With modern technology, science and advances in project/team management, many of which we learn about in our jobs as software people we can create much better systems. We can create a cooperative system that is much more equitable and productive than DC.
 
 ## Democratic capitalism (DC) not so good
 
@@ -26,7 +26,7 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 
 * We are living the capitalist dream. We worked hard in school, probably went to college, got a job in IT, worked hard and are paid handsomely.
 * However, in reality this was likely only possible because we grew up in a middle class family and were able to focus on our study, not the problems with our young lives.
-* We also have hit the supply and demand jackpot and get pampered and paid well way out of proportion to our actual benefit to society.
+* We also have hit the supply and demand jackpot in terms of our skill set and get pampered and paid well way out of proportion to our actual benefit to society.
 
 ## What is a good new system then?
 
@@ -38,7 +38,7 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 
 ## Use your geeky powers for good
 
-All help and feedback is appreciated.
+I have written a moderate amount but it is more a starting point to be iterated upon. Any feedback or help is greatly appreciated.
 
 [github.com/open-socialism](https://github.com/open-socialism){:target="_blank"} Love PRs or creating github issues. Also looking for core contributors.
 
