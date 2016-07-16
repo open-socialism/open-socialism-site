@@ -6,5 +6,5 @@ git submodule update --init --recursive
 
 docker volume create --name ruby2.3.0-gem-cache > /dev/null
 
-docker-compose -f docker-compose.yml build
-docker-compose -f docker-compose.yml run --service-ports dev "$@"
+docker-compose build ${service-dev}
+docker-compose run --service-ports ${service-dev} "$@"
