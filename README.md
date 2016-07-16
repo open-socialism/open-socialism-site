@@ -18,6 +18,12 @@ Recommend commenting out the navigation in _layouts/default.html
 
 To avoid building the nav which causes the build to take about 7 minutes. Just make sure you don't commit this change.
 
+To update gems run
+
+```
+./auto/update-gems
+```
+
 ### Browser Support ###
 
 These browsers and versions http://browsehappy.com
