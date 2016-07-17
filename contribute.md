@@ -39,6 +39,8 @@ Once this is done you can click edit on any page and you will be able to make ch
 
 If you are making a significant change please read the [contributing guidelines](https://github.com/open-socialism/open-socialism.github.io/blob/master/CONTRIBUTING.md){:target="_blank"}
 
+[If you want more information on directly contributing](https://github.com/open-socialism/open-socialism.github.io/issues/1){:target="_blank"}.
+
 If this sounds too difficult don't worry, just suggest changes via the feedback options.
 
 ## I want to help, is there any recommended reading?

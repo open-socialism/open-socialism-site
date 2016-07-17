@@ -8,11 +8,11 @@ Each phase of OS is geared at getting help and feedback from people and to itera
 
 These are the phases.
 
-## Initial sanity check (Current)
+## Initial sanity check
 
 Create an initial draft of the concept with some facts but without going through heavy research to confirm the ideas. Still have some key facts. Receive feedback from a select group of people to check that there aren't glaring problems, missing areas or arguments that are contrary to the facts.
 
-## Promote to special interest groups via the internet
+## Promote to special interest groups via the internet (Current)
 
 Create a version that is more fleshed out with facts and flows better to be more accessible and convincing. Then post the site on widening circles of special interest groups to solicit feedback and contributors. For example [https://www.reddit.com/r/capitalism](https://www.reddit.com/r/capitalism){:target="_blank"}
 

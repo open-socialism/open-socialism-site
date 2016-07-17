@@ -34,13 +34,13 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 * [This is because a cooperative system is inherently far more efficient](https://opensocialism.com/open-socialism/arguments/the-free-market-is-inefficient).
 * The main argument is the cooperative system won't work because people will become corrupt when this is applied to the whole of a society. However, this is a solvable problem.
 * Much like open source, all information both in real time and historical can be made available on the internet meaning corruption needs to happen under the nose of the entirety of society.
-* The [conensus seeking model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) of decision making can be used to make corrupting a decision requiring corrupting the majority of a committee which is much more difficult.
+* The [consensus seeking model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) of decision making can be used to make corrupting a decision requiring corrupting the majority of a committee which is much more difficult.
 
 ## Use your geeky powers for good
 
 I have written a moderate amount but it is more a starting point to be iterated upon. Any feedback or help is greatly appreciated.
 
-[github.com/open-socialism](https://github.com/open-socialism){:target="_blank"} Love PRs or creating github issues. Also looking for core contributors.
+[github.com/open-socialism](https://github.com/open-socialism/open-socialism.github.io){:target="_blank"} Love PRs or creating github issues. Also looking for core contributors. [Not sure how to help?](https://github.com/open-socialism/open-socialism.github.io/issues/1){:target="_blank"}
 
 [Survey (after you have read some of the website)](https://docs.google.com/forms/d/e/1FAIpQLSfE_MH5VYb82YSmVgENdMArXByNpOG4tb0i8J0t4ccjMtawgg/viewform){:target="_blank"}.
 
