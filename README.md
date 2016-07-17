@@ -1,5 +1,7 @@
 # open-socialism.github.io
 
+[![Join the chat at https://gitter.im/open-socialism/open-socialism.github.io](https://badges.gitter.im/open-socialism/open-socialism.github.io.svg)](https://gitter.im/open-socialism/open-socialism.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Technical
 
 To run the site install [docker](https://www.docker.com/products/docker) and then
