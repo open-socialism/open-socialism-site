@@ -26,13 +26,14 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 
 * We are living the capitalist dream. We worked hard in school, probably went to college, got a job in IT, worked hard and are paid handsomely.
 * However, in reality this was likely only possible because we grew up in a middle class family and were able to focus on our study, not the problems with our young lives.
-* We also have hit the supply and demand jackpot in terms of our skill set and get pampered and paid well way out of proportion to our actual benefit to society.
+* We also have hit the supply and demand jackpot in terms of our skill set and get pampered and paid way out of proportion to our actual benefit to society.
 
 ## What is a good new system then?
 
-* Look at a company like Google. It has no bias to any particular system. It primarily works on a cooperative system. There may be elements of democracy or capitalism added here and there, but these are uncommon.
-* [This is because a cooperative system is inherently far more efficient](https://opensocialism.com/open-socialism/arguments/the-free-market-is-inefficient).
-* The main argument is the cooperative system won't work because people will become corrupt when this is applied to the whole of a society. However, this is a solvable problem.
+* Look at a company like Google. It has no bias to any particular system. Are positions within the company decided by democratic voting? Is everyone given a share of the companies resources and they compete against each other to make money for the company?
+* No, primarily people are all working together towards common goals. There are elements of competition and voting in certain areas, but these are tools applied only when and where it makes sense, not as the underlying system.
+* This is because the most efficient way for humans to be productive is to cooperate. [More info on the inefficiency of the free market](https://opensocialism.com/open-socialism/arguments/the-free-market-is-inefficient).
+* The main argument against cooperative systems at a societal level is it won't work because people will become corrupt. However, this is a solvable problem.
 * Much like open source, all information both in real time and historical can be made available on the internet meaning corruption needs to happen under the nose of the entirety of society.
 * The [consensus seeking model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) of decision making can be used to make corrupting a decision requiring corrupting the majority of a committee which is much more difficult.
 
