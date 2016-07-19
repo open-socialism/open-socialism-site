@@ -3,13 +3,11 @@ version: "2"
 services:
   dev:
     build: .
+    working_dir: /work
+    command: [bundle, exec, jekyll, serve, --incremental, -H, 0.0.0.0]
     volumes:
       - .:/work
-      - ruby2.3.0-gem-cache:/var/cache/gems/2.3.0
-    working_dir: /work
-    environment:
-      - GEM_HOME=/var/cache/gems/2.3.0
-      - GEM_PATH=/usr/local/lib/ruby/gems/2.3.0:/var/cache/gems/2.3.0
+      - ruby2.3-gem-cache:/usr/local/bundle
     ports:
       - "4000:4000"
   prod:
@@ -19,5 +17,5 @@ services:
       service: dev
 
 volumes:
-  ruby2.3.0-gem-cache:
+  ruby2.3-gem-cache:
     external: true
