@@ -4,12 +4,12 @@ title: 'tl;dr for software people'
 
 ## tl;dr of the tl;dr
 
-Democratic capitalism (DC) had some good years and achieved a lot, but it has started to be highly inequitable and exploitative. With modern technology, science and advances in project/team management, many of which we learn about in our jobs as software people we can create much better systems. We can create a cooperative system that is much more equitable and productive than DC.
+Democratic capitalism (DC) had some good years and achieved a lot, but it has started to be highly inequitable and exploitative. With modern technology, science and advances in project/team management, many of which we learn about in our jobs as software people, we can create much better systems. We can create a cooperative system that is much more equitable and productive than DC.
 
 ## Democratic capitalism (DC) not so good
 
-* DC is performing really poorly in terms of being equitable. [The wealthiest 1% in the world have more wealth than the bottom 99%. The wealthiest 62 people have as much wealth as the bottom 3.5 billion.](http://policy-practice.oxfam.org.uk/publications/an-economy-for-the-1-how-privilege-and-power-in-the-economy-drive-extreme-inequ-592643){:target="_blank"}.
-* DC is damaging the environment. Worst example, [Elon Musk sums this up really well and talks about how 97% of scientists believe the transition to sustainable energy will the catastrophic](https://www.youtube.com/watch?v=xKCuDxpccYM){:target="_blank"}.
+* DC is performing really poorly in terms of being equitable. [The wealthiest 1% in the world have more wealth than the bottom 99%. The wealthiest 62 people have as much wealth as the bottom 3.5 billion](http://policy-practice.oxfam.org.uk/publications/an-economy-for-the-1-how-privilege-and-power-in-the-economy-drive-extreme-inequ-592643){:target="_blank"}.
+* DC is damaging the environment. Worst example, [Elon Musk sums this up really well and talks about how 97% of scientists believe the transition to sustainable energy will be catastrophic](https://www.youtube.com/watch?v=xKCuDxpccYM){:target="_blank"}.
 * DC as a system is about 300 years old. Can't we do better with the explosion of modern technology and science?
 
 [More on the case for change](https://opensocialism.com/why-create-a-new-system)
@@ -20,6 +20,7 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 * We understand technology and what kind of system through technology is possible.
 * We are great at being objective and not being caught up in the zealotry that is coupled with the classical systems of capitalism, communism etc.
 * We are great at thinking about greenfield approaches.
+* We have very specific knowledge of the particular domains that we work in.
 * We know excellent tools and processes to collaborate and work on a new system.
 
 ## Although, software people are the least likely to think about this
@@ -39,7 +40,7 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 
 ## Use your geeky powers for good
 
-I have written a moderate amount but it is more a starting point to be iterated upon. Any feedback or help is greatly appreciated.
+I have written a moderate amount but it is more of a starting point to be iterated upon. Any feedback or help is greatly appreciated.
 
 [github.com/open-socialism](https://github.com/open-socialism/open-socialism.github.io){:target="_blank"} Love PRs or creating github issues. Also looking for core contributors. [Not sure how to help?](https://github.com/open-socialism/open-socialism.github.io/issues/1){:target="_blank"}
 
