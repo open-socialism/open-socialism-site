@@ -123,7 +123,7 @@ The other option available is to attempt to become one of the ruling or middle c
 
 The option of starting a business is also risky, especially if the individual doesn't already have a nest egg of wealth. They will likely either make it and make a considerable amount of money, or the business will fail and they will be worse off as they need to pay back the debts they accumulated.
 
-The difficulty of raising ones level of wealth can be seen by [the middle class diminishing in DC countries](http://www.theguardian.com/commentisfree/2015/dec/14/the-strange-case-of-americas-disappearing-middle-class){:target="_blank"}.
+The difficulty of raising ones level of wealth can be seen by [the middle class diminishing in DC countries](https://www.theguardian.com/commentisfree/2015/dec/14/the-strange-case-of-americas-disappearing-middle-class){:target="_blank"}.
 
 To generalize, everyone is free to choose any number of bad options for how they work.
 
