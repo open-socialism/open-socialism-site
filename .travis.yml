@@ -3,4 +3,6 @@ sudo: required
 services:
   - docker
 
+install: true
+
 script: auto/check-html
