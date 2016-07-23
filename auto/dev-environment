@@ -4,7 +4,7 @@ cd $(dirname $0)/..
 
 git submodule update --init --recursive
 
-(docker volume create --name ruby2.3-gem-cache > /dev/null)
+# (docker volume create --name ruby2.3-gem-cache > /dev/null)
 
 docker-compose build ${service-dev}
 docker-compose run --rm ${service-dev} sh -c 'bundle check > /dev/null || bundle install'
