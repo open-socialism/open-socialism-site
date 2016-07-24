@@ -7,8 +7,3 @@ RUN curl -sL https://deb.nodesource.com/setup_6.x | bash - \
     && apt-get install -y nodejs=6.3.0-1nodesource1~jessie1 \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
-
-RUN wget https://bootstrap.pypa.io/get-pip.py \
-    && python get-pip.py
-
-RUN pip install proselint==0.6.1
