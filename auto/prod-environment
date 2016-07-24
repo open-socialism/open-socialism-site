@@ -2,4 +2,4 @@
 
 cd $(dirname $0)/..
 
-service=prod ./auto/dev-environment "$@"
+service=prod auto/dev-environment "$@"
