@@ -1,9 +1,0 @@
-[submodule "open-socialism"]
-	path = open-socialism
-	url = https://github.com/open-socialism/open-socialism.git
-[submodule "assess-dc"]
-	path = assess-dc
-	url = https://github.com/open-socialism/assess-dc.git
-[submodule "societal-metrics"]
-	path = societal-metrics
-	url = https://github.com/open-socialism/societal-metrics.git
