@@ -2,7 +2,7 @@
 title: 'Open Socialism Is Unproven'
 ---
 
-'OS has never existed and there is no examples of anything similar that actually works'.
+'OS has never existed and there are no examples of anything similar that actually works'.
 
 In fact there are a number of similar groups already in existence that are doing great work.
 
