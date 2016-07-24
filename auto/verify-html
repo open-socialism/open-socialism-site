@@ -2,8 +2,5 @@
 
 cd $(dirname $0)/..
 
-docker --version
-docker-compose --version
-
 auto/dev-environment bundle exec jekyll build
 auto/dev-environment bundle exec htmlproofer ./_site --url-ignore=#,#0 --assume-extension
