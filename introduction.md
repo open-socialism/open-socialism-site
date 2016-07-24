@@ -14,7 +14,7 @@ Before we get into the specifics, let's look at the history of human societies a
 
 About 200,000 years ago modern humans evolved.
 
-Humans lived in nomadic tribes. Everyone basically had the same job of hunting and gathering. Whilst some individuals might be leadership figures of a tribe they did not dominate others in the tribe and each individual got a relatively even share of the tribes resources.
+Humans lived in nomadic tribes. Everyone shared the responsibilities of hunting and gathering. Whilst some individuals might be leadership figures of a tribe they did not dominate others in the tribe and each individual got a relatively even share of the tribes resources.
 
 Tribes were closely bonded kin and each individual had a strong sense of belonging and community in their tribe. This is because tribes that worked together and cooperated were selected via the process of natural selection.
 
