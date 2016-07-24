@@ -4,7 +4,7 @@ permalink: /introduction/
 ---
 ## What is 'Open Socialism'?
 
-Open Socialism is a system that is designed to be the most equitable and productive societal system given our current level of scientific knowledge and technological advancement.
+Open Socialism is a societal system that is designed to be the most equitable and productive given our current level of scientific knowledge and technological advancement.
 
 Before we get into the specifics, let's look at the history of human societies and look at the recurring problems. Let's in particular look at Democratic Capitalism (DC) and show that whilst it has achieved a lot and it does have good parts, it is not terribly different from systems that have come before it that favor a ruling class. Let's then look into how we can take the good parts from DC and a variety of other systems and create a societal system that is far better for the vast majority of the population.
 
