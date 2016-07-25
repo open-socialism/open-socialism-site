@@ -27,7 +27,7 @@ auto/prod-environment bash
 bundle exec jekyll serve --incremental -H 0.0.0.0
 ```
 
-It should be as simple as ```./auto/prod-environment``` but for some reason the environment variable inheritance isnt working with docker-compose without first going into bash. Not sure if this is a bug with docker or not.
+It should be as simple as ```auto/prod-environment``` but for some reason the environment variable inheritance isnt working with docker-compose without first going into bash. Not sure if this is a bug with docker or not.
 
 ### Browser Support ###
 
