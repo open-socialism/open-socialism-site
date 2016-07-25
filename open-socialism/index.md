@@ -49,7 +49,7 @@ Ok, let's make virtually all information and decision making completely open and
 
 Hmm I like. Let's also have important decisions made using the [consensus seeking model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making){:target="_blank"}. So there is a committee and they try and achieve consensus to make a decision. This promotes discussion to achieve a good result. However, if consensus cannot be achieved a 2/3 majority vote is required to make a decision. If repeatedly a 2/3 majority cannot be a reached a final vote can be had that only requires a 50% majority. The voting system means that the committee will not be bogged down forever trying to reach a consensus.
 
-The great thing about this system is that to corrupt a decision it is necessary to corrupt over 50% of a committee which is obviously far more difficult that corrupting a single leader.
+The great thing about this system is that to corrupt a decision it is necessary to corrupt over 50% of a committee which is obviously far more difficult than corrupting a single leader.
 
 ## Conclusion
 
