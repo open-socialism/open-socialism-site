@@ -47,3 +47,9 @@ I have written a moderate amount but it is more of a starting point to be iterat
 [Survey (after you have read some of the website)](https://docs.google.com/forms/d/e/1FAIpQLSfE_MH5VYb82YSmVgENdMArXByNpOG4tb0i8J0t4ccjMtawgg/viewform){:target="_blank"}.
 
 [Quick general feedback](https://docs.google.com/forms/d/e/1FAIpQLSdDNpb3Qp3Jh1dGck9KuIpoAm1mk1ypAdvFOW_Z6I_T9VgE2g/viewform){:target="_blank"}.
+
+## Keep reading?
+
+[Check out the introduction](/introduction)
+
+[Dive into the system](/open-socialism)
