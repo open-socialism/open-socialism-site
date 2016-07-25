@@ -7,7 +7,7 @@
 To run the site install [docker](https://www.docker.com/products/docker) and then
 
 ```
-./auto/dev-environment
+auto/dev-environment
 ```
 
 Site can be accessed at http://localhost:4000
@@ -17,13 +17,13 @@ The dev environment avoids building the full nav which takes ~7 minutes.
 To update gems run
 
 ```
-./auto/update-gems
+auto/update-gems
 ```
 
 To run prod with full nav build
 
 ```
-./auto/prod-environment bash
+auto/prod-environment bash
 bundle exec jekyll serve --incremental -H 0.0.0.0
 ```
 
