@@ -9,3 +9,15 @@
     color: #7e57c2;
   }
 }
+
+@media (max-width: 48em) {
+  .tile-list {
+    .row {
+      margin-bottom: 0;
+    }
+
+    .icon {
+      margin-bottom: 15px;
+    }
+  }
+}
