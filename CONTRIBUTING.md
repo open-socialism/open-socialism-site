@@ -10,7 +10,7 @@ Here are some guidelines when contributing.
 
 Much like Wikipedia the goal is it improve as rapidly as possible in a way that is sustainable. It's often faster to put mistakes out there and get feedback to fix them, rather than worry too much about the quality of OS at any one point in time.
 
-If a change is generally an improvement, but has some issue perhaps, err on the side of making the change and addressing an issues in the future.
+If a change is generally an improvement, but has some issue perhaps, err on the side of making the change and addressing any issues in the future.
 
 ### Try to provide evidence for the points, but it's not strictly necessary if the arguments are logical
 
