@@ -2,11 +2,11 @@
 title: 'What Motivates People?'
 ---
 
-There are two levels to the motivations of people.
+There are three levels to the motivations of people.
 
 ## The evovled individual biological urge
 
-All our ancenstors have done something. They have reproduced and raised their offspring in an environment which allowed them to reproduce.
+All our ancenstors have done something. They have reproduced and raised their offspring in an environment which allowed them to in turn reproduce.
 
 The desire to reproduce and propagate ones own DNA is the primary biological urge. However, reproducing with a person or in an environment which isn't going to be beneficial for the offsprings chances of thriving and they themselves reproducing doesn't constitute 'successfuly reproducing'.
 
