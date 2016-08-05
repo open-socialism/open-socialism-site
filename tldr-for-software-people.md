@@ -19,13 +19,13 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 * We work at the forefront of team, project and culture development including developments such as Agile and the open source model.
 * We understand technology and what kind of system through technology is possible.
 * We are great at being objective and not being caught up in the zealotry that is coupled with the classical systems of capitalism, communism etc.
-* We are great at thinking about greenfield approaches.
+* We are great at thinking about greenfield approaches which is a large part of our work.
 * We have very specific knowledge of the particular domains that we work in.
 * We know excellent tools and processes to collaborate and work on a new system.
 
 ## Although, software people are the least likely to think about this
 
-* We are living the capitalist dream. We worked hard in school, probably went to college, got a job in IT, worked hard and are paid handsomely.
+* We are living the capitalism dream. We worked hard in school, probably went to college, got a job in IT, worked hard and are paid handsomely.
 * However, in reality this was likely only possible because we grew up in a middle class family and were able to focus on our study, not the problems with our young lives.
 * We also have hit the supply and demand jackpot in terms of our skill set and get pampered and paid way out of proportion to our actual benefit to society.
 
