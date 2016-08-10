@@ -9,7 +9,7 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 ## Democratic capitalism (DC) not so good
 
 * DC is performing really poorly in terms of being equitable. [The wealthiest 1% in the world have more wealth than the bottom 99%. The wealthiest 62 people have as much wealth as the bottom 3.5 billion](http://policy-practice.oxfam.org.uk/publications/an-economy-for-the-1-how-privilege-and-power-in-the-economy-drive-extreme-inequ-592643){:target="_blank"}.
-* DC is damaging the environment. Worst example, [Elon Musk sums this up really well and talks about how 97% of scientists believe the transition to sustainable energy will be catastrophic](https://www.youtube.com/watch?v=xKCuDxpccYM){:target="_blank"}.
+* DC is damaging the environment. Worst example, [Elon Musk sums this up really well and talks about how 97% of scientists believe the transition to sustainable energy will be catastrophic](https://www.youtube.com/watch?v=xKCuDxpccYM){:target="_blank"}. Another example, [We are expending the resouces of 1.6 planets per year](http://www.footprintnetwork.org/en/index.php/GFN/page/world_footprint/){:target="_blank"}.
 * DC as a system is about 300 years old. Can't we do better with the explosion of modern technology and science?
 
 [More on the case for change](https://opensocialism.com/why-create-a-new-system)
