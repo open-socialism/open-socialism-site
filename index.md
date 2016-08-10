@@ -4,7 +4,7 @@ layout: default
 
 # Welcome To Open Socialism
 
-Open Socialism is societal system designed to be the best possible system given our current level of scientific knowledge and technological advancement. It takes the best parts from communism, socialism, capitalism, democracy and a variety of other sources and offers a new and ultimately radically different system for society than the currently popular democratic capitalism (DC).
+Open Socialism is societal system designed to be the best possible given our current level of scientific knowledge and technological advancement. It takes the best parts from communism, socialism, capitalism, democracy and a variety of other sources and offers a new and ultimately radically different system for society than the currently popular democratic capitalism.
 
 <div class="tile-list">
   <div class="row">
@@ -24,7 +24,7 @@ Open Socialism is societal system designed to be the best possible system given 
   </div>
 </div>
 
-DC as a system has served humanity well for a period of time and there has been great technological development. However, it is outgrowing its usefulness as recurring problems of wealth inequality and financial crisis worsen. Now that we have advanced so far with the internet and modern business we have the tools to create much superior systems that are equitable for everyone in society and greatly productive.
+Democratic capitalism as a system has served humanity well for a period of time and there has been great technological development. However, it is outgrowing its usefulness as recurring problems of wealth inequality and financial crisis worsen. Now that we have advanced so far with the internet and modern business we have the tools to create much superior systems that are equitable for everyone in society and greatly productive.
 
 [I work in software, give me the tl;dr](tldr-for-software-people)
 
