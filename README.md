@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repo is for [https://opensocialism.com]{https://opensocialism.com}, a democratic capitalism alternative.
+This repo is for [opensocialism.com](https://opensocialism.com), a democratic capitalism alternative.
 
 [How to contribute](https://opensocialism.com/contribute).
 
