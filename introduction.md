@@ -107,7 +107,7 @@ The propaganda of DC is interesting in that it is the most complex that has exis
 
 ##### 'DC is fair and equitable. Anyone can through work become rich and each individual has freedom and equal rights.'
 
-Fundamental to DC propaganda is everyone is equal and the notion of freedom. Let's look into those.
+Fundamental to DC propaganda is the notion that everyone is equal and freedom. Let's look into those.
 
 ##### Equality
 
@@ -137,11 +137,11 @@ It can be argued that DC is the best iteration of the class system, but this doe
 
 In fact communism, socialism (and many others such as  [cooperative businesses](https://en.wikipedia.org/wiki/Cooperative){:target="_blank"}) are certainly feasible. They have only traditionally failed because like DC the core problem of human selfishness which leads to the class system was not the primary issue being addressed. Or because they were in fact dictatorships wearing the name of communism or socialism.
 
-Capitalism itself is actually only kept in check by socialistic elements. During early capitalism and industrial times for example in [1819 there was a law passed](https://en.wikipedia.org/wiki/Cotton_Mills_and_Factories_Act_1819){:target="_blank"} that prevented children of 8 or under working in factories and children of 9-16 years working for no more than 12 hours a day. Children under 8 working in factories is what unrestrained capitalism looks like.
+Capitalism itself is actually only kept in check by socialistic elements. For exmample, during early capitalism and industrial times in [1819 there was a law passed](https://en.wikipedia.org/wiki/Cotton_Mills_and_Factories_Act_1819){:target="_blank"} that prevented children of 8 or under working in factories and children of 9-16 years working for no more than 12 hours a day. Children under 8 working in factories is what unrestrained capitalism looks like.
 
-It's also worth nothing that modern capitalism and democracy are 300 years old. Are we saying that in 300 years of development including the explosion of modern technology this very old system is essentially the best conceivable?
+It's also worth nothing that modern capitalism and democracy as a collective system are 300 years old. Are we saying that in 300 years of development including the explosion of modern technology this very old system is essentially the best conceivable?
 
-Also modern DC is very UNdemocratic and UNcapitalistic. Using wealth and power for political influence is the antithesis of democracy and the free market (capitalism). 'The current system is the best and only one possible' is overly simplistic. [There are many people who simple want to fix DC by moving to more democracy and capitalism](https://www.youtube.com/watch?v=5fbvquHSPJU){:target="_blank"}. Point being the current iteration of DC is certainly not the be all and end all of societal systems!
+Also modern DC is very UNdemocratic and UNcapitalistic. Using wealth and power for political influence is the antithesis of democracy and the free market. 'The current system is the best and only one possible' is overly simplistic. [There are many people who simple want to fix DC by moving to more democracy and capitalism](https://www.youtube.com/watch?v=5fbvquHSPJU){:target="_blank"}. Point being the current iteration of DC is certainly not the be all and end all of societal systems!
 
 ## The Problem To Solve
 
