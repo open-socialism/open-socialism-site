@@ -42,7 +42,7 @@ The core metric of a society is to what degree does selfish human behavior coinc
 
 ### The Class System
 
-Post the development of agriculture the class system quickly came to be. There are typically 3 classes.
+Post the development of agriculture the class system quickly came to be. There are 3 main classes.
 
 #### The Ruling Class
 
