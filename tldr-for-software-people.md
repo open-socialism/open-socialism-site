@@ -34,7 +34,7 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 
 * Look at a company like Google. It has no bias to any particular system. Are positions within the company decided by democratic voting? Is everyone given a share of the companies resources and they compete against each other to make money for the company?
 * No, primarily people are all working together towards common goals. There are elements of competition and voting in certain areas, but these are tools applied only when and where it makes sense, not as the underlying system.
-* This is because the most efficient way for humans to be productive is to cooperate. [More info on the inefficiency of the free market](https://opensocialism.com/open-socialism/arguments/the-free-market-is-inefficient).
+* This is because the most efficient way for humans to be productive is to cooperate, which isn't suprising given we evolved to operate cooperatively in a tribe. [More info on the inefficiency of the free market](https://opensocialism.com/open-socialism/arguments/the-free-market-is-inefficient).
 * The main argument against cooperative systems at a societal level is it won't work because people will become corrupt. However, this is a solvable problem.
 * Much like open source, all information both in real time and historical can be made available on the internet meaning corruption needs to happen under the nose of the entirety of society.
 * The [consensus seeking model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) of decision making can be used to make corrupting a decision requiring corrupting the majority of a committee which is much more difficult than corrupting an individual leader.
@@ -43,7 +43,7 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 
 I have written a moderate amount but it is more of a starting point to be iterated upon. Any feedback or help is greatly appreciated.
 
-[github.com/open-socialism](https://github.com/open-socialism/open-socialism.github.io){:target="_blank"} Love PRs or creating github issues. Also looking for core contributors. [Not sure how to help?](https://github.com/open-socialism/open-socialism.github.io/issues/1){:target="_blank"}
+[github.com/open-socialism/open-socialism.github.io](https://github.com/open-socialism/open-socialism.github.io){:target="_blank"} Love PRs or creating github issues. Also looking for core contributors. [Not sure how to help?](https://github.com/open-socialism/open-socialism.github.io/issues/1){:target="_blank"}
 
 [Survey (after you have read some of the website)](https://docs.google.com/forms/d/e/1FAIpQLSfE_MH5VYb82YSmVgENdMArXByNpOG4tb0i8J0t4ccjMtawgg/viewform){:target="_blank"}.
 
