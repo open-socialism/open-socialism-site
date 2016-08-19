@@ -21,7 +21,7 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 * We understand technology and what kind of system through technology is possible.
 * We are great at being objective and not being caught up in the zealotry that is coupled with the classical systems of capitalism, communism etc.
 * We are great at thinking about greenfield approaches which is a large part of our work.
-* We have very specific knowledge of the particular domains that we work in.
+* We have very specific knowledge of the particular domains (eg. automotive, financial) that we work in so we can reason about more than just software.
 * We know excellent tools and processes to collaborate and work on a new system.
 
 ## Although, software people are the least likely to think about this
