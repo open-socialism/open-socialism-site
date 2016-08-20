@@ -30,6 +30,4 @@ Democratic capitalism as a system has served humanity well for a period of time 
 
 [Ok, I want to know more](introduction).
 
-[Wait, why do you even want to create a new system?](why-create-a-new-system)
-
 Complete [the Open Socialism survey](https://docs.google.com/forms/d/1fbNE7hpmryylvsILKRK18PYORs4Mxkf7qOLOkiFDww0/viewform){:target="_blank"} or [provide general feedback](https://docs.google.com/forms/d/1FFv6d9JLqP23ZSKLjj63bPuzKtl6VaSRxqDM4VdFYdg/viewform){:target="_blank"}.
