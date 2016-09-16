@@ -1,6 +1,6 @@
 FROM ruby:2.3.1
 
-# necessary due to https://github.com/docker-library/ruby/issues/45
+# ruby base doesn't specify locale
 ENV LANG C.UTF-8
 
 RUN apt-get update \
