@@ -3,7 +3,7 @@ dist: trusty
 install: true
 
 env:
-  COMPOSE_VERSION: 1.8.0
+  COMPOSE_VERSION: 1.8.1
 
 before_install:
   - sudo dpkg --purge docker-engine
