@@ -1,4 +1,4 @@
-FROM ruby:2.3.2
+FROM ruby:2.3.3
 
 # ruby base doesn't specify locale
 ENV LANG C.UTF-8
