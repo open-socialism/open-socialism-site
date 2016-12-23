@@ -5,7 +5,7 @@ ENV LANG C.UTF-8
 
 # can't pin the version of node js with the recommended debian install technique
 # using this alternative for now - waiting on https://github.com/nodesource/distributions/issues/33
-RUN FILE="nodejs_7.2.0-1nodesource1~jessie1_amd64.deb"; \
+RUN FILE="nodejs_7.3.0-1nodesource1~jessie1_amd64.deb"; \
     wget "https://deb.nodesource.com/node_7.x/pool/main/n/nodejs/$FILE" -qO $FILE \
     && dpkg -i $FILE \
     && rm $FILE
