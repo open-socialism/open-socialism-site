@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 source "https://rubygems.org"
 
-gem 'github-pages', '104', group: :jekyll_plugins
+# pinned waiting on 1.14 bundler release due to this bug https://github.com/bundler/bundler/issues/5154
+gem 'github-pages', '112', group: :jekyll_plugins
 gem 'html-proofer'
