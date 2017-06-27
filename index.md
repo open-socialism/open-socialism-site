@@ -24,8 +24,6 @@ Open Socialism is societal system designed to be the best possible given our cur
   </div>
 </div>
 
-Democratic capitalism as a system has served humanity well for a period of time and there has been great technological development. However, it is outgrowing its usefulness as recurring problems of wealth inequality and financial crisis worsen. Now that we have advanced so far with the internet and modern business we have the tools to create much superior systems that are equitable for everyone in society and greatly productive.
+Democratic capitalism as a system has served humanity well and for a period of time there has been great technological development. However, it is outgrowing its usefulness as recurring problems of wealth inequality and financial crisis worsen. Now that we have advanced so far with the internet and modern business we have the tools to create much superior systems that are equitable for everyone in society and greatly productive.
 
 [Ok, I want to know more](introduction).
-
-Complete [the Open Socialism survey](https://docs.google.com/forms/d/1fbNE7hpmryylvsILKRK18PYORs4Mxkf7qOLOkiFDww0/viewform){:target="_blank"} or [provide general feedback](https://docs.google.com/forms/d/1FFv6d9JLqP23ZSKLjj63bPuzKtl6VaSRxqDM4VdFYdg/viewform){:target="_blank"}.
