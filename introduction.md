@@ -20,7 +20,7 @@ Tribes were closely bonded kin and each individual had a strong sense of belongi
 
 It is important to note that physiologically we have not significantly changed from those humans of old. We are still the same humans that if raised in a tribe would fit perfectly into it. This is a society in which our natural instincts and ways of organizing ourselves suit the environment perfectly. There is leadership based on merit, small wealth and power inequality and a strong sense of community. In a sense it is the perfect society for us, however it is not feasible on a global scale at the level of population the earth now has.
 
-Why do such societies so perfectly fit our psychology? The main reason is our own self interest almost perfectly aligns with the interest of our tribe. If in this environment we took a capitalistic approach and hoarded our own food we would be shunned and expelled (or worse). A bunch of humans working for themselves is less productive than humans working together. Being valuable to your tribe, providing good leadership, all these things help yourself and your tribe at the same time. This is why the tribal system is so good and why our ancestors who worked together were selected by natural selection.
+Why is the tribal model so effective and sustainable? The main reason is our own self interest almost perfectly aligns with the interest of our tribe. If in this environment we took a capitalistic approach and hoarded our own food we would be shunned and expelled (or worse). A bunch of humans working for themselves is less productive than humans working together. Being valuable to your tribe, providing good leadership, all these things help yourself and your tribe at the same time. This is why the tribal system is so good and why our ancestors who worked together were selected by natural selection.
 
 Not only is this working together more effective, it is also hard wired into our psychology and cooperation, belonging to a tribe is tremendously satisfying and ultimately a strong need of ours.
 
@@ -113,7 +113,7 @@ Fundamental to DC propaganda is the notion that everyone is equal and freedom. L
 
 In DC it is true that everyone has equal rights and is subject to the same laws. However, the reality of what is actually attainable by an individual of the ruling class and the working class is quite different. A member of the ruling class, through wealth has the right to superior education, health, legal rights, etc. Anything that a working class member has a right to, a ruling class member has a right to a better version of it.
 
-To generalize, 'Equal rights to all (assuming you have a large amount of wealth)'.
+In short, 'Equal rights to all (assuming you are very wealthy)'.
 
 ##### Freedom
 
@@ -125,7 +125,7 @@ The option of starting a business is also risky, especially if the individual do
 
 The difficulty of raising ones level of wealth can be seen by [the middle class diminishing in DC countries](https://www.theguardian.com/commentisfree/2015/dec/14/the-strange-case-of-americas-disappearing-middle-class){:target="_blank"}.
 
-To generalize, everyone is free to choose any number of bad options for how they work.
+In short, everyone is free to choose any number of bad options for how they work.
 
 ##### The worst system, except for all the others
 
@@ -135,9 +135,9 @@ It's true that communism and other alternative systems of society have all devol
 
 It can be argued that DC is the best iteration of the class system, but this doesn't mean that a new system that is not a class system isn't feasible. Or at least it doesn't mean that DC can't be modified to be less class based.
 
-In fact communism, socialism (and many others such as  [cooperative businesses](https://en.wikipedia.org/wiki/Cooperative){:target="_blank"}) are certainly feasible. They have only traditionally failed because like DC the core problem of human selfishness which leads to the class system was not the primary issue being addressed. Or because they were in fact dictatorships wearing the name of communism or socialism.
+In fact communism, socialism (and many others such as  [cooperative businesses](https://en.wikipedia.org/wiki/Worker_cooperative){:target="_blank"}) are certainly feasible. They have only traditionally failed because like DC the core problem of human selfishness which leads to the class system was not the primary issue being addressed. Or because they were in fact dictatorships wearing the name of communism or socialism.
 
-Capitalism itself is actually only kept in check by socialistic elements. For exmample, during early capitalism and industrial times in [1819 there was a law passed](https://en.wikipedia.org/wiki/Cotton_Mills_and_Factories_Act_1819){:target="_blank"} that prevented children of 8 or under working in factories and children of 9-16 years working for no more than 12 hours a day. Children under 8 working in factories is what unrestrained capitalism looks like.
+Capitalism itself is actually only kept in check by socialistic elements. For example, during early capitalism and industrial times in [1819 there was a law passed](https://en.wikipedia.org/wiki/Cotton_Mills_and_Factories_Act_1819){:target="_blank"} that prevented children of 8 or under working in factories and children of 9-16 years working for no more than 12 hours a day. Children under 8 working in factories is what unrestrained capitalism looks like.
 
 It's also worth nothing that modern capitalism and democracy as a collective system are 300 years old. Are we saying that in 300 years of development including the explosion of modern technology this very old system is essentially the best conceivable?
 
