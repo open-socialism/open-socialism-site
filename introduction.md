@@ -4,7 +4,41 @@ permalink: /introduction/
 ---
 ## What is 'Open Socialism'?
 
-Open Socialism is a societal system that is designed to be the most equitable and productive given our current level of scientific knowledge and technological advancement.
+Open Socialism (OS) is a rethink of how to manage a society. It is an *optimistic* system that starts with a highly cooperative and productive base concept, but then layers on processes and ideas to keep people motivated and prevent corruption. It looks at human nature through the lens of our evolution and attempts to recapture the good parts of a tribal society, but in a way that can work on a grand scale.
+
+Before getting into the specifics let's look at some attributes of that tribal society.
+
+## The Tribal Model
+
+Humans evovled to operate in small nomadic tribes of less than 100 people.
+
+Let's look at some of the attributes of tribes.
+
+* Strong sense of community
+* Heavy cooperation
+* Limited power and wealth inequality
+* Meritocracy
+
+All these attributes are important. We have evolved to operate in such a way. However, what is the key difference between the tribal model and the systems we have had since then?
+
+### Wealth accumulation is not possible
+
+In the tribal model the maximum wealth and power attainable is to rule the tribe. This can only be achieved through clear and ongoing merit. The leader of the tribe may get the best share of the food, and the best place to sleep but beyond this no more wealth or power can be accumulated.
+
+#### Contrasts
+
+In newer systems initial wealth and power may be aquired through merit and providing value to everyone, but from there wealth and power snowballs. Eg. a wealthy person can leverage their wealth to corrupt others to gain more wealth and power. Their children in turn will recieve an unfair advantage, even through they may lack the merit to be leaders.
+
+### Self interest is directly aligned with the good of the tribe
+
+To be successful one needs to be valuable to the tribe. Leaders would be selected by their intelligence or strength. To provide this value to the tribe helps one be attractive and be selected as a mate.
+
+#### Contrasts
+
+In newer systems self interest sometimes cooincides with the good of the group but often does not. Companies and their employees will sometimes provide value when they need to but will equally manipulate consumers to their own advantage. The extreme level this can go to is environmental destruction for short term gain.
+
+
+Let's dig into the core ideas behind OS.
 
 Before we get into the specifics, let's look at the history of human societies and look at the recurring problems. Let's in particular look at Democratic Capitalism (DC) and show that whilst it has achieved a lot and it does have good parts, it is not terribly different from systems that have come before it that favor a ruling class. Let's then look into how we can take the good parts from DC and a variety of other systems and create a societal system that is far better for the vast majority of the population.
 
