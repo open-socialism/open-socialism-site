@@ -4,7 +4,7 @@ permalink: /introduction/
 ---
 ## What is 'Open Socialism'?
 
-Open Socialism (OS) is a rethink of how to manage a society. It is an *optimistic* system that starts with a highly cooperative and productive base concept, but then layers on processes and ideas to keep people motivated and prevent corruption. It looks at human nature through the lens of our evolution and attempts to recapture the good parts of a tribal society, but in a way that can work on a grand scale.
+Open Socialism (OS) is a rethink of how to manage a society. It starts with an *optimistic* base concept that focuses on broad scale cooperation, but then layers on processes and ideas to keep people motivated and prevent corruption. It looks at human nature through the lens of our evolution and attempts to recapture the good parts of a tribal society, but in a way that can work on a grand scale.
 
 Before getting into the specifics let's look at some attributes of that tribal society.
 
@@ -36,6 +36,8 @@ To be successful one needs to be valuable to the tribe. Leaders would be selecte
 #### Contrasts
 
 In newer systems self interest sometimes cooincides with the good of the group but often does not. Companies and their employees will sometimes provide value when they need to but will equally manipulate consumers to their own advantage. The extreme level this can go to is environmental destruction for short term gain.
+
+
 
 
 Let's dig into the core ideas behind OS.
