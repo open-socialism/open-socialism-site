@@ -4,13 +4,13 @@ permalink: /introduction/
 ---
 ## What is 'Open Socialism'?
 
-Open Socialism (OS) is a rethink of how to manage a society. It starts with an *optimistic* base concept that focuses on broad scale cooperation, but then layers on processes and ideas to keep people motivated and prevent corruption. It looks at human nature through the lens of our evolution and attempts to recapture the good parts of a tribal society, but in a way that can work on a grand scale.
+Open Socialism (OS) is a rethink of how to manage a society. It starts with an *optimistic* base concept that focuses on broad scale cooperation, but then layers on processes and ideas to keep people motivated and prevent corruption. It looks at human nature through the lens of our evolution and attempts to recapture the good parts of a tribal society, but in a way that can work on a grand scale. It borrows heavily from modern team and culture management, in paricular [the open source model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"}.
 
-Before getting into the specifics let's look at some attributes of that tribal society.
+Before getting into the specifics let's look at some attributes of a tribal society.
 
 ## The Tribal Model
 
-Humans evovled to operate in small nomadic tribes of less than 100 people.
+Humans evovled to operate in small nomadic tribes. This model has existed for approximately 195,000 years and could be described as humans *natural habitat*.
 
 Let's look at some of the attributes of tribes.
 
@@ -23,7 +23,7 @@ All these attributes are important. We have evolved to operate in such a way. Ho
 
 ### Wealth accumulation is not possible
 
-In the tribal model the maximum wealth and power attainable is to rule the tribe. This can only be achieved through clear and ongoing merit. The leader of the tribe may get the best share of the food, and the best place to sleep but beyond this no more wealth or power can be accumulated.
+In the tribal model the maximum wealth and power attainable is to rule the tribe. This can only be achieved through clear and ongoing merit. The leader of the tribe may get the best share of the food, the best place to sleep and the choice of tools and clothing but beyond this no more wealth or power can be attained.
 
 #### Contrasts
 
@@ -35,7 +35,16 @@ To be successful one needs to be valuable to the tribe. Leaders would be selecte
 
 #### Contrasts
 
-In newer systems self interest sometimes cooincides with the good of the group but often does not. Companies and their employees will sometimes provide value when they need to but will equally manipulate consumers to their own advantage. The extreme level this can go to is environmental destruction for short term gain.
+In newer systems self interest sometimes cooincides with the good of the group but often does not. Making money often involves manipulating others or exploiting the weak. The more money one accumulates the less their labor seems to benefit others.
+
+### The Tribal Model Conclusion
+
+Reasonable wealth and power inequality based on merit is OK and humans naturally organise this way. Accumulation beyond this is counter productive and leads to extreme power centralisation and corruption.
+
+A key metric of a society is to what degree does self interested behaviour cooincide with the good of the group. A more deliberate and organised society, focused on the greater good, like the tribal model may be possible.
+
+It's also worth noting that we often overstate the selfish nature of humans. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
+
 
 
 
