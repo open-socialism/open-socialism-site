@@ -4,10 +4,10 @@ services:
   dev:
     build: .
     working_dir: /work
-    command: [bundle, exec, jekyll, serve, --incremental, -H, 0.0.0.0]
+    command: ./run
     volumes:
       - .:/work
-      - ruby2.3-gem-cache:/usr/local/bundle
+      - ruby2.4-gem-cache:/usr/local/bundle
     ports:
       - "4000:4000"
   prod:
@@ -17,5 +17,5 @@ services:
       service: dev
 
 volumes:
-  ruby2.3-gem-cache:
+  ruby2.4-gem-cache:
     external: true
