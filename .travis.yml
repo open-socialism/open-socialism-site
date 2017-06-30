@@ -1,15 +1,6 @@
 sudo: required
-dist: trusty
-install: true
 
-env:
-  COMPOSE_VERSION: 1.9.0
+services:
+  - docker
 
-before_install:
-  - sudo dpkg --purge docker-engine
-  - sudo apt-get install -y docker-engine
-  - curl -L https://github.com/docker/compose/releases/download/${COMPOSE_VERSION}/docker-compose-`uname -s`-`uname -m` > docker-compose
-  - chmod +x docker-compose
-  - sudo mv docker-compose /usr/local/bin
-
-script: sudo auto/verify
+script: auto/verify

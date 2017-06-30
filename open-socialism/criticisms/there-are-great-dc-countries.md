@@ -36,7 +36,7 @@ Interestingly, Norway does seem to be remarkably good in comparison to most othe
 
 ### Lobbying exists, but corruption is minimal and has not snowballed
 
-The Norway state government is large and excises a lot of control over capitalism conducted within it's borders. It has restricted the scope of lobbying that occurs that can rig the free market for the rich. [Lobbying still exists](http://www.samfunnsforskning.no/content/view/full/22465){:target="_blank"}, but it seems only able to influence regulation, but not fundamentally undermine the democracy such as tax breaks for the rich or increasing the scope of possible lobbying.
+The Norway state government is large and excises a lot of control over capitalism conducted within it's borders. It has restricted the scope of lobbying that occurs that can rig the free market for the rich. Lobbying still exists, but it seems only able to influence regulation, but not fundamentally undermine the democracy such as tax breaks for the rich or increasing the scope of possible lobbying.
 
 ### A large state government with significant holdings
 
