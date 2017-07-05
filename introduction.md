@@ -62,3 +62,21 @@ The other obvious benefit is a large amount of resources is not wasted through c
 For a multitude of reasons, at least on paper, a cooperative system is more efficient and effective.
 
 ### What are the issues?
+
+Since the tribal system, cooperative systems have not been stable. Notably communism has either completely destabalised or been largely ineffective. If a cooperative system is better on paper why have they not been successful?
+
+Communism has failed for the same reasons that capitalism has been a mixed bag.
+
+#### Wealth / power accumulation is possible
+
+Communism has ideals of limiting wealth and power accumulation, however it turns out this is an exceptionally difficult to implement. Humans will naturally seek advantage for themselves and a system designed to limit that needs to be water tight. If not corruption and inequality will snowball and society will suffer.
+
+#### Self interest is aligned to the benefit of the group
+
+Communism on paper beautifully aligns self interest with the good of the group. However, if corruption and inequality have snowballed, the means of raising your own wealth is no longer about providing value to the group, but provding value to the corrupt and powerful people.
+
+#### Limited motivation to excel
+
+Communism has another large issue in that it has not greatly incentivized excelence. The rewards for great work have not been sufficient to the individual and so progress has typically languished.
+
+## A cooperative system without the downsides?
