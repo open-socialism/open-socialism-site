@@ -1,4 +1,4 @@
-version: "2"
+version: '2'
 
 services:
   dev:
@@ -9,7 +9,7 @@ services:
       - .:/work
       - ruby2.4-gem-cache:/usr/local/bundle
     ports:
-      - "4000:4000"
+      - 4000:4000
   prod:
     environment:
       - JEKYLL_ENV=production
