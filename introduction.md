@@ -80,3 +80,15 @@ Communism on paper beautifully aligns self interest with the good of the group. 
 Communism has another large issue in that it has not greatly incentivized excelence. The rewards for great work have not been sufficient to the individual and so progress has typically languished.
 
 ## A cooperative system without the downsides?
+
+The cooperative model is on paper much better, but in practice at a large scale has not proven to be viable. Going back to capitalism is one way, but can a cooperative system be constructed that has mechanism in place to mitigate these issues?
+
+Let's look at the open source model.
+
+## The Open Source Model
+
+[Open Source Software (OSS)](https://en.wikipedia.org/wiki/Open-source_software){:target="_blank"} is free software that is deveoped in the open. The code is fully accessible and you are free to take a copy and modify it. Business can be involved in the development of OSS, but OSS projects are typically run separately from business and anyone can contribute. Teams are typically distributed around the world and usually it is unpaid work.
+
+Probably you are thinking this wouldn't work. People doing unpaid work, distrubuted teams, how
+
+The [Open Source Model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} is the processes used to manage open source projects and teams.
