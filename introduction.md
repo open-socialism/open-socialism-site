@@ -55,17 +55,15 @@ In essence it means that people primarily work together for the greater good of 
 
 A cooperative system means that through leadership a group can have a directed purpose. For example a tribe can decide to migrate if food is depleting in their current area. This isn't possible with systems that have everyone working to their own self interest.
 
-The modern example is climate change, where it is clearly to the groups interest to greatly limit C02 emissions and halt climate change, but executing this is not possible.
+The modern example is climate change, where it is clearly to the groups interest to greatly limit C02 emissions and halt climate change, but executing this is not possible due to individuals acting selfishly.
 
-The other obvious benefit is a large amount of resources is not wasted through competition. For example in capitalism companies spend a large amount of marketing, legal battles and also each invent similar technology in isolation.
+The other obvious benefit is a large amount of resources is not wasted through competition. For example in capitalism companies spend a large amount of money on marketing, legal battles and also each invent similar technology in isolation.
 
 For a multitude of reasons, at least on paper, a cooperative system is more efficient and effective.
 
 ### What are the issues?
 
 Since the tribal system, cooperative systems have not been stable. Notably communism has either completely destabalised or been largely ineffective. If a cooperative system is better on paper why have they not been successful?
-
-Communism has failed for the same reasons that capitalism has been a mixed bag.
 
 #### Wealth / power accumulation is possible
 
@@ -87,8 +85,28 @@ Let's look at the open source model.
 
 ## The Open Source Model
 
-[Open Source Software (OSS)](https://en.wikipedia.org/wiki/Open-source_software){:target="_blank"} is free software that is deveoped in the open. The code is fully accessible and you are free to take a copy and modify it. Business can be involved in the development of OSS, but OSS projects are typically run separately from business and anyone can contribute. Teams are typically distributed around the world and usually it is unpaid work.
+[Open Source Software (OSS)](https://en.wikipedia.org/wiki/Open-source_software){:target="_blank"} is free software that is deveoped in the open. The code is fully accessible and you are free to take a copy and modify it. Business can be involved in the development of OSS, but OSS projects are typically run separately from businesses and anyone can contribute. Teams are typically distributed around the world and usually it is unpaid work.
 
-Probably you are thinking this wouldn't work. People doing unpaid work, distrubuted teams, how
+Probably you are thinking this wouldn't work. People doing unpaid work, distrubuted teams and a lack of commercial direction.
 
-The [Open Source Model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} is the processes used to manage open source projects and teams.
+The [Open Source Model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} is the processes used to manage open source projects and teams. Turns out it works a lot like the tribal model, but is operates in a highly different environment. What are some aspects?
+
+### Motivation to excel
+
+There are in fact benefits to working on OSS. Since anyone can see your work it demonstrates your skill to potential employers (as most OSS developers work for business in their day job). It gains you the respect of other developers (an open source community is like a tribe). It improves your skills which again adds value to your regular employer. It will add social media followers which also demonstrates your level of esteem to employers.
+
+### Limited inequality
+
+You might grow to lead an OSS project, but that is the most power inequality that can exist within an OSS community.
+
+### Self interest aligned to the good of the group
+
+The only way to become prominient in or lead an OSS team is to provide great value.
+
+### Corruption is limited
+
+Corruption in OSS is tricky at best. The ideal followed is that all communication is done in the open and available to all. Even if deals were made behind people's backs actual decisions would need to be swayed through reason in the public deliberations.
+
+## The ideals of the tribal model live on
+
+Their aren't many people living in literal tribes anymore but the good stuff about the tribal model lives on.
