@@ -109,4 +109,24 @@ Corruption in OSS is tricky at best. The ideal followed is that all communicatio
 
 ## The ideals of the tribal model live on
 
-Their aren't many people living in literal tribes anymore but the good stuff about the tribal model lives on.
+Their aren't many people living in literal tribes anymore but the good stuff about the tribal model lives on. Modern business, in particular in technology are also moving to [similar models with the formation of actual 'tribes'](https://vimeo.com/85490944){:target="_blank"} and utilize processes that mirror how humans operate in actual tribes.
+
+## 'Open Socialism' - The tribal model on a grand scale
+
+What would the good parts of tribes applied to a society look like?
+
+### Broad scale cooperation
+
+A society that can organise and direct work to the greatest good is the strongest configuration. This gives the ability to deal with problems like global warming. Or society can achieve a deliberate balance between short term gain and long term investment eg. spend a large amount on scientific research.
+
+Broad scale cooperation is the *idealistic* base part of open socialism. It's on paper better but brings it's own set of issues.
+
+### Measured inequality
+
+The tribal model and successful modern cooperative systems all have some degree of inequality. Humans are motivated to excel and get ahead.
+
+### Align self interest with the greater good
+
+### Prevent corruption
+
+Align self interest is only half of the problem
