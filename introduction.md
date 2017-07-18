@@ -117,16 +117,42 @@ What would the good parts of tribes applied to a society look like?
 
 ### Broad scale cooperation
 
-A society that can organise and direct work to the greatest good is the strongest configuration. This gives the ability to deal with problems like global warming. Or society can achieve a deliberate balance between short term gain and long term investment eg. spend a large amount on scientific research.
+A society that can organise and direct work to the greatest good is the strongest configuration. This gives the ability to deal with problems like global warming. Or society can achieve a deliberate balance between short term gain and long term investment eg. spend a large amount on scientific research. Part of this is of course, no free enterprise.
 
-Broad scale cooperation is the *idealistic* base part of open socialism. It's on paper better but brings it's own set of issues.
+Broad scale cooperation is the *optimisitic* base part of open socialism. It's on paper better but brings it's own set of issues.
 
 ### Measured inequality
 
-The tribal model and successful modern cooperative systems all have some degree of inequality. Humans are motivated to excel and get ahead.
+The tribal model and successful modern cooperative systems all have some degree of inequality. Humans are motivated to excel and get ahead. The communist ideal 'from each according to their ability, to each according to their need' is in fact not ideal.
+
+However, humans will try and get ahead and attract a good mate given some means to do so. The rewards do not need to be excessive. The carrot of becoming a billionaire that capitalism dangles is counter productive since extreme wealth concentration also brings it's own set of issues.
 
 ### Align self interest with the greater good
 
+Humans need the ability to strive and reap benefits, however by itself, this isn't necessarily good for society. Not only do people need to be motivated, they ideally should be motivated towards the greater good. Therefore 'success' for an individual is also 'success' for society.
+
+In a directed society setting things up this way isn't particularly difficult.
+
 ### Prevent corruption
 
-Align self interest is only half of the problem
+The classical problem with cooperative directed societies (and societies in general) has been corruption breaking the above ideals. The tribal system could only have limited corruption since wealth accumulation was limited. This is obviously now (since agriculture) not the case.
+
+The other interesting mechanism in a tribal society is that it was very open. There is only so much skulduggery that can occur in a group of closly bonded individuals living in a jungle.
+
+Openness automatically limits corruption since corruption needs to happen under the nose of the rest of society. The open source model has shown people can coordinate with fully open communication.
+
+This needs to be coupled with some kind of democratic decision making process. If an individual is making the decisions corruption becomes much more possible.
+
+## We can do better
+
+Capitalism and communism are systems that originated 300 years ago. With the explosion of technology, science and our understanding of human nature we have the tools to create far better systems.
+
+Open Socialism is one such attempt that cherry picks ideas from many places, but primarily is attempting to replicate the good attributes of the highly succussful tribal system (our natural habitat system) implemented on a grand scale.
+
+## Develop Open Socialism
+
+Open Socialism is the seed concept of a new and better system, but it also an open source project itself. Through collaboration and iteration an obviously superior alternative can be developed.
+
+[Interesting, I'd like to know more about Open Socialism](/open-socialism).
+
+[Wow, this all sounds quite cool. Can I help?](/contribute)
