@@ -2,9 +2,9 @@
 title: 'Why Create A New System?'
 ---
 
-## Democratic Capitalism Isn't That Bad Right?
+## Democratic Capitalism (DC) Isn't That Bad Right?
 
-Yes DC is pretty good. In fact it is better than any system we have had before. DC largely offers equal legal rights regardless of one's race, gender or sexual preference and abolishes outright servitude. Technology under DC has undergone explosive advancement and in terms of almost any metric such as life expectancy it is way beyond the systems that came before it.
+Yes DC is pretty good. In fact it is better than any system we have had before. DC largely offers equal legal rights regardless of one's race, gender or sexual preference and abolishes outright servitude. Technology under DC has undergone explosive advancement and in terms of most metrics eg. life expectancy it is far beyond the systems that came before it.
 
 If so, shouldn't we just stick with DC?
 
@@ -16,9 +16,9 @@ However, that was 300 years ago. Since then a massive amount has changed, not le
 
 ## DC has been getting worse
 
-DC improved in terms of wealth equality leading up to the 1970s and since then it has steadily gotten worse. Productivity is continuing to dramatically improve and yet only those already very rich are seeing the benefits. The wealth is not [trickling down](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} and the middle class is constantly shrinking. [President Obama has called wealth inequality 'the defining challenge of our time'](https://www.whitehouse.gov/the-press-office/2013/12/04/remarks-president-economic-mobility){:target="_blank"}.
+DC improved in terms of wealth equality leading up to the 1970s and [since then it has steadily gotten worse](http://www.economist.com/node/7055911){:target="_blank"}. Productivity is continuing to dramatically improve and yet only those already very rich are seeing the benefits. The wealth is not [trickling down](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} and the middle class is constantly shrinking. [President Obama has called wealth inequality 'the defining challenge of our time'](https://www.whitehouse.gov/the-press-office/2013/12/04/remarks-president-economic-mobility){:target="_blank"}.
 
-On a global scale as well DC is very destructive in that it exploits poverty for cheap labor and nations with sweat shops are not being paid fairly for their work and are not able to fix their countries. Meanwhile workers in first world countries are losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. On the global level there is now startling wealth inequality. [The wealthiest 1% in the world have more wealth than the bottom 99%. The wealthiest 62 people have as much wealth as the bottom 3.5 billion](http://policy-practice.oxfam.org.uk/publications/an-economy-for-the-1-how-privilege-and-power-in-the-economy-drive-extreme-inequ-592643){:target="_blank"}. This is greater wealth inequality than has ever existed before.
+On a global scale as well DC is very destructive in that it exploits poverty for cheap labor and nations with sweat shops are not being paid fairly for their work and are not able to fix their countries. Meanwhile workers in first world countries are losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. On the global level there is now startling wealth inequality. [The wealthiest 1% in the world have more wealth than the bottom 99%. The wealthiest 8 people have as much wealth as the bottom 3.5 billion](https://www.oxfam.org/en/pressroom/pressreleases/2017-01-16/just-8-men-own-same-wealth-half-world){:target="_blank"}. This is greater wealth inequality than has ever existed before.
 
 DC is causing repeated financial crisis in a boom bust boom pattern that is quite destructive for everyone but those already wealthy. All the while it is proving to be highly destructive to the environment which is totally unexceptable for our generation to be doing. The worst example of this is of course global warking. [Elon Musk sums up what we are doing very well in this video](https://www.youtube.com/watch?v=xKCuDxpccYM).
 
@@ -26,7 +26,9 @@ Democracy is also compromised with big money corrupting politics via the [lobbyi
 
 In short DC has had some good years but at the moment it is very inequitable and unstable. Yes, the USA is particularly bad example, but all DC countries are following the same trends of wealth inequality and a manipulated democracy.
 
-If you want to dive further into DC issues check out the [assess DC section](/assess-dc). Or [Requiem for the American Dream](http://requiemfortheamericandream.com/){:target="_blank"} is a fantastic film and a deep dive into the fundamental issues. It is focused on the USA which is probably the worst example of DC, but as mentioned the same trends and issues are seen in all DC countries.
+[Requiem for the American Dream](http://requiemfortheamericandream.com/){:target="_blank"} is a fantastic film and a deep dive into the fundamental issues. It is focused on the USA which is probably the worst example of DC, but as mentioned the same trends and issues are seen in all DC countries.
+
+Check out [thisistheworld.net](https://thisistheworld.net/){:target="_blank"} which drills into the global capitalist system more.
 
 Also, ['What about a good example of DC such as Norway?'](/open-socialism/criticisms/there-are-great-dc-countries)
 
