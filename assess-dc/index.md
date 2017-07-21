@@ -2,6 +2,8 @@
 title: 'Assessing Democratic Capitalism'
 ---
 
+*The metrics and DC assessment are in a heavy draft state.*
+
 Let's assess DC.
 
 Metric | Result

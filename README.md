@@ -1,6 +1,6 @@
-# open-socialism.github.io
+# open-socialism-site
 
-[![Build Status](https://travis-ci.org/open-socialism/open-socialism.github.io.svg?branch=master)](https://travis-ci.org/open-socialism/open-socialism.github.io) [![Join the chat at https://gitter.im/open-socialism/open-socialism.github.io](https://badges.gitter.im/open-socialism/open-socialism.github.io.svg)](https://gitter.im/open-socialism/open-socialism.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/open-socialism/open-socialism-site.svg?branch=master)](https://travis-ci.org/open-socialism/open-socialism-site) [![Join the chat at https://gitter.im/open-socialism/open-socialism-site](https://badges.gitter.im/open-socialism/open-socialism-site.svg)](https://gitter.im/open-socialism/open-socialism-site?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Introduction
 

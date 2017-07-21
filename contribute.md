@@ -37,9 +37,9 @@ To directly suggest improvements you will also need a [github](https://github.co
 
 Once this is done you can click edit on any page and you will be able to make changes. [Follow these instructions to suggest a change](https://help.github.com/articles/editing-files-in-your-repository){:target="_blank"}.
 
-If you are making a significant change please read the [contributing guidelines](https://github.com/open-socialism/open-socialism.github.io/blob/master/CONTRIBUTING.md){:target="_blank"}
+If you are making a significant change please read the [contributing guidelines](https://github.com/open-socialism/open-socialism-site/blob/master/CONTRIBUTING.md){:target="_blank"}
 
-[If you want more information on directly contributing](https://github.com/open-socialism/open-socialism.github.io/issues/1){:target="_blank"}.
+[If you want more information on directly contributing](https://github.com/open-socialism/open-socialism-site/issues/1){:target="_blank"}.
 
 If this sounds too difficult don't worry, just suggest changes via the feedback options.
 

@@ -45,7 +45,7 @@ Note, DC (primarily capitalism) is the dominant system in control of our global 
 
 I have written a moderate amount but it is more of a starting point to be iterated upon. Any feedback or help is greatly appreciated.
 
-[github.com/open-socialism/open-socialism.github.io](https://github.com/open-socialism/open-socialism.github.io){:target="_blank"} Love PRs or creating github issues. Also looking for core contributors. [Not sure how to help?](https://github.com/open-socialism/open-socialism.github.io/issues/1){:target="_blank"}
+[github.com/open-socialism/open-socialism-site](https://github.com/open-socialism/open-socialism-site){:target="_blank"} Love PRs or creating github issues. Also looking for core contributors. [Not sure how to help?](https://github.com/open-socialism/open-socialism-site/issues/1){:target="_blank"}
 
 [Survey (after you have read some of the website)](https://docs.google.com/forms/d/e/1FAIpQLSfE_MH5VYb82YSmVgENdMArXByNpOG4tb0i8J0t4ccjMtawgg/viewform){:target="_blank"}.
 
