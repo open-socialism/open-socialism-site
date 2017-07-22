@@ -1,6 +1,5 @@
-#!/bin/bash -e
+#!/bin/bash -eu
 
 cd $(dirname $0)/..
 
-auto/dev-environment bundle exec jekyll build
-auto/dev-environment bundle exec htmlproofer ./_site --url-ignore=#,#0 --assume-extension
+auto/dev-environment bash -c 'bundle exec jekyll build && bundle exec htmlproofer ./_site --url-ignore=#,#0 --assume-extension'

@@ -10,10 +10,6 @@ services:
       - ruby2.4-gem-cache:/usr/local/bundle
     ports:
       - 4000:4000
-    # html profer on travis is failing on some links. google dns fixes this..
-    dns:
-      - 8.8.8.8
-      - 8.8.4.4
   prod:
     environment:
       - JEKYLL_ENV=production
