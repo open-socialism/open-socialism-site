@@ -6,6 +6,6 @@ Compassion is that transcendent quality that can act as a great fuel for society
 
 The opposite is also damaging. When we feel that those around us don't care about us as an individual, just as tools to be used, it is depressing.
 
-Everyone is a human and at times struggle. We need to be open to those around us, even if it is in a professional setting and allow emotional expression and be caring towards others.
+Everyone is human and at times struggles. We need to be open to those around us, even if it is in a professional setting and allow emotional expression and be caring towards others.
 
 Think of those around you as fellow tribesmen and women and care for them appropriately.

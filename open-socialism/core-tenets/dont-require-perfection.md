@@ -1,5 +1,5 @@
 ---
-title: 'Don&apos;t Require Perfection'
+title: "Don't Require Perfection"
 ---
 
 Systems, products and people should not be required to be perfect. It is not reliable or sustainable to require perfect efforts. Rather concepts of iteration and continual improvement need to be used so that poor results can be dealt with.
