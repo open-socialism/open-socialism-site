@@ -2,7 +2,7 @@
 title: 'Drug usage'
 ---
 
-All drugs will be legal within OC. Prohibition creates more problems than it solves. Society would also manufacture drugs that people want to use unless they are extremely damaging (it's always preferable to make the drugs safely rather than have people resort to bathtub manufacture).
+All drugs will be legal within OS. Prohibition creates more problems than it solves. Society would also manufacture drugs that people want to use unless they are extremely damaging (it's always preferable to make the drugs safely rather than have people resort to bathtub manufacture).
 
 However:
 
