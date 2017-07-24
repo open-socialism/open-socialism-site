@@ -24,9 +24,9 @@ Open Socialism is a rethink on how to run a society. It takes the best parts fro
   </div>
 </div>
 
-Democratic capitalism as a system has served humanity well and for a period of time there has been great technological development. However, it is outgrowing its usefulness as recurring problems of wealth inequality, financial crisis and environmental destruction worsen. Now that we have advanced so far with the internet and modern business we have the tools to create much superior systems that are equitable for everyone in society and greatly productive.
+Democratic capitalism as a system has served humanity well and for a period of time there has been great technological advancement. However, it is outgrowing its usefulness as recurring problems of wealth inequality, financial crisis and environmental destruction worsen. Now that we have advanced so far with the internet and modern business we have the tools to create much superior systems that are equitable for everyone in society and greatly productive.
 
-Open Socialism is in a very early draft status. Everything is open to change and the goal is to develop the system as an [open source](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} project.
+Open Socialism is in a very early draft status. Everything is open to change and the goal is to develop the system as an [open source](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} project. [Want to help?](contribute)
 
 [Ok, I want to know more](introduction).
 
