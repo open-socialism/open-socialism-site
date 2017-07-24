@@ -14,4 +14,4 @@ It may be possible to stem wealth inequality due to free enterprise more so than
 
 Major wealth inequality creates a class based unequal society with different levels of service for basic needs such as health. It also [promotes unhappiness for those not in the upper wealth brackets](http://www.psychologicalscience.org/index.php/news/releases/income-disparity-makes-people-unhappy.html){:target="_blank"}.
 
-It's also worth noting the 'no free enterprise' is still a knob and it's possible that zero is not right setting. This needs to be assessed further, particularly with experiments, once an OS society is running.
+It's also worth noting the 'no free enterprise' is still a knob and it's possible that zero is not the right setting. This needs to be assessed further, particularly with experiments, once an OS society is running.
