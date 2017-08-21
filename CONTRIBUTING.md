@@ -18,7 +18,7 @@ Evidence for the points in the system is obviously very important, but not manda
 
 ### Prefer Wikipedia links for informational links
 
-Wikipedia links are more reliable than links to articles as they are constantly improved. The quality of the content on wikipedia is easier to process and is kept up to date. Linking to back up a statment is a different story though.
+Wikipedia links are more reliable than links to articles as they are constantly improved. The quality of the content on wikipedia is higher, easier to process and is kept up to date. Linking to back up a statement is a different story though.
 
 ### Use language for clarity to a wide audience
 
