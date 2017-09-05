@@ -30,4 +30,4 @@ Open Socialism is in a very early draft status. Everything is open to change and
 
 [Ok, I want to know more](introduction).
 
-[Hang on, what's the motivation to change?](why-create-a-new-system).
+[Hang on, what's the motivation to change?](why-create-a-new-system)
