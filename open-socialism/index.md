@@ -37,7 +37,7 @@ This problem of having self interested behaviour also help the group is a core i
 
 Humans want to be selfish and get ahead. They want to be prestigious and to have more wealth than others. Ok no problem!
 
-Society will have different levels of leaders and those that get ahead should get more money and prestige. However, the difference in wealth between someone at the top of society should not be hugely different than a member at the bottom of society. It might be something like 5x as much, although this is a knob to be tuned. More evenly distributed wealth will mean (particularly when modern technology is factored in) that the 'lower earning' members of society will have an abundance and so should be satisfied.
+Society will have different levels of leaders and those that get ahead should get more money and prestige. However, the difference in wealth between someone at the top of society should not be hugely different than a member at the bottom of society. It might be something like 5x as much, although this is a knob to be tuned. More evenly distributed wealth will mean (particularly when modern technology is factored in) that the 'lowest' members of society will have an abundance and so should be satisfied.
 
 With everyone striving for and being rewarded for providing value to society itself and not a private company this means self interest is very nicely aligned with the good of society.
 
