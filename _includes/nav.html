@@ -9,6 +9,7 @@ based upon https://codyhouse.co/demo/mega-dropdown/index.html
     <ul class="cd-dropdown-content">
       {% assign entries = site.pages | sort: "path" %}
       <li><a href="/introduction">Introduction</a></li>
+      <li><a href="/tldr">TL;DR</a></li>
       <li><a href="/why-create-a-new-system">Why Create This?</a></li>
       {% if jekyll.environment == 'production' %}
       <li class="has-children">
