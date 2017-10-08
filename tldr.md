@@ -14,7 +14,7 @@ Note, DC (primarily capitalism) is the dominant system in control of our global 
 * Numbers like this are startling but still hard to appreciate. [Check out this graph for family wealth in the US](https://www.cbo.gov/publication/51846){:target="_blank"} (significantly less inequality than at a global level though).
 * DC is damaging the environment. Worst example, [Elon Musk sums up the global warming issue really well and talks about how 97% of scientists believe the transition to sustainable energy will be catastrophic](https://www.youtube.com/watch?v=xKCuDxpccYM){:target="_blank"}. Another example, [We are expending the resouces of 1.6 planets per year](http://www.footprintnetwork.org/en/index.php/GFN/page/world_footprint/){:target="_blank"}.
 
-[More on the case for change](https://opensocialism.com/why-create-a-new-system)
+[More on the case for change](/why-create-a-new-system)
 
 ## We should be able to design a better system
 
@@ -28,7 +28,7 @@ Note, DC (primarily capitalism) is the dominant system in control of our global 
 
 * Look at a company like Google. It has no bias to any particular system. Are positions within the company decided by democratic voting? Is everyone given a share of the companies resources and they compete against each other to make money for the company?
 * No, primarily people are all working together towards common goals. There are elements of competition and voting in certain areas, but these are tools applied only when and where it makes sense, not as the underlying system.
-* This is because the most efficient way for humans to be productive is to cooperate, which isn't suprising given we evolved to operate cooperatively in a tribe. [More info on the inefficiency of the free market](https://opensocialism.com/open-socialism/arguments/the-free-market-is-inefficient).
+* This is because the most efficient way for humans to be productive is to cooperate, which isn't suprising given we evolved to operate cooperatively in a tribe. [More info on the inefficiency of the free market](/open-socialism/arguments/the-free-market-is-inefficient).
 * The main argument against cooperative systems at a societal level is it won't work because people will become corrupt. However, this is a solvable problem.
 * Much like open source, all information both in real time and historical can be made available on the internet, meaning corruption needs to happen under the nose of the entirety of society.
 * The [consensus seeking model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making) of decision making can be used to make corrupting a decision requiring corrupting the majority of a committee, which is much more difficult than corrupting an individual leader.
