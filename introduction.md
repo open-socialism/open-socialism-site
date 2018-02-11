@@ -10,7 +10,7 @@ Before getting into the specifics let's look at some attributes of a tribal soci
 
 ## The Tribal Model
 
-Humans evovled to operate in small nomadic tribes. This model has existed for approximately 195,000 years and can be considered as humans *natural habitat*.
+Humans evovled to operate in small nomadic tribes. This model has existed for approximately 195,000 years and can be considered as humans *natural system*.
 
 Let's look at some of the attributes of tribes.
 
@@ -27,11 +27,11 @@ In the tribal model the maximum wealth and power attainable is to rule the tribe
 
 #### Contrasts
 
-In newer systems initial wealth and power may be aquired through merit and providing value to everyone, but from there wealth and power snowballs. Eg. a wealthy person can leverage their wealth to corrupt others to gain more wealth and power. Their children in turn will recieve an unfair advantage, even through they may lack the merit to be leaders.
+In newer systems initial wealth and power may be aquired through merit and providing value to everyone, but from there wealth and power snowballs. Ongoing value to all need not be provided and over time the wealthy and powerful can be very focused on their own benefit over the greater good. This snowballing process continues to the next generation.
 
 ### Self interest is directly aligned with the good of the tribe
 
-To be successful one needs to be valuable to the tribe. Leaders would be selected by their intelligence or strength. Providing this value to the tribe helps one be attractive and be selected as a mate.
+To be successful one needs to be valuable to the tribe. Leaders are selected by their intelligence or strength. Providing this value to the tribe helps one be attractive and get selected as a mate.
 
 #### Contrasts
 
@@ -39,23 +39,21 @@ In newer systems self interest sometimes cooincides with the good of the group b
 
 ### The Tribal Model Conclusion
 
-Reasonable wealth and power inequality based on merit is OK and humans naturally organise this way. Accumulation beyond this is counter productive and leads to extreme and unmerited power centralisation and corruption.
+Reasonable wealth and power inequality based on merit is OK and humans naturally organise in this way. Accumulation beyond this is counter productive and leads to extreme and unmerited power centralisation and corruption.
 
 A key metric of a society is to what degree does self interested behaviour cooincide with the good of the group. A more deliberate and organised society, focused on the greater good, like the tribal model may be possible.
 
-It's also worth noting that we often overstate the selfish nature of humans. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
+It's also worth noting that humans are no inherently selfish. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
 
 ## A Cooperative Base System
 
-What does a cooperative base system mean? What are some of the benefits? What are some of the issues?
-
-In essence it means that people primarily work together for the greater good of the group. There may be elements of competition and selfishness, but these are not the primary mode of operation.
+A cooperative base system means that people primarily work together for the greater good of the group. There may be elements of competition and selfishness, but these are not the primary mode of operation.
 
 ### What are the benefits?
 
 A cooperative system means that through leadership a group can have a directed purpose. For example a tribe can decide to migrate if food is depleting in their current area. This isn't possible with systems that have everyone working to their own self interest.
 
-The modern example is climate change, where it is clearly to the groups interest to greatly limit C02 emissions and halt climate change, but executing this is not possible due to individuals acting selfishly.
+The modern example is climate change, where it is clearly to the groups interest to greatly limit C02 emissions and halt climate change, but executing this is not possible due to an individualistic selfish base system.
 
 The other obvious benefit is a large amount of resources is not wasted through competition. For example in capitalism companies spend a large amount of money on marketing, legal battles and also each invent similar technology in isolation.
 
@@ -75,13 +73,11 @@ Communism on paper beautifully aligns self interest with the good of the group. 
 
 #### Limited motivation to excel
 
-Communism has another large issue in that it has not greatly incentivized excelence. The rewards for great work have not been sufficient to the individual and so progress has typically languished.
+Communism has another large issue in that it has not greatly incentivized excellence. The rewards for great work have not been sufficient to the individual and so progress has typically languished.
 
 ## A cooperative system without the downsides?
 
-The cooperative model is on paper much better, but in practice at a large scale has not proven to be viable. Going back to capitalism is one way, but can a cooperative system be constructed that has mechanism in place to mitigate these issues?
-
-Let's look at the open source model.
+The cooperative model is on paper much better, but in practice at a large scale has not proven to be viable. Going back to capitalism is one way, but can a cooperative system be constructed that has mechanisms in place to mitigate these issues? Are there examples of modern systems of organisation that have desirable aspects of cooperative systems but avoid the downsides?
 
 ## The Open Source Model
 
@@ -89,11 +85,11 @@ Let's look at the open source model.
 
 Probably you are thinking this wouldn't work. People doing unpaid work, distrubuted teams and a lack of commercial direction.
 
-The [Open Source Model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} is the processes used to manage open source projects and teams. Turns out it works a lot like the tribal model, but is operates in a highly different environment. What are some aspects?
+The [Open Source Model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} is the processes used to manage open source projects and teams. This process has a lot in common with the tribal model, but is operates in a highly different environment. What are some aspects?
 
 ### Motivation to excel
 
-There are in fact benefits to working on OSS. Since anyone can see your work it demonstrates your skill to potential employers (as most OSS developers work for business in their day job). It gains you the respect of other developers (an open source community is like a tribe). It improves your skills which again adds value to your regular employer. It will add social media followers which also demonstrates your level of esteem to employers.
+There are in fact benefits to working on OSS. Since anyone can see your work it demonstrates your skill to potential employers (as most OSS developers work for businesses in their day job). It gains you the respect of other developers (an open source community is like a tribe). It improves your skills which again adds value to your regular employer. It will add social media followers which also demonstrates your level of esteem to employers.
 
 ### Limited inequality
 
@@ -117,7 +113,7 @@ What would the good parts of tribes applied to a society look like?
 
 ### Broad scale cooperation
 
-A society that can organise and direct work to the greatest good is the strongest configuration. This gives the ability to deal with problems like global warming. Or society can achieve a deliberate balance between short term gain and long term investment eg. spend a large amount on scientific research. Part of this is of course, no free enterprise.
+A society that can organise and direct work to the greatest good is a higly desirable configuration. This gives the ability to deal with problems like global warming. Or society can achieve a deliberate balance between short term gain and long term investment eg. spend a large amount on scientific research. Part of this is of course, no free enterprise.
 
 Broad scale cooperation is the *optimisitic* base part of open socialism. It's on paper better but brings it's own set of issues.
 
@@ -125,33 +121,33 @@ Broad scale cooperation is the *optimisitic* base part of open socialism. It's o
 
 The tribal model and successful modern cooperative systems all have some degree of inequality. Humans are motivated to excel and get ahead. The communist ideal 'from each according to their ability, to each according to their need' is in fact not ideal.
 
-However, humans will try and get ahead and attract a good mate given some means to do so. The rewards do not need to be excessive. The carrot of becoming a billionaire that capitalism dangles is counter productive since extreme wealth concentration also brings it's own set of issues.
+Humans will try and get ahead and attract a good mate and should be given the means to do so. However, the rewards do not need to be excessive. The carrot of becoming a billionaire that capitalism dangles is counter productive since extreme wealth concentration also brings it's own set of issues.
 
 ### Align self interest with the greater good
 
 Humans need the ability to strive and reap benefits, however by itself, this isn't necessarily good for society. Not only do people need to be motivated, they ideally should be motivated towards the greater good. Therefore 'success' for an individual is also 'success' for society.
 
-In a directed society setting things up this way isn't particularly difficult.
+In a directed cooperative society it is possible to perform this alignment. It is far more difficult with a selfish base system.
 
 ### Prevent corruption
 
-The classical problem with cooperative directed societies (and societies in general) has been corruption breaking the above ideals. The tribal system could only have limited corruption since wealth accumulation was limited. This is obviously now (since agriculture) not the case.
+The classical problem with cooperative directed societies (and societies in general) has been corruption breaking the above ideals. The tribal system could only have limited corruption since wealth accumulation was limited. Since agriculture, this has no longer been the case.
 
-The other interesting mechanism in a tribal society is that it was very open. There is only so much skulduggery that can occur in a group of closly bonded individuals living in a jungle.
+The other interesting mechanism in a tribal society is that it was very open. There is only so much skulduggery that can occur in a group of bonded individuals living in close proximity.
 
 Openness automatically limits corruption since corruption needs to happen under the nose of the rest of society. The open source model has shown people can coordinate with fully open communication.
 
-This needs to be coupled with some kind of democratic decision making process. If an individual is making the decisions corruption becomes much more possible.
+This needs to be coupled with some kind of [mini-democratic decision making process](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making){:target="_blank"}. If an individual is making the decisions corruption becomes much more possible.
 
 ## We can do better
 
 Capitalism and communism are systems that originated 300 years ago. With the explosion of technology, science and our understanding of human nature we have the tools to create far better systems.
 
-Open Socialism is one such attempt that cherry picks ideas from many places, but primarily is attempting to replicate the good attributes of the highly succussful tribal system (our natural habitat system) implemented on a grand scale.
+Open Socialism is one such attempt that cherry picks ideas from many places, but primarily is attempting to replicate the good attributes of the highly succussful tribal system but implemented on a grand scale.
 
 ## Develop Open Socialism
 
-Open Socialism is the seed concept of a new and better system, but it also an open source project itself. Through collaboration and iteration an obviously superior alternative can be developed.
+Open Socialism is the seed concept of a new and better system, but it also an open source project itself. Through collaboration and iteration it should be possible to develop a superior system.
 
 [Interesting, I'd like to know more about Open Socialism](/open-socialism).
 
