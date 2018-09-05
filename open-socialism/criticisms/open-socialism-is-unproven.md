@@ -16,7 +16,7 @@ Open source software is free software often run by independent groups of people.
 
 ## The Business World
 
-The business world, which has no restriction on how it manages itself, is continually moving towards cooperative tribal like systems, similar to OS. [Tribal leadership](https://en.wikipedia.org/wiki/Tribal_Leadership){:target="_blank"} is one such movement. The reasoning is that it is more effective if people work together as a tribe, sharing information and knowledge, rather than compete with each other similar to capitalism.
+The business world, which has no restriction on how it manages itself, is continually moving towards cooperative tribal like systems, similar to OS. [Tribal leadership](https://www.triballeadership.net/book){:target="_blank"} is one such movement. The reasoning is that it is more effective if people work together as a tribe, sharing information and knowledge, rather than compete with each other similar to capitalism.
 
 ## Cooperative Businesses
 
