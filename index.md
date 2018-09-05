@@ -4,7 +4,7 @@ layout: default
 
 # Welcome To Open Socialism
 
-Open Socialism is a rethink on how to run a society. It takes the best parts from communism, socialism, capitalism, democracy and a variety of other sources and offers a new and ultimately radically different system for society than the currently popular democratic capitalism.
+Open Socialism is a rethink on how to run a society. It takes the best parts from communism, socialism, capitalism, democracy and a variety of other sources and offers a new and radically different system for society than the currently popular democratic capitalism.
 
 <div class="tile-list">
   <div class="row">

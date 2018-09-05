@@ -43,7 +43,7 @@ Reasonable wealth and power inequality based on merit is OK and humans naturally
 
 A key metric of a society is to what degree does self interested behaviour cooincide with the good of the group. A more deliberate and organised society, focused on the greater good, like the tribal model may be possible.
 
-It's also worth noting that humans are no inherently selfish. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
+It's also worth noting that humans are not inherently selfish. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
 
 ## A Cooperative Base System
 
@@ -144,6 +144,10 @@ This needs to be coupled with some kind of [mini-democratic decision making proc
 Capitalism and communism are systems that originated 300 years ago. With the explosion of technology, science and our understanding of human nature we have the tools to create far better systems.
 
 Open Socialism is one such attempt that cherry picks ideas from many places, but primarily is attempting to replicate the good attributes of the highly succussful tribal system but implemented on a grand scale.
+
+## Can we ever implement such a system?
+
+All we can say is that replacing capitalism cannot happen without an alternative to move to. Communism / Socialism / Marxism have good elements, but they have not been effective systems and are, prehaps rightly, regarded as non-viable. Therefore, step 1 is to create a viable and compelling alternative. Step 2 is how do we either starting using said new system, or at the least move towards it.
 
 ## Develop Open Socialism
 
