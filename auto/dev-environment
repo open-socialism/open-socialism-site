@@ -1,8 +1,9 @@
-#! /bin/bash -eu
+#!/bin/bash
+set -Eexuo pipefail
 
 cd $(dirname $0)/..
 
-docker volume create --name ruby2.4-gem-cache > /dev/null
+docker volume create --name ruby2.5-gem-cache > /dev/null
 
 docker-compose build ${service-dev}
 

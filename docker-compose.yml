@@ -7,7 +7,7 @@ services:
     command: ./run
     volumes:
       - .:/work
-      - ruby2.4-gem-cache:/usr/local/bundle
+      - ruby2.5-gem-cache:/usr/local/bundle
     ports:
       - 4000:4000
   prod:
@@ -17,5 +17,5 @@ services:
       service: dev
 
 volumes:
-  ruby2.4-gem-cache:
+  ruby2.5-gem-cache:
     external: true
