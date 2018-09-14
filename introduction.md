@@ -10,7 +10,7 @@ Before getting into the specifics let's look at some attributes of a tribal soci
 
 ## The Tribal Model
 
-Humans evovled to operate in small nomadic tribes. This model has existed for approximately 195,000 years and can be considered as humans *natural system*.
+Humans (or Homo Sapiens) evovled to operate in small nomadic tribes. We have been using this model since we [evolved around 315,000 years ago](https://en.wikipedia.org/wiki/Homo_sapiens){:target="_blank"}. It can be considered as humans *natural system*.
 
 Let's look at some of the attributes of tribes.
 
@@ -19,7 +19,7 @@ Let's look at some of the attributes of tribes.
 * Limited power and wealth inequality
 * Meritocracy
 
-All these attributes are important. We have evolved to operate in such a way. However, what is the key difference between the tribal model and the systems we have had since then?
+All these attributes are important. We have evolved to operate in such a way. However, what are the key differences between the tribal model and the systems we have had since then?
 
 ### Wealth accumulation is not possible
 
@@ -41,17 +41,19 @@ In newer systems self interest sometimes cooincides with the good of the group b
 
 Reasonable wealth and power inequality based on merit is OK and humans naturally organise in this way. Accumulation beyond this is counter productive and leads to extreme and unmerited power centralisation and corruption.
 
-A key metric of a society is to what degree does self interested behaviour cooincide with the good of the group. A more deliberate and organised society, focused on the greater good, like the tribal model may be possible.
+A key metric of a society is to what degree does self interested behaviour cooincide with the good of the group. A more deliberate and organised society, focused on the greater good, like the tribal model should be possible.
 
-It's also worth noting that humans are not inherently selfish. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
+Humans are not inherently selfish. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
+
+So how do we go about designing a modern system with the benefits of the tribal model?
 
 ## A Cooperative Base System
 
-A cooperative base system means that people primarily work together for the greater good of the group. There may be elements of competition and selfishness, but these are not the primary mode of operation.
+Let's start with a cooperative base system. This means that people primarily work together for the greater good of the group. There may be elements of competition and selfishness, but these are not the primary mode of operation.
 
 ### What are the benefits?
 
-A cooperative system means that through leadership a group can have a directed purpose. For example a tribe can decide to migrate if food is depleting in their current area. This isn't possible with systems that have everyone working to their own self interest.
+A cooperative system means that through leadership a group can have a directed purpose. For example a tribe can decide to migrate if food is depleting in their current area. This is far more diffucult with systems that have everyone working to their own self interest.
 
 The modern example is climate change, where it is clearly to the groups interest to greatly limit C02 emissions and halt climate change, but executing this is not possible due to an individualistic selfish base system.
 
@@ -65,11 +67,11 @@ Since the tribal system, cooperative systems have not been stable. Notably commu
 
 #### Wealth / power accumulation is possible
 
-Communism has ideals of limiting wealth and power accumulation, however it turns out this is an exceptionally difficult to implement. Humans will naturally seek advantage for themselves and a system designed to limit that needs to be water tight. If not corruption and inequality will snowball and society will suffer.
+Communism has ideals of limiting wealth and power accumulation, however it turns out this is an exceptionally difficult to implement. Humans will naturally seek advantage for themselves and a system designed to limit that needs to be watertight. If not corruption and inequality will snowball and society will suffer.
 
 #### Self interest is aligned to the benefit of the group
 
-Communism on paper beautifully aligns self interest with the good of the group. However, if corruption and inequality have snowballed, the means of raising your own wealth is no longer about providing value to the group, but provding value to the corrupt and powerful people.
+Communism on paper beautifully aligns self interest with the good of the group, by evryone working directly for the group's purpose. However, if corruption and inequality have snowballed, the means of raising your own wealth is no longer about providing value to the group, but provding value to the corrupt and powerful people.
 
 #### Limited motivation to excel
 
@@ -81,9 +83,9 @@ The cooperative model is on paper much better, but in practice at a large scale 
 
 ## The Open Source Model
 
-[Open Source Software (OSS)](https://en.wikipedia.org/wiki/Open-source_software){:target="_blank"} is free software that is deveoped in the open. The code is fully accessible and you are free to take a copy and modify it. Business can be involved in the development of OSS, but OSS projects are typically run separately from businesses and anyone can contribute. Teams are typically distributed around the world and usually it is unpaid work.
+[Open Source Software (OSS)](https://en.wikipedia.org/wiki/Open-source_software){:target="_blank"} is free software that is deveoped in the open. The code is fully accessible and you are free to take a copy and modify it. Business can be involved in the development of OSS, but OSS projects are typically run separately from businesses and anyone can contribute. Teams are usually distributed around the world and the work is unpaid.
 
-Probably you are thinking this wouldn't work. People doing unpaid work, distrubuted teams and a lack of commercial direction.
+Probably you are thinking this wouldn't work. People doing unpaid work, distrubuted teams and a lack of commercial direction. However, OSS has been extremely successful with virtually all of commercial software depending on it in some way.
 
 The [Open Source Model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} is the processes used to manage open source projects and teams. This process has a lot in common with the tribal model, but is operates in a highly different environment. What are some aspects?
 
@@ -105,7 +107,7 @@ Corruption in OSS is tricky at best. The ideal followed is that all communicatio
 
 ## The ideals of the tribal model live on
 
-Their aren't many people living in literal tribes anymore but the good stuff about the tribal model lives on. Modern business, in particular in technology are also moving to [similar models with the formation of actual 'tribes'](https://vimeo.com/85490944){:target="_blank"} and utilize processes that mirror how humans operate in actual tribes.
+Their aren't many people living in literal tribes anymore but the good stuff about the tribal model lives on. Modern business, in particular technology companies are also moving to [similar models with the formation of actual 'tribes'](https://vimeo.com/85490944){:target="_blank"} and utilize processes that mirror how humans operate in actual tribes.
 
 ## 'Open Socialism' - The tribal model on a grand scale
 
@@ -119,19 +121,19 @@ Broad scale cooperation is the *optimisitic* base part of open socialism. It's o
 
 ### Measured inequality
 
-The tribal model and successful modern cooperative systems all have some degree of inequality. Humans are motivated to excel and get ahead. The communist ideal 'from each according to their ability, to each according to their need' is in fact not ideal.
+The tribal model and successful modern cooperative systems all have some degree of inequality. Humans are motivated to excel and get ahead. The communist ideal ['from each according to their ability, to each according to their need'](https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs){:target="_blank"} is in fact not ideal.
 
-Humans will try and get ahead and attract a good mate and should be given the means to do so. However, the rewards do not need to be excessive. The carrot of becoming a billionaire that capitalism dangles is counter productive since extreme wealth concentration also brings it's own set of issues.
+Humans will try and get ahead and attract a good mate and should be given the means to do so. However, the rewards do not need to be excessive. Humans have always striven to be successful and noticed in any environment. The carrot of becoming a billionaire that capitalism dangles is unnecessary and counter productive since extreme wealth concentration also brings it's own set of issues.
 
 ### Align self interest with the greater good
 
-Humans need the ability to strive and reap benefits, however by itself, this isn't necessarily good for society. Not only do people need to be motivated, they ideally should be motivated towards the greater good. Therefore 'success' for an individual is also 'success' for society.
+Humans need the ability to strive and reap benefits, however by itself, this isn't necessarily good for society. Not only do people need to be motivated, they ideally should be motivated towards the greater good of all. Therefore 'success' for an individual is also 'success' for society.
 
 In a directed cooperative society it is possible to perform this alignment. It is far more difficult with a selfish base system.
 
 ### Prevent corruption
 
-The classical problem with cooperative directed societies (and societies in general) has been corruption breaking the above ideals. The tribal system could only have limited corruption since wealth accumulation was limited. Since agriculture, this has no longer been the case.
+The classical problem with cooperative directed societies (and societies in general) has been corruption breaking the societies lofty ideals. The tribal system could only have limited corruption since wealth accumulation was limited. Since agriculture, this has no longer been the case.
 
 The other interesting mechanism in a tribal society is that it was very open. There is only so much skulduggery that can occur in a group of bonded individuals living in close proximity.
 
