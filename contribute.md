@@ -5,7 +5,7 @@ permalink: /contribute/
 
 So you want to help? Awesome!
 
-To learn about the system have a look at the [introduction](/introduction). Then checkout [Open Socialism in more detail](/open-socialism). If you are feeling motivated move on to the [core tenets](/open-socialism/core-tenets), then read about [circles](/open-socialism/hierarchy/circles). Keep on reading through the different sections.
+To learn about the system have a look at the [introduction](/introduction). Then checkout [Open Socialism in more detail](/open-socialism) and the [core tenets](/open-socialism/core-tenets), then read about [circles](/open-socialism/hierarchy/circles).
 
 Also check out the [plan](/plan) to understand the current and next milestone for OS.
 
