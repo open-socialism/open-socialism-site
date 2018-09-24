@@ -2,7 +2,7 @@
 title: 'The Plan'
 ---
 
-Generally OS will follow the model of open source software and the principle of [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often){:target="_blank"}. This is similar to how wikipedia works which boils down to 'get something out there, it may not be perfect, then iterate on it from the feedback you receive'. Even if what is created is initially poor quality it can be reliably and iteratively improved much faster with public feedback and help than in isolation.
+OS will follow the model of open source software and the principle of [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often){:target="_blank"}. This is similar to how wikipedia works which boils down to 'get something out there, it may not be perfect, then iterate on it from the feedback you receive'. Even if what is created is initially poor quality it can be reliably and iteratively improved much faster with public feedback and help than in isolation.
 
 Each phase of OS is geared at getting help and feedback from people and to iteratively refine the system and back it up with facts.
 
