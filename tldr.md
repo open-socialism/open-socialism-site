@@ -1,5 +1,5 @@
 ---
-title: 'tl;dr (Too Long Didn't Read)'
+title: tl;dr (Too Long Didn't Read)
 ---
 
 ## tl;dr of the tl;dr
