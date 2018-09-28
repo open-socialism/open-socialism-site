@@ -14,4 +14,4 @@ Although, those that have been wronged should feel that the perpetrator was puni
 
 ## Favor Penance That Contributes
 
-Sitting is prison doesn't contribute to society. Concepts like community service help society and are should be more beneficial to people who have committed crimes.
+Sitting in prison doesn't contribute to society. Concepts like community service help society and should be more beneficial to people who have committed crimes.
