@@ -20,7 +20,7 @@ The business world, which has no restriction on how it manages itself, is contin
 
 ## Cooperative Businesses
 
-[The Mondragon Corporation](https://en.wikipedia.org/wiki/Mondragon_Corporation){:target="_blank"} is a [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative){:target="_blank"} which has values of cooperation and a relatively even distribution of wealth (executives on average only make 5 times a minimum wage earner which are actually rare since most roles a considered a form of specialization).
+[The Mondragon Corporation](https://en.wikipedia.org/wiki/Mondragon_Corporation){:target="_blank"} is a [worker cooperative](https://en.wikipedia.org/wiki/Worker_cooperative){:target="_blank"} which has values of cooperation and a relatively even distribution of wealth (executives on average only make 5 times a minimum wage earner which are actually rare since most roles are considered a form of specialization).
 
 ## Wikipedia
 

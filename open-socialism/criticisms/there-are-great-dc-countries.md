@@ -4,7 +4,7 @@ title: 'There are great DC countries'
 
 'You are referencing the USA a lot when looking at issues with DC, however there are much better DC countries such as the Nordic ones. Those countries show that DC is a good system and that great wealth inequality and a corrupted democracy are not inherent issues. Isn't this assessment specious and shouldn't the next step for DC be to take ideas from the best examples of DC and apply them all over the world?'
 
-## There is values in considering improvments to a system AND alternatives
+## There is value in considering improvments to a system AND alternatives
 
 Regardless of the quality of DC as a system or what the best iteration is there is always value in considering what the evolutionary improvements to a system are and alternative new systems. [Utopia for realists](https://thecorrespondent.com/utopia-for-realists/){:target="_blank"} is a great example of what are the next evolutionary improvements for DC.
 
@@ -12,9 +12,11 @@ OS however, is striving to be an alternative, compelling and superior system.
 
 ## DC countries cannot be analyzed in isolation
 
-Due to globalization DC countries have relationships with each other. Foreign business owners can seize portions of markets in a country which serves to decrease wealth inequality in those countries as that profit is going offshore. Then the decreased wealth inequality results in less political influence for the wealthy in those countries.
+Due to globalization DC countries have relationships with each other. Foreign business owners can seize portions of markets in a country which serves to decrease the wealth in those countries as that profit is going offshore. Countries with weak currencies and cheap cost of living have a large proportion of their people working for global corporations.
 
-The corporations of the USA and their owners are primarily the ones that have moved into all the other DC countries and are reaping profits. This is also part of the reason why the USA has such staggering wealth inequality and a highly corrupted democracy.
+This all results in the countries of origin of the corporations becoming richer, but the money is going to select few so the wealth inequality increases.
+
+In short, DC is in control of the world and a global system. Successful DC countries are only possible with a large number of poor people around the world making the goods. A system that is doing pretty well but parasitic is ultimately not good system when all the effected people are considered.
 
 ## DC countries with natural resources have less inequality
 
@@ -40,7 +42,7 @@ The Norway state government is large and excises a lot of control over capitalis
 
 ### A large state government with significant holdings
 
-[The government also owns completely and partially many companies](https://www.oecd.org/daf/ca/35175246.pdf){:target="_blank"} and in total owns 32% of shares on the Oslo stock exchange. In particular the government has strong holdings in the petroleum and hydro-electric energy sectors. This ownership influences these companies to not be greatly corrupt and also means the profit they generate is redistributed amoungst the people.
+[The government also owns completely and partially many companies](https://www.oecd.org/daf/ca/35175246.pdf){:target="_blank"} and in total owns 32% of shares on the Oslo stock exchange. In particular the government has strong holdings in the petroleum and hydro-electric energy sectors. This ownership influences these companies to not be greatly corrupt and also means the profit they generate is redistributed amongst the people.
 
 ### A lot of natrual resources
 
@@ -51,6 +53,10 @@ Norway has a lot of natural resources which buffers it against recessions which 
 [Households in the highest 10 percent for net wealth own roughly 53 per cent of total net wealth, the richest 1 per cent control 21 per cent, while the top 0.1 per cent own 10 per cent of total net wealth](http://www.ssb.no/a/english/publikasjoner/pdf/rapp_201235_en/rapp_201235_en.pdf){:target="_blank"}.
 
 However, thanks to the strong welfare available this wealth inequality is much less segregating and promoting of divides in class.
+
+### Norway is still dependent on the global economy
+
+Norway may have great welfare and regulation, but it still buys cheap goods made by poor people in other countries. These goods are made with a lot of polution and the workers are not fairly redeemed for their work. The balance for Norway is still based on a form of exploitation.
 
 ### Conclusion of Norway
 
