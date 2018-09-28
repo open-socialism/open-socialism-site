@@ -30,7 +30,7 @@ Purely voting driven decision making doesn't promote discussion which can flesh 
 
 ## Member Selection
 
-Initial selection is done by the parent circle. From that point on a circle can manage it's own members. New members can be added by the circle. Existing members can resign, or can be voted out if there are issues. Typically a circle would have a low number of members (less than 20) to allow for easy discussion between the members.
+Initial selection is done by the parent circle. From that point on a circle can manage it's own members. New members can be added by the circle. Existing members can resign, or can be voted out if there are issues. Typically a circle would have a low number of members (less than 10) to allow for easy discussion between the members.
 
 ## An Example
 
