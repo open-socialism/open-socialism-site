@@ -18,6 +18,8 @@ Data analysis can be hugely beneficial to society. Anonymized data would be avai
 
 It is not necessary for the police or anyone to have a access to an individuals data. A warrant could be obtained to get access in extreme circumstances though.
 
+This one is tricky though. It may work out that society overall fairs better if individual's data is always unaccessible.
+
 ## The More Prestigious A Role The Less Privacy
 
 All work should be transparent in OS and anyone in society can view the work of anyone else. The higher up you are in society the more people will want to follow what is going on and the more scrutiny an individual can expect. There may be more anti-corruption programs running as well to ensure such people are working for the good of the people.
