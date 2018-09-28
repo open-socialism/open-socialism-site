@@ -17,4 +17,4 @@ In short, people are motivated to:
 
 These are strong evolved biological urges that will exist regardless of the system of government. If there is some method of gaining prestige, attracting a mate and being an important member of a community humans will strive for it much as they strived for these in a hunter gatherer society.
 
-It is rediculous to think that massive reward is required for motivation when humans have be striving and doing amazing work throughout history and only recently (since capitalism) has it been possible to accumulate massive ammounts of wealth. Humans will happily strive for prestige and moderate monetary reward to satisfy their biological urges.
+It is rediculous to think that massive reward is required for motivation when humans have been striving and doing amazing work throughout history and only recently (since capitalism) has it been possible to accumulate massive ammounts of wealth. Humans will happily strive for prestige and moderate monetary reward to satisfy their primal urges.
