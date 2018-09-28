@@ -4,7 +4,7 @@ title: 'Normal Human Corruption'
 
 Given the [motivations of people](what-motivates-people) how do humans operate?
 
-Put simply, humans look after their community whilst acting as selflishly as possible insofar as it doesn't affect their place in that community, or threaten the community itself. This selfishness can be considered 'normal human corruption' and is natural behavior for humans.
+Put simply, humans look after their community whilst acting as selflishly as possible, insofar as it doesn't affect their place in that community, or threaten the community itself. This selfishness can be considered 'normal human corruption' and is natural behavior for humans.
 
 ## In the tribal system
 
