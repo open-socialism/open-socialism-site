@@ -6,7 +6,7 @@ title: 'There are great DC countries'
 
 ## There is value in considering improvments to a system AND alternatives
 
-Regardless of the quality of DC as a system or what the best iteration is there is always value in considering what the evolutionary improvements to a system are and alternative new systems. [Utopia for realists](https://thecorrespondent.com/utopia-for-realists/){:target="_blank"} is a great example of what are the next evolutionary improvements for DC.
+Regardless of the quality of DC as a system or what the best iteration is there is always value in considering what the evolutionary improvements to a system are and alternative new systems. [Utopia for realists](https://en.wikipedia.org/wiki/Utopia_for_Realists_(book)){:target="_blank"} is a great example of what are the next evolutionary improvements for DC.
 
 OS however, is striving to be an alternative, compelling and superior system.
 
