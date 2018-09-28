@@ -48,4 +48,4 @@ If this sounds too difficult don't worry, just suggest changes via the feedback 
 If you want to help but feel like you need more knowledge of human history and societies the following books are good.
 
 * [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095){:target="_blank"}. A history of Homo Sapiens and societies.
-* [Utopia for Realsts](https://thecorrespondent.com/utopia-for-realists/){:target="_blank"}. Gives a good summary of the current state of affairs with DC (and suggests some good steps DC can move towards).
+* [Utopia for Realsts](https://en.wikipedia.org/wiki/Utopia_for_Realists_(book)){:target="_blank"}. Gives a good summary of the current state of affairs with DC (and suggests some good steps DC can move towards).
