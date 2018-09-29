@@ -4,13 +4,13 @@ permalink: /introduction/
 ---
 ## What is 'Open Socialism'?
 
-Open Socialism (OS) is a rethink of how to manage a society. It starts with an *optimistic* base concept that focuses on broad scale cooperation, but then layers on processes and ideas to keep people motivated and prevent corruption. It looks at human nature through the lens of our evolution and attempts to recapture the good parts of a tribal society, but in a way that can work on a grand scale. It borrows heavily from modern team and culture management, in paricular [the open source model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"}.
+Open Socialism (OS) is a rethink of how to manage a society. It starts with an *optimistic* base concept that focuses on broad scale cooperation, but then layers on processes and ideas to keep people motivated and prevent corruption. It looks at human nature through the lens of our evolution and attempts to recapture the good parts of a tribal society, but in a way that can work on a grand scale. It borrows heavily from modern team and culture management, in particular [the open source model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"}.
 
 Before getting into the specifics let's look at some attributes of a tribal society.
 
 ## The Tribal Model
 
-Humans (or Homo Sapiens) evovled to operate in small nomadic tribes. We have been using this model since we [evolved around 315,000 years ago](https://en.wikipedia.org/wiki/Homo_sapiens){:target="_blank"}. It can be considered as humans *natural system*.
+Humans (or Homo Sapiens) evolved to operate in small nomadic tribes. We have been using this model since we [evolved around 315,000 years ago](https://en.wikipedia.org/wiki/Homo_sapiens){:target="_blank"}. It can be considered as humans *natural system*.
 
 Let's look at some of the attributes of tribes.
 
@@ -27,7 +27,7 @@ In the tribal model the maximum wealth and power attainable is to rule the tribe
 
 #### Contrasts
 
-In newer systems initial wealth and power may be aquired through merit and providing value to everyone, but from there wealth and power snowballs. Ongoing value to all need not be provided and over time the wealthy and powerful can be very focused on their own benefit over the greater good. This snowballing process continues to the next generation.
+In newer systems initial wealth and power may be acquired through merit and providing value to everyone, but from there wealth and power snowballs. Ongoing value to all need not be provided and over time the wealthy and powerful can be very focused on their own benefit over the greater good. This snowballing process continues to the next generation.
 
 ### Self interest is directly aligned with the good of the tribe
 
@@ -35,13 +35,13 @@ To be successful one needs to be valuable to the tribe. Leaders are selected by 
 
 #### Contrasts
 
-In newer systems self interest sometimes cooincides with the good of the group but often does not. Making money often involves manipulating others or exploiting the weak. The more money one accumulates the less their labor seems to benefit others.
+In newer systems self interest sometimes coincides with the good of the group but often does not. Making money often involves manipulating others or exploiting the weak. The more money one accumulates the less their labor seems to benefit others.
 
 ### The Tribal Model Conclusion
 
 Reasonable wealth and power inequality based on merit is OK and humans naturally organise in this way. Accumulation beyond this is counter productive and leads to extreme and unmerited power centralisation and corruption.
 
-A key metric of a society is to what degree does self interested behaviour cooincide with the good of the group. A more deliberate and organised society, focused on the greater good, like the tribal model should be possible.
+A key metric of a society is to what degree does self interested behaviour coincide with the good of the group. A more deliberate and organised society, focused on the greater good, like the tribal model should be possible.
 
 Humans are not purely selfish. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
 
@@ -53,7 +53,7 @@ Let's start with a cooperative base system. This means that people primarily wor
 
 ### What are the benefits?
 
-A cooperative system means that through leadership a group can have a directed purpose. For example a tribe can decide to migrate if food is depleting in their current area. This is far more diffucult with systems that have everyone working to their own self interest.
+A cooperative system means that through leadership a group can have a directed purpose. For example a tribe can decide to migrate if food is depleting in their current area. This is far more difficult with systems that have everyone working to their own self interest.
 
 The modern example is climate change, where it is clearly to the groups interest to greatly limit C02 emissions and halt climate change, but executing this is not possible due to an individualistic selfish base system.
 
