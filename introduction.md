@@ -43,7 +43,7 @@ Reasonable wealth and power inequality based on merit is OK and humans naturally
 
 A key metric of a society is to what degree does self interested behaviour cooincide with the good of the group. A more deliberate and organised society, focused on the greater good, like the tribal model should be possible.
 
-Humans are not inherently selfish. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
+Humans are not purely selfish. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
 
 So how do we go about designing a modern system with the benefits of the tribal model?
 

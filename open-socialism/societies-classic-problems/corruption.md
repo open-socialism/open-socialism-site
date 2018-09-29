@@ -15,4 +15,4 @@ Avoiding predatory behavior (as much as possible) where self interest harms soci
 
 ## Non-Systemic Corruption
 
-This is what most people think of when they hear the word corruption and it is a big deal. Illegal corruption is a classical problem and needs to be addressed.
+This is what most people think of when they hear the word corruption and it is a serious threat to any society. However, DC has shown that simply through legal means society can be corrupted to greatly favor the already rich. This is the bigger concern.

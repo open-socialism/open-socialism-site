@@ -16,10 +16,10 @@ Domination structures are THE classical problem of societies. Virtually every po
 
 The progression is something like this:
 
-1. A new society appears such as after a revolution.
+1. A new society appears eg. after a revolution.
 2. A reputable person or group is chosen to lead for meritocratic reasons.
 3. With the large amount of power, either this group starts to become corrupt or over time the members change or die and the new leaders start to become corrupt.
-4. With this corruption changes are made which increase the wealth and power of the leaders. This in turn leads to more corruption and the process snowballs (along the lines of more power is more likelyhood and extent of corruption).
+4. With this corruption changes are made which increase the wealth and power of the leaders. This in turn makes even more corruption possible and the process snowballs.
 5. The leaders are as corrupt as they can get away with. Eventually they usually go too far and there is another revolution.
 
 ## Normal Human Corruption
@@ -28,6 +28,6 @@ Corruption is certainly the norm for humans which is why society always evolves 
 
 It is simplistic to choose honorable people to lead and expect corruption to not be a problem. This has been the classic mistake of Communism where the idea itself is highly equitable but processes aren't in place to handle normal human corruption. It is even more import for Communism where the leaders are in control of effectively everything and everyone (since there is a large amount of state ownership and everyone works for the government).
 
-Capitalism is interesting in that you don't have leaders with such complete power, however wealth centralization leads to power (via the political system) centralization (which leads to even more wealth centralization and so on) and the result is basically the same.
+Capitalism is interesting in that you don't have leaders with such complete power, however wealth centralization leads to power (via the political system) centralization (which leads to even more wealth centralization and so on) and the result is basically the same result.
 
 Preventing or limiting the degree of a domination structure is the most important problem for a society to address.
