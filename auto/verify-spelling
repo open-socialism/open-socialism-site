@@ -1,0 +1,6 @@
+#!/bin/bash
+set -Eexuo pipefail
+
+cd $(dirname $0)/..
+
+auto/dev-environment bash -c 'hunspell -d custom-dict,en_US -i utf-8 -p -H  introduction.md'
