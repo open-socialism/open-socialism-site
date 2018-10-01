@@ -28,7 +28,7 @@ Democratic capitalism as a system has served humanity well and for a period of t
 
 Open Socialism is in a very early draft status. Everything is open to change and the goal is to develop the system as an [open source](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} project. [Want to help?](contribute)
 
-[Ok, I want to know more](introduction).
+[OK, I want to know more](introduction).
 
 [Too Long Didn't Read..](tldr)
 
