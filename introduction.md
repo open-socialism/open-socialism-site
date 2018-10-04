@@ -85,7 +85,7 @@ The cooperative model is on paper much better, but in practice at a large scale 
 
 [Open Source Software (OSS)](https://en.wikipedia.org/wiki/Open-source_software){:target="_blank"} is free software that is developed in the open. The code is fully accessible and you are free to take a copy and modify it. Business can be involved in the development of OSS, but OSS projects are typically run separately from businesses and anyone can contribute. Teams are usually distributed around the world and the work is unpaid.
 
-Probably you are thinking this wouldn’t work. People doing unpaid work, distributed teams and a lack of commercial direction. However, OSS has been extremely successful with virtually all of commercial software depending on it in some way.
+Probably you are thinking this wouldn't work. People doing unpaid work, distributed teams and a lack of commercial direction. However, OSS has been extremely successful with virtually all of commercial software depending on it in some way.
 
 The [Open Source Model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} is the processes used to manage open source projects and teams. This process has a lot in common with the tribal model, but is operates in a highly different environment. What are some aspects?
 
@@ -107,7 +107,7 @@ Corruption in OSS is tricky at best. The ideal followed is that all communicatio
 
 ## The ideals of the tribal model live on
 
-Their aren’t many people living in literal tribes anymore but the good stuff about the tribal model lives on. Modern business, in particular technology companies are also moving to [similar models with the formation of actual 'tribes'](https://vimeo.com/85490944){:target="_blank"} and utilize processes that mirror how humans operate in actual tribes.
+Their aren't many people living in literal tribes anymore but the good stuff about the tribal model lives on. Modern business, in particular technology companies are also moving to [similar models with the formation of actual 'tribes'](https://vimeo.com/85490944){:target="_blank"} and utilize processes that mirror how humans operate in actual tribes.
 
 ## 'Open Socialism' - The tribal model on a grand scale
 
@@ -127,7 +127,7 @@ Humans will try and get ahead and attract a good mate and should be given the me
 
 ### Align self interest with the greater good
 
-Humans need the ability to strive and reap benefits, however by itself, this isn’t necessarily good for society. Not only do people need to be motivated, they ideally should be motivated towards the greater good of all. Therefore 'success' for an individual is also 'success' for society.
+Humans need the ability to strive and reap benefits, however by itself, this isn't necessarily good for society. Not only do people need to be motivated, they ideally should be motivated towards the greater good of all. Therefore 'success' for an individual is also 'success' for society.
 
 In a directed cooperative society it is possible to perform this alignment. It is far more difficult with a selfish base system.
 
