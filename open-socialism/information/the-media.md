@@ -2,7 +2,7 @@
 title: 'The Media'
 ---
 
-There would be some news organisation responsible for breaking down and communicating the news.
+There would be some news organization responsible for breaking down and communicating the news.
 
 However, there is much less need for the media in the form it is in a DC society. In DC with segments of self interest there is a lot of incentive to conceal or misrepresent facts.
 

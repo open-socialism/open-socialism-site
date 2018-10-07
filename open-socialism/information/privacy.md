@@ -6,7 +6,7 @@ Privacy is an interesting issue for a societal system as complete privacy can wo
 
 ## Very Low Privacy Against Automated Systems
 
-It can be beneficial to create computer programs to look at an individuals private data. For example an anti corruption program could analyze money going in to people's bank accounts to look for anything that looks suspicious. Whilst it is only the program looking at everyones account activity no other human knows and this information cannot negatively impact an individual.
+It can be beneficial to create computer programs to look at an individuals private data. For example an anti corruption program could analyze money going in to people's bank accounts to look for anything that looks suspicious. Whilst it is only the program looking at everyone's account activity no other human knows and this information cannot negatively impact an individual.
 
 If an individual was identified as possibly corrupt then a human may become involved to investigate but this would be rare.
 
@@ -18,7 +18,7 @@ Data analysis can be hugely beneficial to society. Anonymized data would be avai
 
 It is not necessary for the police or anyone to have a access to an individuals data. A warrant could be obtained to get access in extreme circumstances though.
 
-This one is tricky though. It may work out that society overall fairs better if individual's data is always unaccessible.
+This one is tricky though. It may work out that society overall fairs better if individual's data is always inaccessible.
 
 ## The More Prestigious A Role The Less Privacy
 

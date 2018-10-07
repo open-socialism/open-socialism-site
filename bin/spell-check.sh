@@ -1,10 +1,18 @@
 #!/bin/bash
-set -Eexuo pipefail
+set -Eeuo pipefail
 
-# bundle exec jekyll build
+echo "Building site.."
 
-ERRORS=$(find _site -name "*.html" -exec bin/spell-check-file.sh {} \;)
+bundle exec jekyll build
 
-if [ -z "$ERRORS" ]; then
-  echo "Shit be broke"
+
+echo "Checking spelling.."
+
+ERRORS=$(find ./_site -name "*.html" -exec bin/spell-check-file.sh {} \;)
+
+if ! [[ -z "$ERRORS" ]]; then
+  echo "$ERRORS"
+  exit 1
+else
+  echo "No spelling mistakes!"
 fi

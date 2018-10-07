@@ -31,13 +31,13 @@ The problem is it can never be assumed that humans won't be corrupt in any syste
 
 The tribal system dealt with this perfectly in that humans were living close to the brink so they had to work together. Helping one's tribe was helping oneself since the individual is entirely dependent on the tribe for survival. Being corrupt and hoarding food for example would result in an individual being ostracized so corruption was limited. As such self interested behavior was the kind that would also help the tribe as whole.
 
-This problem of having self interested behaviour also help the group is a core issue that any system including Communism needs to solve. It is more important in Communism because if everyone works for the state those who run the state have an incredible amount of power. They have the power to rule over the entirety of society and them working for their own self interest is much more destructive.
+This problem of having self interested behavior also help the group is a core issue that any system including Communism needs to solve. It is more important in Communism because if everyone works for the state those who run the state have an incredible amount of power. They have the power to rule over the entirety of society and them working for their own self interest is much more destructive.
 
-## Ok ok, so we should as a first step try and align self interest with the good of society
+## OK OK, so we should as a first step try and align self interest with the good of society
 
-Humans want to be selfish and get ahead. They want to be prestigious and to have more wealth than others. Ok no problem!
+Humans want to be selfish and get ahead. They want to be prestigious and to have more wealth than others. OK no problem!
 
-Society will have different levels of leaders and those that get ahead should get more money and prestige. However, the difference in wealth between someone at the top of society should not be hugely different than a member at the bottom of society. It might be something like 5x as much, although this is a knob to be tuned. More evenly distributed wealth will mean (particularly when modern technology is factored in) that the 'lowest' members of society will have an abundance and so should be satisfied.
+Society will have different levels of leaders and those that get ahead should get more money and prestige. However, the difference in wealth between someone at the top of society should not be hugely different than a member at the bottom of society. It might be something like 5 times as much, although this is a knob to be tuned. More evenly distributed wealth will mean (particularly when modern technology is factored in) that the 'lowest' members of society will have an abundance and so should be satisfied.
 
 With everyone striving for and being rewarded for providing value to society itself and not a private company this means self interest is very nicely aligned with the good of society.
 
@@ -45,7 +45,7 @@ With everyone striving for and being rewarded for providing value to society its
 
 Yes, corruption should still be expected.
 
-Ok, let's make virtually all information and decision making completely open and available on the internet, from all levels of society, both in real time and historically. This means that any corruption needs to be done under the nose of the entirety of society. We should also have feedback mechanisms where anyone can flag a decision as corrupt (or simply bad) and this feedback will reach the decision makers.
+OK, let's make virtually all information and decision making completely open and available on the internet, from all levels of society, both in real time and historically. This means that any corruption needs to be done under the nose of the entirety of society. We should also have feedback mechanisms where anyone can flag a decision as corrupt (or simply bad) and this feedback will reach the decision makers.
 
 Let's also have important decisions made using the [consensus seeking model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making){:target="_blank"}. So there is a committee and they try and achieve consensus to make a decision. This promotes discussion to achieve a good result. However, if consensus cannot be achieved a 2/3 majority vote is required to make a decision. If repeatedly a 2/3 majority cannot be a reached a final vote can be had that only requires a 50% majority. The voting system means that the committee will not be bogged down forever trying to reach a consensus.
 
@@ -67,4 +67,4 @@ There is a lot more to OS than this, but these are the core concepts of a highly
 
 Otherwise you can explore via the menu at the top left.
 
-Complete [the Open Socialism survey](https://docs.google.com/forms/d/1fbNE7hpmryylvsILKRK18PYORs4Mxkf7qOLOkiFDww0/viewform){:target="_blank"} or [provide general feedback](https://docs.google.com/forms/d/1FFv6d9JLqP23ZSKLjj63bPuzKtl6VaSRxqDM4VdFYdg/viewform){:target="_blank"}
+Complete [the Open Socialism survey](https://docs.google.com/forms/d/1fbNE7hpmryylvsILKRK18PYORs4Mxkf7qOLOKiFDww0/viewform){:target="_blank"} or [provide general feedback](https://docs.google.com/forms/d/1FFv6d9JLqP23ZSKLjj63bPuzKtl6VaSRxqDM4VdFYdg/viewform){:target="_blank"}
