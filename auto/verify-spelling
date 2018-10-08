@@ -3,4 +3,4 @@ set -Eexuo pipefail
 
 cd $(dirname $0)/..
 
-auto/dev-environment bash -c 'hunspell -d custom-dict,en_US -l _site/introduction/index.html'
+auto/dev-environment bin/spell-check.sh

@@ -5,7 +5,6 @@ echo "Building site.."
 
 bundle exec jekyll build
 
-
 echo "Checking spelling.."
 
 ERRORS=$(find ./_site -name "*.html" -exec bin/spell-check-file.sh {} \;)
