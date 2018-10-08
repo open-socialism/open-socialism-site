@@ -6,3 +6,10 @@ services:
 
 script: auto/verify-html
 script: auto/verify-spelling
+
+jobs:
+  include:
+    - stage: Test
+      script: auto/verify-html
+    -
+      script: auto/verify-spelling
