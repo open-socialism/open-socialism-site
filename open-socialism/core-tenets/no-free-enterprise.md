@@ -2,9 +2,9 @@
 title: 'No Free Enterprise'
 ---
 
-[Free enterpise has many inefficies that make it on paper much less efficient](/open-socialism/arguments/the-free-market-is-inefficient).
+[Free enterprise has many inefficiencies that make it on paper much less efficient](/open-socialism/arguments/the-free-market-is-inefficient).
 
-Free enterprise also tends towards wealth and power concentration that unlimately undermines governmental control.
+Free enterprise also tends towards wealth and power concentration that ultimately undermines governmental control.
 
 Open Socialism is focused on leveraging the benefits of no free enterprise whilst handling the classic problems this can cause.
 

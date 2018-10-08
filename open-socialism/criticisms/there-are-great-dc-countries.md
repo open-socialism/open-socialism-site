@@ -4,7 +4,7 @@ title: 'There are great DC countries'
 
 'You are referencing the USA a lot when looking at issues with DC, however there are much better DC countries such as the Nordic ones. Those countries show that DC is a good system and that great wealth inequality and a corrupted democracy are not inherent issues. Isn't this assessment specious and shouldn't the next step for DC be to take ideas from the best examples of DC and apply them all over the world?'
 
-## There is value in considering improvments to a system AND alternatives
+## There is value in considering improvements to a system AND alternatives
 
 Regardless of the quality of DC as a system or what the best iteration is there is always value in considering what the evolutionary improvements to a system are and alternative new systems. [Utopia for realists](https://en.wikipedia.org/wiki/Utopia_for_Realists_(book)){:target="_blank"} is a great example of what are the next evolutionary improvements for DC.
 
@@ -44,7 +44,7 @@ The Norway state government is large and excises a lot of control over capitalis
 
 [The government also owns completely and partially many companies](https://www.oecd.org/daf/ca/35175246.pdf){:target="_blank"} and in total owns 32% of shares on the Oslo stock exchange. In particular the government has strong holdings in the petroleum and hydro-electric energy sectors. This ownership influences these companies to not be greatly corrupt and also means the profit they generate is redistributed amongst the people.
 
-### A lot of natrual resources
+### A lot of natural resources
 
 Norway has a lot of natural resources which buffers it against recessions which increase wealth inequality. Additionally the government has large stakes in the exploitation of their natural resources which is steady income that is going to the people and not private individuals.
 
@@ -56,7 +56,7 @@ However, thanks to the strong welfare available this wealth inequality is much l
 
 ### Norway is still dependent on the global economy
 
-Norway may have great welfare and regulation, but it still buys cheap goods made by poor people in other countries. These goods are made with a lot of polution and the workers are not fairly redeemed for their work. The balance for Norway is still based on a form of exploitation.
+Norway may have great welfare and regulation, but it still buys cheap goods made by poor people in other countries. These goods are made with a lot of pollution and the workers are not fairly redeemed for their work. The balance for Norway is still based on a form of exploitation.
 
 ### Conclusion of Norway
 
@@ -74,4 +74,4 @@ Even when the best DC countries are considered and show there is such a thing as
 
 A truly great system doesn't require a class of external [precariat](https://en.wikipedia.org/wiki/Precariat){:target="_blank"} (those poor people in precarious situations forced to work for unfair pay or conditions). Also a country like Norway may be quite environmentally friendly within it's borders, but with Norwegians buying goods from a global market that may not be produced in environmentally friendly ways (eg. lots of carbon going into the atmosphere) it is still ultimately being destructive to long term human survival.
 
-Finally, as good as Norway is, there isn't much doubt that at least on paper a completely cooperative and state owned society, with everyone working towards the common good, would be more effective at the common good. As such it is worth exploring whether such a system is feasible ie. Open Socialism (or other alternatives) regardless of how good we get at mitigating the issues with DC.
+Finally, as good as Norway is, there isn't much doubt that at least on paper a completely cooperative and state owned society, with everyone working towards the common good, would be more effective at the common good. As such it is worth exploring whether such a system is feasible IE. Open Socialism (or other alternatives) regardless of how good we get at mitigating the issues with DC.

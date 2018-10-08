@@ -4,3 +4,4 @@ set -Eexuo pipefail
 cd $(dirname $0)/..
 
 auto/verify-html
+auto/verify-spelling

@@ -6,7 +6,7 @@ DC is quite poor in terms of happiness.
 
 ## Low Level Of Integration With Local Communities
 
-In DC local communities do not integrate well. People are generally respectful to their neighbours that live very close to them but usually that is as far as it goes. Humans are tribal and are happier when living in communities that they are integrated with, but nothing in DC promotes this.
+In DC local communities do not integrate well. People are generally respectful to their neighbors that live very close to them but usually that is as far as it goes. Humans are tribal and are happier when living in communities that they are integrated with, but nothing in DC promotes this.
 
 ## Work Is Unsatisfying
 

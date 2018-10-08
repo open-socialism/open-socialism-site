@@ -4,4 +4,12 @@ install: true
 services:
   - docker
 
-script: auto/verify
+script: auto/verify-html
+script: auto/verify-spelling
+
+jobs:
+  include:
+    - stage: Test
+      script: auto/verify-html
+    -
+      script: auto/verify-spelling

@@ -7,4 +7,4 @@ To what degree is the society ensuring the people's survival. Note the society s
 Questions can be:
 
 * Is long term survival being harmed by any present day actions? eg. environmental damage
-* Are there long term plans for human survival? eg. how to transisition from fossil fuels
+* Are there long term plans for human survival? eg. how to transition from fossil fuels
