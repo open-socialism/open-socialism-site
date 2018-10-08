@@ -67,4 +67,4 @@ There is a lot more to OS than this, but these are the core concepts of a highly
 
 Otherwise you can explore via the menu at the top left.
 
-Complete [the Open Socialism survey](https://docs.google.com/forms/d/1fbNE7hpmryylvsILKRK18PYORs4Mxkf7qOLOKiFDww0/viewform){:target="_blank"} or [provide general feedback](https://docs.google.com/forms/d/1FFv6d9JLqP23ZSKLjj63bPuzKtl6VaSRxqDM4VdFYdg/viewform){:target="_blank"}
+Complete [the Open Socialism survey](https://docs.google.com/forms/d/e/1FAIpQLSfE_MH5VYb82YSmVgENdMArXByNpOG4tb0i8J0t4ccjMtawgg/viewform){:target="_blank"} or [provide general feedback](https://docs.google.com/forms/d/1FFv6d9JLqP23ZSKLjj63bPuzKtl6VaSRxqDM4VdFYdg/viewform){:target="_blank"}
