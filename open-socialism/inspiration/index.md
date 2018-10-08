@@ -6,7 +6,7 @@ Open Socialism is inspired by a few different things.
 
 ## Communism
 
-Communism is a system that has almost always failed however it has many great concepts that can be learnt from. The reasons for failures are also interesting to look at.
+Communism is a system that has almost always failed however it has many great concepts that can be learned from. The reasons for failures are also interesting to look at.
 
 ## Evolutionary Psychology
 

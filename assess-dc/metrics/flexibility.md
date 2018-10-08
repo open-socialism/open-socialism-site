@@ -32,11 +32,11 @@ Wealthy individuals and corporations can manipulate the public to support certai
 
 For example the [Global Energy Balance Network](https://en.wikipedia.org/wiki/Global_Energy_Balance_Network){:target="_blank"} was a US-based non-profit investigating causes of obesity which found that exercise was the key, not diet. This group received substantial funding from Coca Cola.
 
-### To what degree is the political system motived by self interest
+### To what degree is the political system motivated by self interest
 
 Other limitations on flexibility is political parties and individual politicians are by in large interested in staying in power first and assisting the greater good second. This creates a lot of oppositional politics.
 
-For example in Australia there was a proposal to replace it's aging telecommunications infrastructure with an optic fibre network by the Labor Party. The existing copper network was poor and expensive as it had a high ongoing maintenance cost. As Labor ran with the idea to election the other major party, the Liberal Party (and the National Party as a coalition) needed to oppose it despite the fact that it was clearly a good idea and all of industry that didn't have some vested interest was in favor. The Liberals have since come into power and are reverting back to a plan that will utilize the copper network and is highly inefficient in the long term. For political reasons, not for the greater good, they had to take this stance.
+For example in Australia there was a proposal to replace it's aging telecommunications infrastructure with an optic fiber network by the Labor Party. The existing copper network was poor and expensive as it had a high ongoing maintenance cost. As Labor ran with the idea to election the other major party, the Liberal Party (and the National Party as a coalition) needed to oppose it despite the fact that it was clearly a good idea and all of industry that didn't have some vested interest was in favor. The Liberals have since come into power and are reverting back to a plan that will utilize the copper network and is highly inefficient in the long term. For political reasons, not for the greater good, they had to take this stance.
 
 This kind of putting the greater good second can also be seen at an individual politician level where the goal is typically to get elected first and have policies that contribute the most to the greater good second.
 
