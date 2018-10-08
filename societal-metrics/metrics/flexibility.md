@@ -14,4 +14,4 @@ How quickly can changes be made.
 
 ## Experimentation
 
-To what degree can society experiment. Experimentation can lead to short term loss but results in a greater long term gain.
+To what degree can society experiment. Experimentation leads to more knowledge and creates more diverse options to adapt as necessary.
