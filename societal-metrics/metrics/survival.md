@@ -2,7 +2,7 @@
 title: 'Survival'
 ---
 
-To what degree is the society ensuring the people's survival. Note the society should not be purely focused on ensuring the societies survival in it's current form because adaption and restructure can be beneficial.
+To what degree is the society ensuring the people's survival. Note: the society should not be purely focused on ensuring the societies survival in it's current form because adaption and restructure can be beneficial.
 
 Questions can be:
 
