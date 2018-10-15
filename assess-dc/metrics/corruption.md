@@ -20,7 +20,7 @@ Banks have been deemed 'too big to fail' and are insured from busting. Due to th
 
 ## Non-systemic corruption
 
-DC is pretty good with non systemic corruption as generally the political system is open enough that it is pretty difficult to pull off. Most non-systemic corruption is from companies who are not open to the public and lie or misrepresent the nature of their products. Most recently [the Volkswagen emissions scandal](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal){:target="_blank"}
+DC is pretty good with non-systemic corruption as generally the political system is open enough that it is pretty difficult to pull off. Most non-systemic corruption is from companies who are not open to the public and lie or misrepresent the nature of their products. Most recently [the Volkswagen emissions scandal](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal){:target="_blank"}
 
 ## The Result
 

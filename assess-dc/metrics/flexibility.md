@@ -10,9 +10,9 @@ DC's range of flexibility is quite varied between societies.
 
 ### To what degree can the wealthy influence political decisions
 
-To what degree can wealthy and corrupt (in the sense that they do not value the good of the many) people influence politics.
+To what degree can wealthy and corrupt (in the sense that they do not value the good of the many) people and influence politics.
 
-An example of the inflexibility of DC is taxation on the wealthy and wealth inequality. [For example the top 1% in the US own 40% of the wealth and the bottom 80% own 7% of the wealth](http://www.nytimes.com/2014/07/24/opinion/nicholas-kristof-idiots-guide-to-inequality-piketty-capital.html). This inequality is possible with a relatively low level of taxation on the wealthy partly due to tax rates and also loopholes to avoid tax. It is clearly in the interest of the many to raise taxes on the rich and close these loopholes but DC system in the US is not flexible enough to do it. That is because the politicians need political donations from the wealthy and so they wont introduce policy that they may not like.
+An example of the inflexibility of DC is taxation on the wealthy and wealth inequality. [For example the top 1% in the US own 40% of the wealth and the bottom 80% own 7% of the wealth](http://www.nytimes.com/2014/07/24/opinion/nicholas-kristof-idiots-guide-to-inequality-piketty-capital.html). This inequality is possible largely through low taxes on the rich and tax loopholes. It is clearly in the interest of the many to raise taxes on the rich and close these loopholes but DC system in the US is not flexible enough to do it. That is because the politicians need political donations from the wealthy and so they wont introduce policy that they may not like.
 
 Other DC countries have more taxation on the rich and regulation of corporations which limits the political influence of the wealthy. However the same fundamental issue exists in that the wealthy do have political power and thus the range of changes that can be made, even if they are for the greater good, is limited.
 
@@ -40,9 +40,9 @@ For example in Australia there was a proposal to replace it's aging telecommunic
 
 This kind of putting the greater good second can also be seen at an individual politician level where the goal is typically to get elected first and have policies that contribute the most to the greater good second.
 
-### To what degree do the public themselves want what is really the best for the greater good
+### To what degree do the public themselves want what is best for all
 
-The public are not experts and generally are short sighted. Increased taxation on everyone may be necessary to avoid a financial crisis but it is likely the party promoting this will not be voted in. Those in power do not have the flexibility to do what is right but is no palatable to the public.
+The public are not experts and generally are short sighted. Increased taxation on everyone may be necessary to avoid a financial crisis but it is likely the party promoting this will not be voted in. Those in power do not have the flexibility to do what is right but is not palatable to the public.
 
 ## Change is a slow process
 
@@ -56,10 +56,10 @@ Generally DC is pretty good with this.
 
 ## Experimentation
 
-DC is quite poor in regards to experimentation. Rather it tends to have a longer deliberation process to get it right the first time. When it is so hard and time consuming to make a change it isn't that feasible to experiment and refine even though this typically results in a more long term improvement.
+DC is quite poor in regards to experimentation. Rather it tends to have a longer deliberation process to get it right the first time. When it is so hard and time consuming to make a change, it isn't that feasible to experiment and refine even though this typically results in a more long term improvement.
 
 ## Overall
 
 Assessment: 3/10
 
-DC is ultimately quite inflexible as there are various segments of society corrupting the decision making process from being whatever should be done for the greater good to what should be done for the good of certain private and political groups.
+DC is ultimately quite inflexible as there are various segments of society corrupting the decision making process in various ways.

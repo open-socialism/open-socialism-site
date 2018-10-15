@@ -4,15 +4,15 @@ title: 'Efficiency'
 
 ## Financial Incentive Motivates People To Be Efficient
 
-If an individual/company work harder/more efficiently they can get more money. This helps efficiency. The reverse effect can be seen in some government agencies where being more efficient provides no benefit and so these agencies tend to be very inefficient.
+If an individual/company work harder/more efficiently they can make more profits. This helps efficiency. The reverse effect can be seen in some government agencies where being more efficient provides no benefit and so these agencies tend to be very inefficient.
 
 ## Efficiency Can't Be A Goal
 
-The goal is never efficiency but to make money. For example we make an abundance of cheap appliances since people will readily buy them but as they are cheap they fail quickly and the resources invested quickly go to waste. This is inefficient in the long term.
+The goal is never efficiency but to make money. For example, we make an abundance of cheap appliances since people will readily buy them. However, as they are cheap they fail quickly and the resources invested quickly go to waste. This may be profitable for a company, but his highly wasteful for humanity in the long run.
 
 ## Competition Is Inefficient
 
-There a multiple companies making washing machines in isolation. They perform the same research, spend lots of money competing on advertising, then use similar amounts of resources doing things like shipping products. Overall this is a lot of duplication of, or needless effort.
+There a multiple companies making washing machines in isolation. They perform the same research, spend lots of money competing on advertising, then use similar amounts of resources doing things like shipping products. Overall this is a lot of duplication of effort.
 
 This issue is also seen at a governmental level where the is lots of wastage due to competition between parties. Further more, parties sometimes pick inefficient policies because they need a policy that is in opposition to the other major party.
 
@@ -26,6 +26,6 @@ Even when work is conducted efficiently under DC the majority of the benefit doe
 
 ## The Result
 
-Ultimately DC is not very efficient at converting labor into value for the people or setting up efficient systems and technology that have a minimum amount of wastage.
+Ultimately DC is not very efficient at converting labor into value for the people, or setting up efficient systems and technology that have a minimum amount of wastage.
 
 Assessment: 4/10

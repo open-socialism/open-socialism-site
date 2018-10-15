@@ -6,7 +6,7 @@ title: 'Culture'
 
 DC is pretty good in terms of cultural expression in that anyone can create any kind of art, music or movie and if it is popular they can make a living out of it.
 
-The issue with it is that art can be dumbed down, reduced and spoiled by corporations that control these artistic industries. Artistic endeavors in this way can be pushed to be more mainstream, less adventurous to guarantee acceptance and profit. This slows down the growth and diversity of Art.
+The issue with it is that art can be dumbed down, reduced and spoiled by corporations that control these artistic industries. Artistic endeavors in this way can be pushed to be more mainstream, less adventurous to guarantee acceptance and profit. This slows down the growth and diversity of art.
 
 ## Cultural Rituals
 
