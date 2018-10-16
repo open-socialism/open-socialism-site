@@ -18,7 +18,7 @@ However, that was 300 years ago. Since then a massive amount has changed, not le
 
 DC improved in terms of wealth equality leading up to the 1970s and [since then it has steadily gotten worse](https://www.economist.com/special-report/2006/06/15/the-rich-the-poor-and-the-growing-gap-between-them){:target="_blank"}. Productivity is continuing to dramatically improve and yet only those already very rich are seeing the benefits. The wealth is not [trickling down](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} and the middle class is constantly shrinking. [President Obama has called wealth inequality 'the defining challenge of our time'](https://www.whitehouse.gov/the-press-office/2013/12/04/remarks-president-economic-mobility){:target="_blank"}.
 
-On a global scale as well, DC is very destructive in that it exploits poverty for cheap labor and nations with sweat shops are not being paid fairly for their work and are not able to fix their countries. Meanwhile workers in first world countries are losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. On the global level there is now startling wealth inequality. [The wealthiest 1% in the world have more wealth than the bottom 99%. The wealthiest 8 people have as much wealth as the bottom 3.5 billion](https://www.oxfam.org/en/pressroom/pressreleases/2017-01-16/just-8-men-own-same-wealth-half-world){:target="_blank"}. This is greater wealth inequality than has ever existed before.
+On a global scale as well, DC is very destructive in that it exploits poverty for cheap labor and nations with sweat shops are not being paid fairly for their work and are not able to fix their countries. Meanwhile workers in developed countries are losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. On the global level there is now startling wealth inequality. [The wealthiest 1% in the world have more wealth than the bottom 99%. The wealthiest 8 people have as much wealth as the bottom 3.5 billion](https://www.oxfam.org/en/pressroom/pressreleases/2017-01-16/just-8-men-own-same-wealth-half-world){:target="_blank"}. This is greater wealth inequality than has ever existed before.
 
 DC is causing repeated financial crisis in a boom bust boom pattern that is quite destructive for everyone but those already wealthy. All the while it is proving to be highly destructive to the environment which is totally unacceptable for our generation to be doing. The worst example of this is of course global warming. [Elon Musk sums up what we are doing very well in this video](https://www.youtube.com/watch?v=xKCuDxpccYM).
 
@@ -34,13 +34,13 @@ Also, ['What about a good example of DC such as Norway?'](/open-socialism/critic
 
 ## Even the president of the USA recognizes the issues, but why is no one talking about alternative systems?
 
-This is the startling thing. Why is there no talk publicly about alternative systems when DC, a 300 year old system, has all these problems. Why aren't you looking at this going 'Oh not another person with a new political system' but are instead probably thinking 'Oh wow, some DC alternative? Hmm but we know that communism doesn't work right, what else could there be? Democracy, equal rights, freedom, these are all great things, what alternative could there possibly be?'.
+This is the startling thing. Why is there no talk publicly about alternative systems when DC, a 300 year old system, has all these problems. Why aren't you looking at this going 'Oh not another person with a new political system' but are instead probably thinking 'Oh wow, some DC alternative? Hmm but we know that communism doesn't work right, what else could there be? Democracy, equal rights, freedom, these are all great things?'.
 
 <blockquote>
 A map of the world that does not include Utopia is not worth even glancing at, for it leaves out the one country at which Humanity is always landing. And when Humanity lands there, it looks out, and, seeing a better country, sets sail. Progress is the realization of Utopias. <cite>Oscar Wilde</cite>
 </blockquote>
 
-Shouldn't we be looking for the next Utopia? Or at least look to take new steps to achieve a better world?
+Shouldn't we be looking for the next Utopia? Or at least look to take big steps to achieve a better world?
 
 [Utopia for realists](https://thecorrespondent.com/utopia-for-realists/){:target="_blank"} is an excellent book on large strides we can make with the existing system. It is also a remarkably rare example of media that strongly questions the current system. However, even more remarkably there are no current compelling examples of proposed alternative systems. With the number of highly educated people in the world this is quite amazing.
 
