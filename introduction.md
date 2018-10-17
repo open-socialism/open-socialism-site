@@ -2,6 +2,12 @@
 title: Introduction
 permalink: /introduction/
 ---
+## The Open Socialism Project
+
+The Open Socialism project posits the idea that capitalism and democracy have existed for 300 years in a similar fundamental form. Meanwhile, technology, science and modes of organization have greatly advanced. So many new ways of structuring a society are now possible. Surely, a modern rethink can be better and indeed is necessary given the current levels of wealth inequality and environmental destruction.
+
+Open Socialism has one specific idea, but there are many posibilities. The goal is produce the best possible alternative, whatever shape it ends up taking.
+
 ## What is 'Open Socialism'?
 
 Open Socialism (OS) is a rethink of how to manage a society. It starts with an *optimistic* base concept that focuses on broad scale cooperation, but then layers on processes and ideas to keep people motivated and prevent corruption. It looks at human nature through the lens of our evolution and attempts to recapture the good parts of a tribal society, but in a way that can work on a grand scale. It borrows heavily from modern team and culture management, in particular [the open source model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"}.
@@ -27,7 +33,7 @@ In the tribal model the maximum wealth and power attainable is to rule the tribe
 
 #### Contrasts
 
-In newer systems initial wealth and power may be acquired through merit and providing value to everyone, but from there wealth and power snowballs. Ongoing value to all need not be provided and over time the wealthy and powerful can be very focused on their own benefit over the greater good. This snowballing process continues to the next generation.
+In newer systems initial wealth and power may be acquired through merit and providing value to everyone, but from there wealth and power snowballs. Ongoing value to all need not be provided and over time the wealthy and powerful can be very focused on their own benefit over the greater good. This process continues to the next generation.
 
 ### Self interest is directly aligned with the good of the tribe
 
