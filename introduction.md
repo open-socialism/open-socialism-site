@@ -6,7 +6,7 @@ permalink: /introduction/
 
 The Open Socialism project posits the idea that capitalism and democracy have existed for 300 years in a similar fundamental form. Meanwhile, technology, science and modes of organization have greatly advanced. So many new ways of structuring a society are now possible. Surely, a modern rethink can be better and indeed is necessary given the current levels of wealth inequality and environmental destruction.
 
-Open Socialism has one specific idea, but there are many posibilities. The goal is produce the best possible alternative, whatever shape it ends up taking.
+Open Socialism has one specific idea, but there are many possibilities. The goal is produce the best possible alternative, whatever shape it ends up taking.
 
 ## What is 'Open Socialism'?
 
