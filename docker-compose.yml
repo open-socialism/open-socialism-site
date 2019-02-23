@@ -2,9 +2,11 @@ version: '2'
 
 services:
   dev:
-    build: .
+    build:
+      dockerfile: support/dev/Dockerfile
+      context: .
     working_dir: /work
-    command: ./run
+    command: support/dev/run
     volumes:
       - .:/work
       - ruby2.5-gem-cache:/usr/local/bundle

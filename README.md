@@ -19,11 +19,11 @@ This repo is for [opensocialism.com](https://opensocialism.com), a democratic ca
 
 ### Requirements
 
-[Docker](https://www.docker.com/products/docker) (must include `docker-compose`) is required for local development.
+[Docker](https://www.docker.com/products/docker) (must include `docker-compose`) is required for local development. If on windows, either [install the linux subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10), or run the `docker-compose` commands directly.
 
 ### Running the site locally
 
-```
+```bash
 auto/dev-environment
 ```
 
@@ -33,22 +33,30 @@ Site can be accessed at http://localhost:4000
 
 This takes ~4 minutes to build
 
-```
+```bash
 auto/prod-environment
 ```
 
 ### Verifying changes
 
-This currently checks the links are valid with `html-proofer`, but more verification may be added in the future.
+This currently checks the links are valid with [html-proofer](https://github.com/gjtorikian/html-proofer) and checks for spelling mistakes via [hunspell](http://hunspell.github.io).
 
-```
+```bash
 auto/verify
 ```
 
 ### Updating the gems
 
-```
+```bash
 auto/update-gems
+```
+
+### Refreshing ruby / docker version
+
+Check that the ruby version still matches with https://pages.github.com/versions (which shows the ruby version that github actually uses to build github pages sites). Then run:
+
+```bash
+auto/update-docker
 ```
 
 ### Browser Support
