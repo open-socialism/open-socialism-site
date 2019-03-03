@@ -47,11 +47,11 @@ In newer systems self interest sometimes coincides with the good of the group bu
 
 Reasonable wealth and power inequality based on merit is OK and humans naturally organize in this way. Accumulation beyond this is counter productive and leads to extreme and unmerited power centralization and corruption.
 
-A key metric of a society is to what degree does self interested behavior coincide with the good of the group. A more deliberate and organized society, focused on the greater good, like the tribal model should be possible.
+A key metric of a society is to what degree does self interested behavior align with the good of the group. A more deliberate and organized society, focused on the greater good, like the tribal model should be possible.
 
 Humans are not purely selfish. Humans are social cooperative animals who live in groups. Societal systems based on cooperation are not alien to us.
 
-So how do we go about designing a modern system with the benefits of the tribal model?
+So how do we go about designing a modern system with the good parts of the tribal model?
 
 ## A Cooperative Base System
 
@@ -61,7 +61,7 @@ Let's start with a cooperative base system. This means that people primarily wor
 
 A cooperative system means that through leadership a group can have a directed purpose. For example a tribe can decide to migrate if food is depleting in their current area. This is far more difficult with systems that have everyone working to their own self interest.
 
-The modern example is climate change, where it is clearly to the groups interest to greatly limit CO2 emissions and halt climate change, but executing this is not possible due to an individualistic selfish base system.
+The modern example is climate change, where it is clearly to the groups interest to greatly limit carbon emissions and halt climate change, but executing this is not possible due to an individualistic selfish base system.
 
 The other obvious benefit is a large amount of resources is not wasted through competition. For example in capitalism companies spend a large amount of money on marketing, legal battles and also each invent similar technology in isolation.
 
@@ -123,23 +123,23 @@ What would the good parts of tribes applied to a society look like?
 
 A society that can organize and direct work to the greatest good is a highly desirable configuration. This gives the ability to deal with problems like global warming. Or society can achieve a deliberate balance between short term gain and long term investment eg. spend a large amount on scientific research. Part of this is of course, no free enterprise.
 
-Broad scale cooperation is the *optimistic* base part of open socialism. It's on paper better but brings it's own set of issues.
+Broad scale cooperation is the *optimistic* base part of open socialism. It's on paper better but brings its own set of issues.
 
 ### Measured inequality
 
 The tribal model and successful modern cooperative systems all have some degree of inequality. Humans are motivated to excel and get ahead. The communist ideal ["from each according to their ability, to each according to their need"](https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs){:target="_blank"} is in fact not ideal.
 
-Humans will try and get ahead and attract a good mate and should be given the means to do so. However, the rewards do not need to be excessive. Humans have always striven to be successful and noticed in any environment. The carrot of becoming a billionaire that capitalism dangles is unnecessary and counter productive since extreme wealth concentration also brings it's own set of issues.
+Humans will try and get ahead and attract a good mate and should be given the means to do so. However, the rewards do not need to be excessive. Humans have always striven to be respected and successful. The carrot of becoming a billionaire that capitalism dangles is unnecessary and counter productive since extreme wealth concentration also brings its own set of issues.
 
 ### Align self interest with the greater good
 
 Humans need the ability to strive and reap benefits, however by itself, this isn't necessarily good for society. Not only do people need to be motivated, they ideally should be motivated towards the greater good of all. Therefore 'success' for an individual is also 'success' for society.
 
-In a directed cooperative society it is possible to perform this alignment. It is far more difficult with a selfish base system.
+In a directed cooperative society it is possible to perform this alignment. It is far more difficult with a selfish base system, in which constant regulation and auditing is required to keep people in check.
 
 ### Prevent corruption
 
-The classical problem with cooperative directed societies (and societies in general) has been corruption breaking the societies lofty ideals. The tribal system could only have limited corruption since wealth accumulation was limited. Since agriculture, this has no longer been the case.
+The classical problem with cooperative directed societies (and societies in general) has been corruption breaking the societies lofty ideals. The tribal system could only have limited corruption since wealth accumulation was only possible to a limited degree. Since agriculture, this has no longer been the case.
 
 The other interesting mechanism in a tribal society is that it was very open. There is only so much skulduggery that can occur in a group of bonded individuals living in close proximity.
 
@@ -149,7 +149,7 @@ This needs to be coupled with some kind of [mini-democratic decision making proc
 
 ## We can do better
 
-Capitalism and communism are systems that originated 300 years ago. With the explosion of technology, science and our understanding of human nature we have the tools to create far better systems.
+Capitalism, communism and democracy are systems that originated 300 years ago. With the explosion of technology, science and our understanding of human nature we have the tools to create far better systems.
 
 Open Socialism is one such attempt that cherry picks ideas from many places, but primarily is attempting to replicate the good attributes of the highly successful tribal system but implemented on a grand scale.
 
