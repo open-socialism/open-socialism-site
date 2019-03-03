@@ -6,6 +6,7 @@ services:
 
 script: auto/verify-html
 script: auto/verify-spelling
+script: auto/verify-yaml
 
 jobs:
   include:
@@ -13,3 +14,5 @@ jobs:
       script: auto/verify-html
     -
       script: auto/verify-spelling
+    -
+      script: auto/verify-yaml
