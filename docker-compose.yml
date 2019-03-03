@@ -9,14 +9,14 @@ services:
     working_dir: /work
     command: support/dev/run
     volumes:
-      - .:/work
-      - ruby2.5-gem-cache:/usr/local/bundle
+    - .:/work
+    - ruby2.5-gem-cache:/usr/local/bundle
     ports:
-      - 4000:4000
+    - 4000:4000
 
   prod:
     environment:
-      - JEKYLL_ENV=production
+    - JEKYLL_ENV=production
     extends:
       service: dev
 
