@@ -39,7 +39,7 @@ auto/prod-environment
 
 ### Verifying changes
 
-This currently checks the links are valid with [html-proofer](https://github.com/gjtorikian/html-proofer) and checks for spelling mistakes via [hunspell](http://hunspell.github.io).
+This currently checks the links are valid with [html-proofer](https://github.com/gjtorikian/html-proofer), checks for spelling mistakes via [hunspell](http://hunspell.github.io) and checks for yaml issues with [yamllint](https://yamllint.readthedocs.io).
 
 ```bash
 auto/verify
