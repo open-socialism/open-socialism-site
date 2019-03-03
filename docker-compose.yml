@@ -1,3 +1,4 @@
+# stuck on 2 as we need `extends`. Or is there a better way?
 version: '2'
 
 services:
@@ -8,15 +9,23 @@ services:
     working_dir: /work
     command: support/dev/run
     volumes:
-      - .:/work
-      - ruby2.5-gem-cache:/usr/local/bundle
+    - .:/work
+    - ruby2.5-gem-cache:/usr/local/bundle
     ports:
-      - 4000:4000
+    - 4000:4000
+
   prod:
     environment:
-      - JEKYLL_ENV=production
+    - JEKYLL_ENV=production
     extends:
       service: dev
+
+  yamllint:
+    build: support/yamllint
+    command: yamllint --strict .
+    volumes:
+    - .:/work
+    working_dir: /work
 
 volumes:
   ruby2.5-gem-cache:
