@@ -10,7 +10,7 @@ The primary goal should always be to rehabilitate people. If someone can be reha
 
 ## Satisfaction Of The Wronged
 
-Although, those that have been wronged should feel that the perpetrator was punished appropriately for that wrong. If someone's spouse is murdered, even if the perpetrator is quickly rehabilitated, society must maintain a sense of justice and have appropriate punishments meted out.
+Those that have been wronged should feel that the perpetrator was punished appropriately for that wrong. If someone's spouse is murdered, even if the perpetrator is quickly rehabilitated, society must maintain a sense of justice and have appropriate punishments meted out.
 
 ## Favor Penance That Contributes
 
