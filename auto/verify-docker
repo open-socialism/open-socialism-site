@@ -1,0 +1,9 @@
+#!/bin/bash
+set -Eexuo pipefail
+
+cd $(dirname $0)/..
+
+docker volume create --name ruby2.5-gem-cache > /dev/null
+
+docker-compose run --rm dockerlint < support/dev/Dockerfile
+docker-compose run --rm dockerlint < support/yamllint/Dockerfile
