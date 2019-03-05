@@ -10,4 +10,5 @@ RUN echo "deb http://deb.debian.org/debian testing main contrib non-free" >> /et
 
  RUN apt-get update \
  && apt-get install -y --no-install-recommends hunspell/testing \
- && apt-get clean
+ && apt-get clean \
+ && rm -rf /var/lib/apt/lists/*
