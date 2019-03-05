@@ -1,6 +1,6 @@
 # matches https://pages.github.com/versions
 # pinned to sha for reproducability, notably with the hunspell version
-FROM ruby:2.5.3@sha256:896fa26dffa371b10463c9fff46aa3cd4a15b23949a70fb5355d51399c7044b6
+FROM ruby:2.5.3@sha256:d0fb21671452dff40bf93595e12ae588767d5bd85e0a48a22f05fe39f9a12647
 
  # ruby base doesn't specify locale
 ENV LANG C.UTF-8

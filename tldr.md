@@ -8,7 +8,7 @@ Democratic capitalism (DC) had some good years and achieved a lot, but it has st
 
 ## Democratic capitalism not so good
 
-Democratic capitalism is used within most of the powerful countires. More importantly it, in particular capitalism, it has become the dominant global system.
+Democratic capitalism is used within most of the powerful countries. More importantly it, in particular capitalism, it has become the dominant global system.
 
 * DC is performing really poorly in terms of being equitable. [The wealthiest 26 people in the world have more wealth than the bottom 3,800,000,000](https://www.theguardian.com/business/2019/jan/21/world-26-richest-people-own-as-much-as-poorest-50-per-cent-oxfam-report){:target="_blank"}.
 * Numbers like this are startling but still hard to appreciate. [Check out this graph for family wealth in the US](https://www.cbo.gov/publication/51846){:target="_blank"} (significantly less inequality than at a global level though).
