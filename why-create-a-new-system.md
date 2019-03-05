@@ -16,9 +16,9 @@ However, that was 300 years ago. Since then a massive amount has changed, not le
 
 ## DC has been getting worse
 
-DC improved in terms of wealth equality leading up to the 1970s and [since then it has steadily gotten worse](https://www.economist.com/special-report/2006/06/15/the-rich-the-poor-and-the-growing-gap-between-them){:target="_blank"}. Productivity is continuing to dramatically improve and yet only those already very rich are seeing the benefits. The wealth is not [trickling down](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} and the middle class is constantly shrinking. [President Obama has called wealth inequality 'the defining challenge of our time'](https://www.whitehouse.gov/the-press-office/2013/12/04/remarks-president-economic-mobility){:target="_blank"}.
+DC improved in terms of wealth equality leading up to the 1970s and [since then it has steadily gotten worse](http://www.pewresearch.org/fact-tank/2013/12/05/u-s-income-inequality-on-rise-for-decades-is-now-highest-since-1928/){:target="_blank"}. Productivity is continuing to dramatically improve and yet only those already very rich are seeing the benefits. The wealth is not [trickling down](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} and the global middle class is constantly shrinking. [President Obama has called wealth inequality 'the defining challenge of our time'](https://www.whitehouse.gov/the-press-office/2013/12/04/remarks-president-economic-mobility){:target="_blank"}.
 
-On a global scale as well, DC is very destructive in that it exploits poverty for cheap labor and nations with sweat shops are not being paid fairly for their work and are not able to fix their countries. Meanwhile workers in developed countries are losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. On the global level there is now startling wealth inequality. [The wealthiest 1% in the world have more wealth than the bottom 99%. The wealthiest 8 people have as much wealth as the bottom 3.5 billion](https://www.oxfam.org/en/pressroom/pressreleases/2017-01-16/just-8-men-own-same-wealth-half-world){:target="_blank"}. This is greater wealth inequality than has ever existed before.
+On a global scale as well, DC is destructive in that it exploits poverty for cheap labor. Poor nations employ their people for global corporations for minimal wages. Meanwhile workers in developed countries are losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. On the global level there is now startling wealth inequality. [The wealthiest 26 people in the world have more wealth than the bottom 3,800,000,000](https://www.theguardian.com/business/2019/jan/21/world-26-richest-people-own-as-much-as-poorest-50-per-cent-oxfam-report){:target="_blank"}.
 
 DC is causing repeated financial crisis in a boom bust boom pattern that is quite destructive for everyone but those already wealthy. All the while it is proving to be highly destructive to the environment which is totally unacceptable for our generation to be doing. The worst example of this is of course global warming. [Elon Musk sums up what we are doing very well in this video](https://www.youtube.com/watch?v=xKCuDxpccYM).
 
@@ -26,7 +26,7 @@ Democracy is also compromised with big money corrupting politics via the [lobbyi
 
 In short DC has had some good years but at the moment it is very inequitable and unstable. Yes, the USA is particularly bad example, but all DC countries are following the same trends of wealth inequality and a manipulated democracy.
 
-[Requiem for the American Dream](http://requiemfortheamericandream.com/){:target="_blank"} is a fantastic film and a deep dive into the fundamental issues. It is focused on the USA which is probably the worst example of DC, but as mentioned the same trends and issues are seen in all DC countries.
+[Requiem for the American Dream](http://requiemfortheamericandream.com/){:target="_blank"} is a fantastic film and a deep dive into the fundamental issues. It is focused on the USA which is one of the worst examples of DC, but as mentioned the same trends and issues are seen in all DC countries.
 
 Check out [thisistheworld.net](https://thisistheworld.net/){:target="_blank"} which drills into the global capitalist system more.
 
@@ -46,7 +46,7 @@ Shouldn't we be looking for the next Utopia? Or at least look to take big steps 
 
 ## There is value in considering what a modern utopian society would look like
 
-Even if we can't suddenly switch to a new system at least documenting and iterating upon such a system can have a lot of value. Once there is a compelling and clearly superior system a strong case can be made for change. Even if that change is not a complete switch over it is still valuable if DC can learn from other better systems.
+Even if we can't suddenly switch to a new system at least documenting and iterating upon such a system can have a lot of value. Once there is a compelling and superior system a strong case can be made for change. Even if that change is not a complete switch over it is still valuable if DC can learn from other better systems.
 
 ## The time is ripe to construct an advanced, highly productive and equitable society
 
