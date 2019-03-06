@@ -5,4 +5,6 @@ cd $(dirname $0)/..
 
 docker volume create --name ruby2.5-gem-cache > /dev/null
 
+docker-compose build yamllint
+
 docker-compose run --rm yamllint

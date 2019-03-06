@@ -10,7 +10,7 @@ This repo is for [opensocialism.com](https://opensocialism.com), a democratic ca
 
 ## Technical
 
-## Technologies
+### Technologies
 
 * [Docker](https://www.docker.com/products/docker)
 * [Jekyll](https://jekyllrb.com)

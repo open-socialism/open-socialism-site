@@ -6,11 +6,11 @@ All people receive credits regardless of what position they hold in society. Thi
 
 This strongly contrasts modern day capitalism where there can be people with millions of times more money than others.
 
-By spreading the wealth more evenly everyone can have an abundance, not just a selection of those that are wealthy for whatever reason.
+By spreading the wealth more evenly everyone can have an abundance.
 
 ## Why not just make everyone receive the same amount?
 
-Self interest is inbuilt into humans and there needs to be some incentive to rising up the ranks. At the same time, the higher up a person is the more prestigious they are and an argument could be made that this is sufficient, but it also makes sense to reward people for the stress and harder work required by more critical roles. The level of difference is knob that needs tweaked to find the right ratio.
+Self interest is inbuilt into humans and there needs to be some incentive to rising up the ranks. At the same time, the higher up a person is the more prestigious they are and an argument could be made that this is sufficient, but it also makes sense to reward people for the stress and harder work required by more critical roles. The level of difference is knob that needs tuned to find the right ratio.
 
 ## What about those that choose not to work?
 
