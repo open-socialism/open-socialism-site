@@ -21,7 +21,7 @@ There would be some potential difference when the amount of training required fo
 The goal will be to lower the barriers as much as possible to allow a person to work in their chosen profession, but you can't force people to work if they don't want to. Those that choose this will still get enough credits to feed themselves. It is not expected that many would do this because
 
 * Not working is unprestigious and such people may feel embarrassed.
-* There would not be sufficient credits to live a hedonisitc lifestyle (eg. see movies all day).
+* There would not be sufficient credits to live a hedonistic lifestyle (eg. see movies all day).
 * Humans tend to want to do some kind of work. Endless vacation is actually not very fulfilling for most people.
 * Wanting to avoid work can come from psychological issues which should lessen under OS. See [Happiness](../well-being/happiness).
 
