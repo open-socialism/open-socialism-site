@@ -7,10 +7,14 @@ services:
       dockerfile: support/dev/Dockerfile
       context: .
     working_dir: /work
-    command: support/dev/run
     volumes:
     - .:/work
     - ruby2.5-gem-cache:/usr/local/bundle
+
+  dev-run:
+    extends:
+      service: dev
+    command: support/dev/run
     ports:
     - 4000:4000
 
@@ -18,7 +22,7 @@ services:
     environment:
     - JEKYLL_ENV=production
     extends:
-      service: dev
+      service: dev-run
 
   yamllint:
     build: support/yamllint
