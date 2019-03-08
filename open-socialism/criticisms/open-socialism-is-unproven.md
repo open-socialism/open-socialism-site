@@ -8,11 +8,11 @@ In fact OS like systems do exist and are proven to work.
 
 ## Open Source Software
 
-Open source software is free software often run by independent groups of people. These people are working for free (although sometimes companies sponsor them) in distributed teams and in many cases are producing software of a superior quality to corporations.
+Open source software is free and open software often run by independent groups of people. These people are working for free (although sometimes companies sponsor them) in distributed teams and in many cases are producing software of a superior quality to the private sector.
 
 * They are largely working for the prestige. People don't need massive monetary rewards to want to strive and contribute great work to society.
 * They typically work completely in the open. All information on decision making, planning etc. is available online.
-* Like OS they favor [consensus seeking decision making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making){:target="_blank"}
+* Like OS they often favor [consensus seeking decision making](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making){:target="_blank"}.
 
 ## The Business World
 

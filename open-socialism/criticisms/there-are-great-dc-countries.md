@@ -16,13 +16,7 @@ Due to globalization DC countries have relationships with each other. Foreign bu
 
 This all results in the countries of origin of the corporations becoming richer, but the money is going to select few so the wealth inequality increases.
 
-In short, DC is in control of the world and a global system. Successful DC countries are only possible with a large number of poor people around the world making the goods. A system that is doing pretty well but parasitic is ultimately not good system when all the effected people are considered.
-
-## DC countries with natural resources have less inequality
-
-[Thomas Piketty argues that during a recession wealth inequality increases](http://www.nybooks.com/articles/2014/05/08/thomas-piketty-new-gilded-age/){:target="_blank"}. The reasoning is that the ratio between income from existing capital and income from labor is more skewed towards capital during a recession during which labor is hit harder.
-
-Countries with a lot of natural resources eg. Australia are buffered against this effect because exploiting those resources provides more reliable income than countries that don't eg. Japan
+In short, DC is in control of the world and a global system. Successful DC countries are only possible with a large number of poor people around the world making the goods. A system that is doing pretty well but is parasitic is ultimately not a good system when all the effected people are considered.
 
 ## Wealth inequality / corruption of democracy is a snowballing process
 
@@ -32,21 +26,21 @@ For whatever reason, countries that have largely avoided great corruption or wea
 
 ## Anyway, let's look at the most democratic country in the world, Norway
 
-[Norway was rated the best democracy in the world 2013-2014](http://democracyranking.org/wordpress/rank/democracy-ranking-2015/){:target="_blank"}.
+[Norway is often rated the best democracy in the world](http://democracyranking.org/wordpress/rank/democracy-ranking-2015/){:target="_blank"}.
 
 Interestingly, Norway does seem to be remarkably good in comparison to most other DC countries and apparently not stuck in the cycle of wealth inequality leading to political power leading to more wealth inequality and so on.
 
 ### Lobbying exists, but corruption is minimal and has not snowballed
 
-The Norway state government is large and excises a lot of control over capitalism conducted within it's borders. It has restricted the scope of lobbying that occurs that can rig the free market for the rich. Lobbying still exists, but it seems only able to influence regulation, but not fundamentally undermine the democracy such as tax breaks for the rich or increasing the scope of possible lobbying.
+The Norway state government is large and excises a lot of control over capitalism conducted within its borders. It has restricted the scope of lobbying that occurs that can rig the free market for the rich. Lobbying still exists, but it seems only able to influence regulation, but not fundamentally undermine the democracy such as tax breaks for the rich or increasing the scope of possible lobbying.
 
 ### A large state government with significant holdings
 
-[The government also owns completely and partially many companies](https://www.oecd.org/daf/ca/35175246.pdf){:target="_blank"} and in total owns 32% of shares on the Oslo stock exchange. In particular the government has strong holdings in the petroleum and hydro-electric energy sectors. This ownership influences these companies to not be greatly corrupt and also means the profit they generate is redistributed amongst the people.
+[The government also owns shares in many companies](https://www.oecd.org/daf/ca/35175246.pdf){:target="_blank"} and in total owns 32% of shares on the Oslo stock exchange. In particular the government has strong holdings in the petroleum and hydro-electric energy sectors. This ownership influences these companies to not be greatly corrupt and also means the profit they generate is redistributed amongst the people.
 
 ### A lot of natural resources
 
-Norway has a lot of natural resources which buffers it against recessions which increase wealth inequality. Additionally the government has large stakes in the exploitation of their natural resources which is steady income that is going to the people and not private individuals.
+Norway has a lot of natural resources which buffers it against recessions. Additionally the government has large stakes in the exploitation of their natural resources which is steady income that is going to the people and not private individuals.
 
 ### There is still moderate wealth inequality
 
@@ -60,7 +54,7 @@ Norway may have great welfare and regulation, but it still buys cheap goods made
 
 ### Conclusion of Norway
 
-Norway is a great example of DC. However, it's strengths come from it's more socialistic tendencies, a large government, lot's of benefits for citizens and a strong regulation of industry.
+Norway is a great example of DC. However, it's strengths come from it's more socialistic tendencies, a large government, lots of benefits for citizens and a strong regulation of industry.
 
 Norway shows other DC countries that emancipating the government and moving towards socialism results in greater benefit for more of its citizens than minimal government, reduced welfare and deregulation.
 
@@ -70,8 +64,8 @@ It will be interesting to see if Norway can maintain itself as such a good examp
 
 ## Overall Conclusion
 
-Even when the best DC countries are considered and show there is such a thing as pretty equitable and productive DC societies it still isn't enough to endorse DC wholesale. The further consideration is that countries like Norway are still only feasible by being parasitic globally on cheap labor which allows the [trickle down economics](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} math to work out for the common people.
+Even when the best DC countries are considered and show there is such a thing as quite equitable and productive DC societies, it still isn't enough to endorse DC wholesale. The further consideration is that countries like Norway are only feasible by being parasitic globally on cheap labor which allows the [trickle down economics](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} math to work out for the common people.
 
 A truly great system doesn't require a class of external [precariat](https://en.wikipedia.org/wiki/Precariat){:target="_blank"} (those poor people in precarious situations forced to work for unfair pay or conditions). Also a country like Norway may be quite environmentally friendly within it's borders, but with Norwegians buying goods from a global market that may not be produced in environmentally friendly ways (eg. lots of carbon going into the atmosphere) it is still ultimately being destructive to long term human survival.
 
-Finally, as good as Norway is, there isn't much doubt that at least on paper a completely cooperative and state owned society, with everyone working towards the common good, would be more effective at the common good. As such it is worth exploring whether such a system is feasible IE. Open Socialism (or other alternatives) regardless of how good we get at mitigating the issues with DC.
+Finally, as good as Norway is, there isn't much doubt that at least on paper a completely cooperative and state owned society, with everyone working towards the common good, would be more effective. As such it is worth exploring whether such a system is feasible IE. Open Socialism (or other alternatives) regardless of how good we get at mitigating the issues with DC.
