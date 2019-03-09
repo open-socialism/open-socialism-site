@@ -18,4 +18,4 @@ Software development is hard and projects are prone to fail to meet requirements
 
 ## Open Source Software
 
-[Open Source](https://en.wikipedia.org/wiki/Open_source){:target="_blank"} software is software that is free to use and the code is freely available. Often open source software is worked on by teams that are distributed all over the world. Software development is hard but open source is typically even harder. There are some shining lights in the open source community that have shown how such teams can deliver value very efficiently despite the odds stacked against them.
+[Open Source](https://en.wikipedia.org/wiki/Open_source){:target="_blank"} software is software that is free to use and the code is freely available. Often open source software is worked on by teams that are distributed all over the world, via the [open source model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"}. Software development is hard but open source is typically even harder. There are some shining lights in the open source community that have shown how such teams can deliver value very efficiently despite the odds stacked against them.

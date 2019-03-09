@@ -9,4 +9,7 @@ title: 'Why "Open Socialism"'
 
 ## Socialism
 
-Socialism is a broad term which can encompass a lot of the ideas contained within OS. Communism is similar but is such a loaded term and implies a lot which differs from OS.
+Socialism is a broad term which can have a lot of meanings. In the case of "Open Socialism" it more specifically it refers to:
+
+- 100% state ownership of the means of production
+- Social policies to the benefit of all eg. welfare, basic income.

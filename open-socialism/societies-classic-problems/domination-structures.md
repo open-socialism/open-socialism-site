@@ -10,7 +10,7 @@ A domination structure is where one group of people have power over another grou
 * It involves those with power exploiting those not in power.
 * The structure is kept in place by force, which could be force of violence or by psychological force such as propaganda.
 
-Domination structures are THE classical problem of societies. Virtually every post agricultural society has developed into a domination structure (evidence needed).
+Domination structures are *the* classical problem of societies. Virtually every post agricultural society has developed into a domination structure (evidence needed).
 
 ## How does this work?
 
@@ -26,8 +26,8 @@ The progression is something like this:
 
 Corruption is certainly the norm for humans which is why society always evolves into a domination structure. Every individual is not necessarily corruptible, however over time those in power are either corrupted or those that are corrupt and ambitious rise to the top.
 
-It is simplistic to choose honorable people to lead and expect corruption to not be a problem. This has been the classic mistake of Communism where the idea itself is highly equitable but processes aren't in place to handle normal human corruption. It is even more import for Communism where the leaders are in control of effectively everything and everyone (since there is a large amount of state ownership and everyone works for the government).
+It is simplistic to choose honorable people to lead and expect corruption to not be a problem. This has been the classic mistake of Communism where the idea itself is highly equitable but processes aren't in place to handle normal human corruption. It is even more import for Communism where the leaders are in control of effectively everything and everyone (since there is a complete state ownership).
 
-Capitalism is interesting in that you don't have leaders with such complete power, however wealth centralization leads to power (via the political system) centralization (which leads to even more wealth centralization and so on) and the result is basically the same result.
+Capitalism is interesting in that you don't have leaders with such complete power, however wealth centralization leads to power (via the political system) centralization (which leads to even more wealth centralization and so on) and the result is ultimately the same.
 
 Preventing or limiting the degree of a domination structure is the most important problem for a society to address.

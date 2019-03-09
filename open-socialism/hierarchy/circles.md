@@ -9,7 +9,7 @@ A circle is an autonomous committee charged with governing a specific area of so
 * A circle has one specific area of control.
 * Circles make decisions, they don't do work. If a circle wants to do something they create a project with team members to action it and the project reports back to the circle.
 * All circle meetings are live streamed via the internet. All decision making and related information is recorded and available to the public. The public can raise concerns and suggestions via formal feedback systems.
-* Circles can create sub circles to handle more specific matters. The higher up the circle tree the more general the circles purview.
+* Circles can create sub circles to handle more specific matters. The higher up the circle tree the more general the circle's purview.
 * A person can be in any number of circles (or projects) at any level if their skills/experience/availability warrant it.
 * Circles are experts in their area so they make decisions autonomously. Higher level circles are more generalist so it doesn't make sense for them to veto decisions of the specialist circles.
 
@@ -56,3 +56,7 @@ Additionally, corruption is much more difficult with a circle. An individual may
 ## Circles all the way down?
 
 At a certain level it may not make sense to have a circle in charge and it could be individuals. This would also depend on the particular area. This decision would be made by each as to whether more sub circles make sense.
+
+## Exceptions
+
+Circles have a standard way of operating, however there will certainly be special cases. When a circle is created, it's charter can be set so as to tune it for its particular goals.

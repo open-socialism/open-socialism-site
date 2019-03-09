@@ -7,5 +7,5 @@ docker volume create --name ruby2.5-gem-cache > /dev/null
 
 docker-compose build ${service-dev}
 
-docker-compose run --rm ${service-dev} sh -c 'bundle check > /dev/null || bundle install'
+docker-compose run --rm dev sh -c 'bundle check > /dev/null || bundle install'
 docker-compose run --rm --service-ports ${service-dev} "$@"
