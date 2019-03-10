@@ -3,4 +3,6 @@ set -Eexuo pipefail
 
 cd "$(dirname "$0")"/../..
 
-docker run --rm -v "$(pwd)":/cwd realestate/dfresh update support/dev/Dockerfile
+VERSION=1.1.2
+
+docker run --rm -v "$(pwd)":/cwd "realestate/dfresh:$VERSION" update support/dev/Dockerfile
