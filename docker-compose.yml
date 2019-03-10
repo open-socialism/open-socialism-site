@@ -26,13 +26,10 @@ services:
 
   yamllint:
     build: support/yamllint
-    command: yamllint --strict .
+    command: support/yamllint/run
     volumes:
     - .:/work
     working_dir: /work
-
-  dockerlint:
-    image: hadolint/hadolint:v1.16.0
 
 volumes:
   ruby2.5-gem-cache:

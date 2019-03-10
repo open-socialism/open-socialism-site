@@ -1,6 +1,0 @@
-#!/bin/bash
-set -Eexuo pipefail
-
-cd $(dirname $0)/..
-
-docker run --rm -v $(pwd):/cwd realestate/dfresh update support/dev/Dockerfile

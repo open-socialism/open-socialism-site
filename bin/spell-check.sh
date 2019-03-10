@@ -9,7 +9,7 @@ echo "Checking spelling.."
 
 ERRORS=$(find ./_site -name "*.html" -exec bin/spell-check-file.sh {} \;)
 
-if ! [[ -z "$ERRORS" ]]; then
+if [[ -n "$ERRORS" ]]; then
   echo "$ERRORS"
   exit 1
 else

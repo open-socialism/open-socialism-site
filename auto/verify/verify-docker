@@ -1,0 +1,11 @@
+#!/bin/bash
+set -Eexuo pipefail
+
+cd "$(dirname "$0")"/../..
+
+docker volume create --name ruby2.5-gem-cache > /dev/null
+
+VERSION=v1.16.0
+
+docker run --rm "hadolint/hadolint:$VERSION" < support/dev/Dockerfile
+docker run --rm "hadolint/hadolint:$VERSION" < support/yamllint/Dockerfile

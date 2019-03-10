@@ -1,0 +1,10 @@
+#!/bin/bash
+set -Eexuo pipefail
+
+cd "$(dirname "$0")"/../..
+
+docker volume create --name ruby2.5-gem-cache > /dev/null
+
+VERSION=v0.6.0
+
+find auto support/*/run bin/* -type f -exec docker run --rm -v "$PWD:/mnt" "koalaman/shellcheck:$VERSION" {} +

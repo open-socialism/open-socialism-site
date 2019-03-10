@@ -1,7 +1,0 @@
-#!/bin/bash
-set -Eexuo pipefail
-
-cd $(dirname $0)/..
-
-auto/update-docker
-auto/update-gems

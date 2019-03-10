@@ -1,6 +1,6 @@
 #!/bin/bash
 set -Eexuo pipefail
 
-cd $(dirname $0)/..
+cd "$(dirname "$0")"/../..
 
 auto/dev-environment bin/spell-check.sh
