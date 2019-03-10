@@ -24,7 +24,7 @@ This repo is for [opensocialism.com](https://opensocialism.com), a democratic ca
 ### Running the site locally
 
 ```bash
-auto/dev-environment
+auto/run
 ```
 
 Site can be accessed at http://localhost:4000
@@ -45,15 +45,16 @@ This currently checks:
 - spelling mistakes via [hunspell](http://hunspell.github.io)
 - yaml issues with [yamllint](https://yamllint.readthedocs.io)
 - docker issues with [hadolint](https://github.com/hadolint/hadolint)
+- shell issues with [shellcheck](https://github.com/koalaman/shellcheck)
 
 ```bash
-auto/verify
+auto/verify/verify
 ```
 
 ### Updating the gems
 
 ```bash
-auto/update-gems
+auto/update/update-gems
 ```
 
 ### Refreshing ruby / docker version
@@ -61,7 +62,7 @@ auto/update-gems
 Check that the ruby version still matches with https://pages.github.com/versions (which shows the ruby version that github actually uses to build github pages sites). Then run:
 
 ```bash
-auto/update-docker
+auto/update/update-docker
 ```
 
 ### Browser Support
