@@ -5,7 +5,7 @@ install: true
 services:
 - docker
 
-script: auto/verify-html
+script: auto/verify/verify-html
 script: auto/verify-spelling
 script: auto/verify-yaml
 script: auto/verify-docker
@@ -14,12 +14,12 @@ script: auto/verify-shell
 jobs:
   include:
   - stage: Test
-    script: auto/verify-html
+    script: auto/verify/verify-html
   -
-    script: auto/verify-spelling
+    script: auto/verify/verify-spelling
   -
-    script: auto/verify-yaml
+    script: auto/verify/verify-yaml
   -
-    script: auto/verify-docker
+    script: auto/verify/verify-docker
   -
-    script: auto/verify-shell
+    script: auto/verify/verify-shell
