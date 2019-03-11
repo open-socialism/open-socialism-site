@@ -32,14 +32,7 @@ defaults:
     layout: "societal-metrics"
 -
   scope:
-    path: "assess-dc"
-    type: "pages"
-  values:
-    layout: "assess-dc"
-# avoiding globbing (assess-dc/*) which slows down the build about x10 https://jekyllrb.com/docs/configuration/front-matter-defaults/#glob-patterns-in-front-matter-defaults
--
-  scope:
-    path: "assess-dc/metrics"
+    path: "assess-dc/*"
     type: "pages"
   values:
     layout: "assess-dc"
