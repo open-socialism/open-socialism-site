@@ -4,5 +4,6 @@ set -Eexuo pipefail
 cd "$(dirname "$0")"/../..
 
 # --url-ignore is used to avoid checking links that don't exist until a change is merged and deployed. This means PRs won't fail due to missing links (eg. cannonical URL on the site), which are very unlikely to have an actual problem as they are purely generated.
+# /vimeo.com/85490944/ check fails from the travis build for some reason
 
-auto/dev-environment bash -c 'bundle exec jekyll build && bundle exec htmlproofer ./_site --url-ignore=#,#0,/github.com/open-socialism/open-socialism-site/edit/master/,/opensocialism.com/ --assume-extension'
+auto/dev-environment bash -c 'bundle exec jekyll build && bundle exec htmlproofer ./_site --url-ignore=#,#0,/vimeo.com/85490944/,/github.com/open-socialism/open-socialism-site/edit/master/,/opensocialism.com/ --assume-extension'
