@@ -48,7 +48,7 @@ This currently checks:
 - shell issues with [shellcheck](https://github.com/koalaman/shellcheck)
 
 ```bash
-auto/verify/verify
+auto/verify/verify-all
 ```
 
 ### Updating the gems
