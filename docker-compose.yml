@@ -1,5 +1,5 @@
 # stuck on 2 as we need `extends`. Alternatives seem bad. https://github.com/moby/moby/issues/31101
-version: '2.1'
+version: '2'
 
 services:
   dev:

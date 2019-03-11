@@ -36,7 +36,7 @@ defaults:
     type: "pages"
   values:
     layout: "assess-dc"
-# avoiding the globbing here as it is apparently slowing down the build enough that it is timing out in github pages https://jekyllrb.com/docs/configuration/front-matter-defaults/#glob-patterns-in-front-matter-defaults
+# avoiding globbing (assess-dc/*) which slows down the build about x10 https://jekyllrb.com/docs/configuration/front-matter-defaults/#glob-patterns-in-front-matter-defaults
 -
   scope:
     path: "assess-dc/metrics"

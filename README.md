@@ -31,7 +31,7 @@ Site can be accessed at http://localhost:4000
 
 ### Running with the full nav build
 
-This takes ~4 minutes to build
+This takes ~20 seconds to build, which can be annoying to wait for when making a lot of changes.
 
 ```bash
 auto/prod-environment
