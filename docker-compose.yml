@@ -6,6 +6,7 @@ services:
     build:
       dockerfile: support/dev/Dockerfile
       context: .
+    command: bash
     working_dir: /work
     volumes:
     - .:/work

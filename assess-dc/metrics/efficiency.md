@@ -12,9 +12,9 @@ The goal is never efficiency but to make money. For example, we make an abundanc
 
 ## Competition Is Inefficient
 
-There a multiple companies making washing machines in isolation. They perform the same research, spend lots of money competing on advertising, then use similar amounts of resources doing things like shipping products. Overall this is a lot of duplication of effort.
+There a multiple companies making washing machines in isolation. They perform the same research and spend lots of money competing on advertising. They also use similar amounts of resources doing things like shipping products. Overall this is a lot of duplication of effort.
 
-This issue is also seen at a governmental level where the is lots of wastage due to competition between parties. Further more, parties sometimes pick inefficient policies because they need a policy that is in opposition to the other major party.
+This issue is also seen at a governmental level where there is lots of wastage due to competition between parties. Further more, parties sometimes pick inefficient policies because they need a policy that is in opposition to another major party.
 
 ## Most Labor Is For The Already Wealthy
 
@@ -22,10 +22,10 @@ Even when work is conducted efficiently under DC the majority of the benefit doe
 
 ## Lot's Of Rent Seeking Behavior
 
-[Rent seeking](https://en.wikipedia.org/wiki/Rent-seeking){:target="_blank"} is activities that shift wealth around but don't create new wealth. As such since wealth is being expended by these efforts and no wealth created, the result is that wealth is being destroyed. Rent seeking behavior is increasing in DC as the finance and banking systems expand. The opposite of this, scientific research, which generates the most wealth for money spent is a small part of a DC economy.
+[Rent seeking](https://en.wikipedia.org/wiki/Rent-seeking){:target="_blank"} is activities that shift wealth around but don't create new wealth. As wealth is being expended by these efforts and no wealth created, the result is that wealth is being destroyed. Rent seeking behavior is increasing in DC as the finance and banking systems expand. The opposite of this, scientific research, which generates the most wealth for money spent is a relatively small part of a DC economy.
 
 ## The Result
 
-Ultimately DC is not very efficient at converting labor into value for the people, or setting up efficient systems and technology that have a minimum amount of wastage.
+Ultimately DC is not very efficient at converting labor into value for all people, or setting up efficient systems and technology that have a minimum amount of wastage.
 
 Assessment: 4/10

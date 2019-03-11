@@ -16,7 +16,7 @@ People who don't have money cannot exploit this phenomenon. Their money doesn't 
 
 ## Minimum Wages
 
-Typically there are minimum wages and slavery is not possible so at least people who can work and aren't stuck in a cycle of homelessness can get a reasonable amount of money to live.
+Typically there are minimum wages and slavery is not possible so at least most people can get enough to live.
 
 ## The Result
 
@@ -27,6 +27,6 @@ The result is that DC countries have a worsening distribution of wealth. USA is 
 
 [http://www.businessinsider.com.au/inequality-in-the-us-is-much-more-extreme-than-you-think-2015-6](http://www.businessinsider.com.au/inequality-in-the-us-is-much-more-extreme-than-you-think-2015-6){:target="_blank"}
 
-However, excluding the homeless, there is a large band of people on a low income. They are much better than feudal peasants so the distribution is not as extreme as it could be at least at the lower end.
+Through modern technology most low income earners are comfortably able to feed, clothe and house themselves. Despite this there is extreme wealth inequality, far beyond would could be considered to be based on merit.
 
 Assessment: 3/10

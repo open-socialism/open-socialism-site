@@ -10,9 +10,9 @@ In DC local communities do not integrate well. People are generally respectful t
 
 ## Work Is Unsatisfying
 
-In DC the majority of people do not work for the greater good and additionally their work doesn't improve their own lives. Rather they work for a corporation that they have no care for beyond the salary they receive. Great work by them only makes the corporation wealthier but does little good beyond that. This is inherently unsatisfying since we are programmed to want to work towards a better future for ourselves and our communities but most people can't do this in DC. Options that are like this such as working for the government conflict with our desire to be selfish and benefit ourselves as such jobs are generally lower pay and prestige.
+In DC the majority of people do not work for the greater good, nor does their work directly improve their own lives. Rather they work for a corporation that they have no care for beyond the salary they receive. Great work by them only makes the corporation wealthier but does little good beyond that. This is inherently unsatisfying since we are programmed to want to work towards a better future for ourselves and our communities. Options that do benefit people such as working for the government or a non-profit company do not pay well. As such pursing such a path conflicts with our selfish and natural desire to benefit ourselves.
 
-The other option is starting a business which can in rare cases result in riches. Even so this work still often isn't particularly doing great things for the community. [The reason for this is that poor, unemployed, the homeless, the neediest of our societies don't have a lot of money to spend on the services that new entrepreneurs create](http://miter.mit.edu/the-unexotic-underclass){:target="_blank"}. Making rich people richer or making middle classes people's lives slightly more convenient isn't a bad thing, but it won't provide deep satisfaction to most people.
+The other option is starting a business which can in rare cases result in riches. Even so this work usually isn't greatly benefiting the community. [The reason for this is that poor, unemployed, the homeless, the neediest of our societies don't have a lot of money to spend on the services that new entrepreneurs create](http://miter.mit.edu/the-unexotic-underclass){:target="_blank"}. Making rich people richer or making middle classes people's lives slightly more convenient isn't a bad thing, but it won't provide deep satisfaction to most people.
 
 ## Poor Distribute Of Wealth Creates A Variety Of Problems
 
@@ -20,6 +20,6 @@ The other option is starting a business which can in rare cases result in riches
 
 ## The Result
 
-We have evolved to be happy by excelling whilst helping our community and by extension ourselves. DC is a very different model and unsatisfyingly selfish without much sense of a community around us. This all promotes unhappiness.
+We have evolved to be happy by excelling at our work whilst helping our community. DC is a very different model and promotes purely selfish behavior, without much focus on being in and improving a community.
 
 Assessment: 3/10

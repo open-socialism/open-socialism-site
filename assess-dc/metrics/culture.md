@@ -10,7 +10,7 @@ The issue with it is that art can be dumbed down, reduced and spoiled by corpora
 
 ## Cultural Rituals
 
-Capitalism doesn't have particular rituals associated with it. Rituals are part of culture and do provide value in that they bring people together for shared experiences.
+Capitalism doesn't have particular rituals associated with it. Rituals are part of culture and do provide value in that they bring people together for a stronger community.
 
 ## The Result
 

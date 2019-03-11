@@ -27,3 +27,9 @@ defaults:
     type: "pages"
   values:
     layout: "societal-metrics"
+-
+  scope:
+    path: "assess-dc/*"
+    type: "pages"
+  values:
+    layout: "assess-dc"

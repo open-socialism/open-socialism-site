@@ -2,15 +2,15 @@
 title: 'Rights Equality'
 ---
 
-DC typically has at a legal level quite a fair system where on paper everyone has the same rights. Let's look at how this works for some different areas.
+DC has, at a legal level, quite a fair system where on paper everyone has the same rights. Let's look at how this works for some different areas.
 
 ##  Schooling
 
-All people are entitled to go to public schools. This is good as a base. Unfortunately public schools may or may not be very good. Those with money can afford to go to private schools that should be much better. Everyone has the right to go to a private school if they have the money. Since not everyone has the money this is not the same level of rights.
+All people are entitled to go to public schools. Unfortunately public schools may or may not be very good. Those with money can afford to go to private schools that are usually better. Everyone has the right to go to a private school if they have the money. Since not everyone has the money this is not the same level of rights.
 
 ## Health
 
-Depending on the country there is a varying level of free public health however all countries have an elite level of care that requires money.
+Depending on the country there is a varying level of free public health. However, all countries have an elite level of care that requires money.
 
 ## Legal
 
