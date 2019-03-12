@@ -55,3 +55,9 @@ If you want to help but feel like you need more knowledge of human history and s
 
 * [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095){:target="_blank"}. A history of Homo Sapiens and societies.
 * [Utopia for Realists](https://en.wikipedia.org/wiki/Utopia_for_Realists_(book)){:target="_blank"}. Gives a good summary of the current state of affairs with DC (and suggests some good steps DC can move towards).
+
+## I want to help, what skills do I need?
+
+A very basic understanding of [markdown](https://www.markdownguide.org) which is easy to learn.
+
+If you want to work on the site code, some knowledge of [jekyll](https://jekyllrb.com/){:target="_blank"} and web technologies is required.
