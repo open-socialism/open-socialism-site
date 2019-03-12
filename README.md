@@ -51,6 +51,10 @@ This currently checks:
 auto/verify/verify-all
 ```
 
+#### Adding new words to be skipped by the spell checker
+
+Update the [custom dictionary](/custom-dict.dic) file. I don't understand [the format](https://www.elastic.co/guide/en/elasticsearch/guide/current/hunspell.html) very well..
+
 ### Updating the gems
 
 ```bash
