@@ -9,6 +9,12 @@ To learn about the system have a look at the [introduction](/introduction). Then
 
 Also check out the [plan](/plan) to understand the current and next milestone for OS.
 
+## Why help in the first place?
+
+We can't all change the world for the better in our day jobs. This project is about improving the world and is founded on the belief that we as humanity can do much better. It feels good (hopefully) working towards a better future.
+
+It should also use cool technology. If you are work in IT this can be a place to practice with things like [docker](https://www.docker.com/products/docker-engine){:target="_blank"}, using fancy and overkill solutions but learning along the way :)
+
 ## What help is currently desired?
 
 Any help in any capacity is welcome ranging from redesigning the entire system to fixing typos. If you want you can even join and regularly contribute if it's something you care about.
