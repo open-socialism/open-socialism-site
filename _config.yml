@@ -7,6 +7,9 @@ analytics_id: UA-75947611-1
 exclude: ['auto', 'support']
 url: https://opensocialism.com
 
+# this will strip all pages of the .html extension when jekyll generates a url
+permalink: /:categories/:year/:month/:day/:title
+
 # Build settings
 markdown: kramdown
 
@@ -16,6 +19,7 @@ sass:
 
 plugins:
 - jekyll-include-cache
+- jekyll-sitemap
 
 defaults:
 -
