@@ -23,7 +23,7 @@ Reproducing and community are both essential ingredients for successful reproduc
 
 All our ancestors have also predominantly belonged to groups that have survived.
 
-Humans working together are stronger than humans working alone. The more closely knit a group, the stronger they are. Thus these are tribes and traits have flourished, to the degree that people will sacrifice themselves even without passing on their DNA for the good of the group.
+Humans working together are stronger than humans working alone. The more closely knit a group, the stronger they are. Thus communal tribes and communal traits have flourished, even to the degree that people will sacrifice themselves even without passing on their DNA for the good of the group.
 
 Protecting our community is a strong evolved urge.
 
