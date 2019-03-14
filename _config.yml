@@ -20,6 +20,7 @@ sass:
 plugins:
 - jekyll-include-cache
 - jekyll-sitemap
+- jekyll-seo-tag
 
 defaults:
 -
@@ -36,7 +37,14 @@ defaults:
     layout: "societal-metrics"
 -
   scope:
-    path: "assess-dc/*"
+    path: "assess-dc"
+    type: "pages"
+  values:
+    layout: "assess-dc"
+# avoiding the globbing here (assess-dc/*) as it is slows down the build about 60% https://jekyllrb.com/docs/configuration/front-matter-defaults/#glob-patterns-in-front-matter-defaults
+-
+  scope:
+    path: "assess-dc/metrics"
     type: "pages"
   values:
     layout: "assess-dc"

@@ -1,5 +1,5 @@
 ---
-title: 'Open Socialism'
+title: 'The Open Socialism System'
 ---
 
 Open Socialism (OS) is a societal system that is designed to be the highly equitable, productive and favor long term thinking. It combines ideas from socialism, communism, capitalism, democracy, [the open source software movement](https://en.wikipedia.org/wiki/Open-source_movement){:target="_blank"}), [agile software development](https://en.wikipedia.org/wiki/Agile_software_development){:target="_blank"} and [evolutionary psychology](https://en.wikipedia.org/wiki/Evolutionary_psychology){:target="_blank"}.
