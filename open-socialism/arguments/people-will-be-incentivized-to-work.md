@@ -1,5 +1,5 @@
 ---
-title: People Don’t Need Great Financial Reward To Strive
+title: People Don't Need Great Financial Reward To Strive
 description: Capitalism level rewards (becoming a billionaire) are not necessary to motivate humans.
 ---
 

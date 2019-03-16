@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   a compelling alternative to democratic capitalism
 baseurl: "" # the subpath of your site, e.g. /blog
 analytics_id: UA-75947611-1
-exclude: ['auto', 'support']
+exclude: ['auto', 'support', 'bin']
 url: https://opensocialism.com
 
 # this will strip all pages of the .html extension when jekyll generates a url

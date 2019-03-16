@@ -1,5 +1,6 @@
 ---
-title: 'Flexible'
+title: Flexible
+description: Open socialism has a tenet of being flexible to be able to operate in an ever changing and diverse world.
 ---
 
 In modern democracy fairness is achieved by having very specific processes and laws such as the party system and elections. However, these processes are very rigid and difficult to change if they are not serving the greater good.
