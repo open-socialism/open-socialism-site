@@ -1,5 +1,6 @@
 ---
-title: 'Freedom'
+title: Freedom
+description: Open socialism has a tenet of freedom.
 ---
 
 Personal freedom is critical to an individual's happiness. People need the ability to choose their own path in life.
