@@ -1,5 +1,6 @@
 ---
-title: 'Income'
+title: Income
+description: Open socialism features basic income and rewards for doing great work for society.
 ---
 
 All people receive credits regardless of what position they hold in society. This will be sufficient to eat well and have recreational expenses. The further up someone is within the (work) structure of society the more credits they will receive. However, the difference between the highest and the lowest member of society will not be very large. They highest level members may receive something like 5 times the amount of a low level member.

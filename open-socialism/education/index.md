@@ -1,6 +1,7 @@
 ---
 placeholder: true
-title: 'Education'
+title: Education
+description: Open socialism's take on education.
 ---
 
 {% include link-children.html %}

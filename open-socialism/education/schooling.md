@@ -1,5 +1,6 @@
 ---
-title: 'Schooling'
+title: Schooling
+description: Open socialism on schooling the next generation.
 ---
 
 In Open Socialism schooling would not see a huge change aside from adopting whatever is considered best practice and of course everyone would have equal education opportunities. There would be no such thing as private schools.

@@ -1,5 +1,6 @@
 ---
-title: 'Without Democracy Society Will Be Corrupt'
+title: Without Democracy Society Will Be Corrupt
+description: How does open socialism respond to the criticism that only democracy can stem corruption.
 ---
 
 Democracy has become a brand worldwide that is seen as the only solution to corruption, despite democratic countries having systemic corruption via [the lobbying system](https://en.wikipedia.org/wiki/Lobbying){:target="_blank"}. Democracy (in terms of the 2 party system) is actually the most basic and pessimistic solution to the problem of dictatorships. Everyone gets one vote every 3 or so years between two parties and this choice needs to weigh all matters that the winning party will need to face, despite the general public not being experts on politics. It is a very low fidelity choice.

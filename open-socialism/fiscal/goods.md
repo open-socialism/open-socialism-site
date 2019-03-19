@@ -1,5 +1,6 @@
 ---
-title: 'Goods'
+title: Goods
+description: How does open socialism distribute goods.
 ---
 
 All goods including essential goods such as clothing and food will not be free and will need to be bought with income. People will have an abundance of income and will be able to afford all the essentials even if they are not working and receive the lowest possible income.

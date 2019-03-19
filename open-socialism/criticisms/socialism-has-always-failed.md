@@ -1,5 +1,6 @@
 ---
-title: 'Socialism Has Historically Failed'
+title: Socialism Has Historically Failed'
+description: How does open socialism respond to the criticism that socialism has always failed.
 ---
 
 'Socialism/Communism has failed time and again, why would Open Socialism be any different?'

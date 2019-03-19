@@ -1,6 +1,7 @@
 ---
 placeholder: true
-title: 'Hierarchy'
+title: Hierarchy
+description: How does open socialism structure society.
 ---
 
 {% include link-children.html %}
