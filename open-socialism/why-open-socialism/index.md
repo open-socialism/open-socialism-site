@@ -1,5 +1,6 @@
 ---
-title: 'Why "Open Socialism"'
+title: Why "Open Socialism"
+description: Why was the name "Open Socialism" selected.
 ---
 
 ## Open

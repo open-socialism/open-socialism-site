@@ -1,5 +1,6 @@
 ---
-title: 'Secondary Sciences'
+title: Secondary Sciences
+description: In open socialism, secondary sciences are foundational techniques for technological development.
 ---
 
 Secondary science is science that uses principles and understanding from core science and develops techniques that apply it.

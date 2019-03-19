@@ -1,5 +1,6 @@
 ---
-title: 'The Goals of Open Socialism'
+title: The Goals of Open Socialism
+description: The high level goals of the open socialism system.
 ---
 
 Open Socialism has the following goals in order of importance.

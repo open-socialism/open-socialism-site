@@ -1,5 +1,6 @@
 ---
-title: 'Volunteering'
+title: Volunteering
+description: How would volunteering exist within open socialism.
 ---
 
 There would be much less of a need for volunteering as a lot of volunteering is to help stem DC's inability to provide all the required services. For example keeping the streets free from litter should be doable without any need for volunteering.

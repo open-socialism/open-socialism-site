@@ -1,5 +1,6 @@
 ---
-title: 'Mergers until OS'
+title: Mergers until OS
+description: If a segmented society like capitalism is continually merged together, an open socialism like system will form.
 ---
 
 ## Merging individual industries

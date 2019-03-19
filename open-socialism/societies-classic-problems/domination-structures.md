@@ -1,5 +1,6 @@
 ---
-title: 'Domination Structures'
+title: Domination Structures
+description: Societies have a classical problem of domination structures forming.
 ---
 
 ## What is a domination structure?
