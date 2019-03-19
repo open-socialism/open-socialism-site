@@ -1,6 +1,7 @@
 ---
-title: Introduction
 permalink: /introduction/
+title: Introduction
+description: The open socialism system takes the best parts from a variety of sources to create a modern and superior system to capitalism.
 ---
 ## The Open Socialism Project
 

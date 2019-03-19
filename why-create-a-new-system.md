@@ -1,5 +1,6 @@
 ---
-title: 'Why Create A New System?'
+title: Why Create A New System?
+description: Democratic captialism has been very successful over the past 300 years. Why would should anyone consider a new system?
 ---
 
 ## Democratic Capitalism (DC) Isn't That Bad Right?

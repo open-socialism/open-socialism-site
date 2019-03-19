@@ -1,6 +1,7 @@
 ---
-title: Contribute
 permalink: /contribute/
+title: Contribute
+description: Information on how to contribute to the open socialism project.
 ---
 
 So you want to help? Awesome!
