@@ -1,5 +1,6 @@
 ---
-title: 'The Inspiration Of OS'
+title: The Inspiration Of OS
+description: Open socialism was inspired by a number of elements from our modern society.
 ---
 
 Open Socialism is inspired by a few different things.

@@ -1,5 +1,6 @@
 ---
-title: 'Projects'
+title: Projects
+description: Under open socialism specific work is conducted within a 'project'.
 ---
 
 A project has a specific goal which may be completable or ongoing. It consists of a team of people which may include circle members.
