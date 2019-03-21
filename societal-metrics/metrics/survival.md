@@ -1,5 +1,6 @@
 ---
-title: 'Survival'
+title: Survival
+description: How guaranteed is the survival of a society and its people is a key societal metric.
 ---
 
 To what degree is the society ensuring the people's survival. Note: the society should not be purely focused on ensuring the societies survival in it's current form because adaption and restructure can be beneficial.

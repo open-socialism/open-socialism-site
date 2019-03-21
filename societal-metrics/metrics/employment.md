@@ -1,5 +1,6 @@
 ---
-title: 'Employment'
+title: Employment
+description: Employment levels are a key societal metric.
 ---
 
 Probably the best thing is to measure the number of [NEET](https://en.wikipedia.org/wiki/NEET) people. People who are physically and mentally able, not otherwise occupied (eg. raising a family), and for no apparent reason choose not to work or study.

@@ -1,5 +1,6 @@
 ---
-title: 'Happiness'
+title: Happiness
+description: People's happiness levels is a key societal metric.
 ---
 
 The happiness metric encompasses all forms of mental well being and relates to:

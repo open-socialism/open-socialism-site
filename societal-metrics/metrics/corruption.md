@@ -1,6 +1,6 @@
 ---
 title: Corruption
-description: To what degree is corruption possible is a key metric of a societal system.
+description: To what degree is corruption possible is a key societal metric.
 ---
 
 ## Systemic Corruption

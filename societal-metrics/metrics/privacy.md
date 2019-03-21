@@ -1,5 +1,6 @@
 ---
-title: 'Privacy'
+title: Privacy
+description: How well is privacy being balanced with the good of all is a key societal metric.
 ---
 
 This can be subjective as to what is considered an invasion of privacy. However, generally how often and to what degree is personal information (against an individuals wishes) made available, deliberately or accidentally, to other people.
