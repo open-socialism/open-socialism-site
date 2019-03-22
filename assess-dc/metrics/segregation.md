@@ -1,5 +1,6 @@
 ---
-title: 'Segregation'
+title: Segregation
+description: Democratic capitalism does not directly promote segregation, however the classist nature of a high wealth inequality can add to it.
 ---
 
 Due to has equal legal rights, there is no forced segregation under DC.

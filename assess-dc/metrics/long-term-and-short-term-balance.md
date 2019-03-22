@@ -1,5 +1,6 @@
 ---
-title: 'Long Term And Short Term Balance'
+title: Long Term And Short Term Balance
+description: Democratic capitalism demonstrably fails to value long term thinking with the level of environmental destruction and general wastage it supports.
 ---
 
 DC is very poor in this area. Most work and is focused on increasing the income of a company, usually for the current quarter or financial year. It is rare for a company to invest in long term gains as the executives are incentivized by year bonuses and salaries.

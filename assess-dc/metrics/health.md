@@ -1,5 +1,6 @@
 ---
-title: 'Health'
+title: Health
+description: Democratic capitalism countries are mostly pretty good in regards to health with a majority having free public health care.
 ---
 
 DC has some issues in terms of health. Companies are not concerned with the health of their customers, just with how well they can sell to them. This often involves deceiving the customer about the healthiness of certain products. For example a product that has lots of added sugar but has packaging suggesting it is healthy.

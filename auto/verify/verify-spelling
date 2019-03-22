@@ -3,4 +3,6 @@ set -Eexuo pipefail
 
 cd "$(dirname "$0")"/../..
 
+# Note: SEO descriptions are not spell checked
+
 auto/dev-environment bin/spell-check.sh

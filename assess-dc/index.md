@@ -1,5 +1,6 @@
 ---
-title: 'Assessing Democratic Capitalism'
+title: Assessing Democratic Capitalism
+description: An attempt to use the defined societal metrics to assess democratic capitalism.
 ---
 
 Let's assess DC.

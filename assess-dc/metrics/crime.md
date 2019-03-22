@@ -1,5 +1,6 @@
 ---
-title: 'Crime'
+title: Crime
+description: Democratic capitalism is pretty good at preventing crime.
 ---
 
 DC does a reasonable job of dealing with crime. The main issue is that with wealth inequality the poorest people can struggle to raise children in happy homes which makes these children more prone to crime.

@@ -1,5 +1,6 @@
 ---
-title: 'Survival'
+title: Survival
+description: Democratic capitalism is failing to protect future of humanity with great environmental destruction and wastage.
 ---
 
 DC is very poor at survival as a species.
