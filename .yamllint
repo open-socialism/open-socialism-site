@@ -7,7 +7,8 @@ rules:
   document-start:
     present: false
   indentation:
-    indent-sequences: false
+    spaces: 2
+    indent-sequences: true
   line-length: disable
 
 ignore: |
