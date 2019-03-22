@@ -1,5 +1,6 @@
 ---
-title: 'Employment'
+title: Employment
+description: Democratic capitalism is pretty good at creating jobs, but globalization can causes issues within certain countries.
 ---
 
 DC itself is actually pretty good with providing employment to people. Unemployment rates typically sit at around 5%.

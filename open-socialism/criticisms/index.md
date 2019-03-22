@@ -1,6 +1,7 @@
 ---
 placeholder: true
-title: 'Criticisms'
+title: Criticisms
+description: What are some common criticisms of open socialism?
 ---
 
 {% include link-children.html %}

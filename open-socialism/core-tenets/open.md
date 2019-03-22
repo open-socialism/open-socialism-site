@@ -1,5 +1,6 @@
 ---
-title: 'Open'
+title: Open
+description: Open socialism has a tenet of no openness.
 ---
 
 Open describes 2 core mechanisms within Open Socialism.

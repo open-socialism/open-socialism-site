@@ -1,5 +1,6 @@
 ---
-title: 'Open Socialism Is Unproven'
+title: Open Socialism Is Unproven
+description: How does open socialism respond to the criticism that it is unproven.
 ---
 
 'OS has never existed and there are no examples of anything similar that actually works'.

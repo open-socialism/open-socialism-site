@@ -1,5 +1,6 @@
 ---
-title: 'People Don’t Need Great Financial Reward To Strive'
+title: People Don't Need Great Financial Reward To Strive
+description: Capitalism level rewards (becoming a billionaire) are not necessary to motivate humans.
 ---
 
 Communism has the principle of ['from each according to his ability, to each according to his need'](https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs){:target="_blank"}, which is to say there isn't rewards for striving and becoming a prestigious member of society. People criticize communism for this as they say people won't be motivated without financial reward. This is debatable but in the case of OS rising up in society or providing value does reward the individual with more financial benefit.

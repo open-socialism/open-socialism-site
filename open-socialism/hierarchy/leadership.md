@@ -1,5 +1,6 @@
 ---
-title: 'Leadership'
+title: Leadership
+description: An open socialism society is lead by a top level commitee or 'circle'. Descisions are made with a consensus seeking model.
 ---
 
 The top level of society is a circle much like any other. The major difference is that it doesn't have a parent circle sitting above it, monitoring it, that can dissolve it at any point if required if things are getting out of hand.

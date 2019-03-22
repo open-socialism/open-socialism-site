@@ -1,5 +1,6 @@
 ---
-title: 'Safety'
+title: Safety
+description: Democratic capitalism has good principles around safety.
 ---
 
 DC is pretty good in terms of safety as the government regulates industry with safety requirements. Although, sometimes this can be an issue as:

@@ -1,10 +1,11 @@
 ---
-title: 'What Motivates People?'
+title: What Motivates People?
+description: People are motivated by their evolved biological urges and cultural urges.
 ---
 
 There are three levels to the motivations of people.
 
-## The evovled individual biological urge
+## The evolved individual biological urge
 
 All our ancestors have done something. They have reproduced and raised their offspring in an environment which allowed them to in turn reproduce.
 
@@ -15,7 +16,7 @@ One needs to not only reproduce, but:
 * reproduce with someone else with desirable DNA.
 * belong to a tribe or community that can support your offspring (until they in turn can reproduce).
 
-This is why purely looking at humans as self serving is faulty. Humans have evovled to depend on a community to survive, especially when raising children which are a burden on that community while they are young.
+This is why purely looking at humans as self serving is faulty. Humans have evolved to depend on a community to survive, especially when raising children which are a burden on that community while they are young.
 
 Reproducing and community are both essential ingredients for successful reproduction (in an evolutionary sense) for humans and as such they are equally motivated for both these goals.
 

@@ -1,5 +1,6 @@
 ---
-title: 'There are great DC countries'
+title: There are great DC countries
+description: How does open socialism respond to the criticism that some DC countries are doing well, so why should we investigate alternative systems.
 ---
 
 'You are referencing the USA a lot when looking at issues with DC, however there are much better DC countries such as the Nordic ones. Those countries show that DC is a good system and that great wealth inequality and a corrupted democracy are not inherent issues. Isn't this assessment specious and shouldn't the next step for DC be to take ideas from the best examples of DC and apply them all over the world?'

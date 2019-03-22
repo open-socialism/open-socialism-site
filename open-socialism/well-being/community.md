@@ -1,5 +1,6 @@
 ---
-title: 'Community'
+title: Community
+description: In open socialism, communities play a critical part in people's well being.
 ---
 
 People will be a part of multiple communities. Technology and practices need to reinforce these communities. They are as follows:

@@ -1,5 +1,6 @@
 ---
-title: 'Efficiency'
+title: Efficiency
+description: Democratic capitalism is poor at efficiently converting natural human behavior into the greater good.
 ---
 
 ## Financial Incentive Motivates People To Be Efficient

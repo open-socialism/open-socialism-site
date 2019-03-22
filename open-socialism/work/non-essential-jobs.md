@@ -1,5 +1,6 @@
 ---
-title: '"Non Essential Jobs"'
+title: "Non Essential Jobs"
+description: How would "non essential jobs" exist under open socialism.
 ---
 
 How would a comedian for example work?

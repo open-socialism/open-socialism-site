@@ -1,5 +1,6 @@
 ---
-title: 'Health'
+title: Health
+description: People's healthiness is a key societal metric.
 ---
 
 This metric relates to things like:

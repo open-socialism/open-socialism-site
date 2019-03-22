@@ -1,5 +1,6 @@
 ---
-title: 'The Plan'
+title: The Plan
+description: What is the plan for the open socialism project.
 ---
 
 OS will follow the model of open source software and the principle of [release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often){:target="_blank"}. This is similar to how Wikipedia works which boils down to 'get something out there, it may not be perfect, then iterate on it from the feedback you receive'. Even if what is created is initially poor quality it can be reliably and iteratively improved much faster with public feedback and help than in isolation.

@@ -1,5 +1,6 @@
 ---
-title: 'Worker Cooperative is Better Than OS'
+title: Worker Cooperative is Better Than OS
+description: How does open socialism respond to the criticism that worker cooperatives are a better solution.
 ---
 
 '[Worker cooperatives](https://en.wikipedia.org/wiki/Worker_cooperative){:target="_blank"} are the sweet spot. They combine good parts of capitalism such as incentives to work, but employees are not exploited as they democratically control the company'.

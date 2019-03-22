@@ -1,5 +1,6 @@
 ---
-title: 'The Sciences'
+title: The Sciences
+description: Open socialism has a specific break down of science and technology.
 ---
 
 The sciences are a key part of OS. Unlike DC a large portion of society will be focused on pure science or technology work to be used by the rest of society. The reason for this is that scientific and technological advancement can have tremendous long term benefit.

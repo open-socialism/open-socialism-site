@@ -1,5 +1,6 @@
 ---
-title: 'Secondary Technology'
+title: Secondary Technology
+description: In open socialism, secondary technology is technology used by all of society.
 ---
 
 Secondary technology are the products and technologies used by the end consumers, which can be for industry or private usage. A TV is an example of a secondary technology. Another would be a project management application.

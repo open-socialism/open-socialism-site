@@ -1,5 +1,6 @@
 ---
-title: 'Privacy'
+title: Privacy
+description: Open socialism's policies around privacy of individuals.
 ---
 
 Privacy is an interesting issue for a societal system as complete privacy can work against the needs of the many. Anyway, these are the general principles of OS.

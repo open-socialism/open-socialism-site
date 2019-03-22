@@ -1,5 +1,6 @@
 ---
-title: 'Inheritance'
+title: Inheritance
+description: Open socialism would have no or limited wealth inheritance.
 ---
 
 Inheritance can be dangerous because it can allow unfair accumulation of wealth through generations. It also passes on wealth and power to children, who unlike their parents may not deserve it through merit.

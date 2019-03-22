@@ -1,5 +1,6 @@
 ---
-title: 'Individual not group competition'
+title: Individual not group competition
+description: Open socialism has a tenet of competition between individuals, not groups.
 ---
 
 This is related to [no free enterprise](no-free-enterprise), but is more of a foundational concept. Individuals competing against each other for prestige is healthy and productive as long as that competition is within an umbrella of the one group.

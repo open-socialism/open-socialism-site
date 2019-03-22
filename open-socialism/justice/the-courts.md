@@ -1,5 +1,6 @@
 ---
-title: 'The Courts'
+title: The Courts
+description: How does open socialism handle settling matters in court.
 ---
 
 Law will still exist. There will be two major differences however.

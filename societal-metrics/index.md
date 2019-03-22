@@ -1,5 +1,6 @@
 ---
-title: 'Societal Metrics'
+title: Societal Metrics
+description: To be able to compare societal systems, a set of metrics are required.
 ---
 
 The goal is to create a set of metrics that can be used to assess a societal system.

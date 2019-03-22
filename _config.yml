@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   a compelling alternative to democratic capitalism
 baseurl: "" # the subpath of your site, e.g. /blog
 analytics_id: UA-75947611-1
-exclude: ['auto', 'support']
+exclude: ['auto', 'support', 'bin']
 url: https://opensocialism.com
 
 # this will strip all pages of the .html extension when jekyll generates a url
@@ -18,33 +18,33 @@ sass:
   style: :compressed
 
 plugins:
-- jekyll-include-cache
-- jekyll-sitemap
-- jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 defaults:
--
-  scope:
-    path: ""
-    type: "pages"
-  values:
-    layout: "page"
--
-  scope:
-    path: "societal-metrics"
-    type: "pages"
-  values:
-    layout: "societal-metrics"
--
-  scope:
-    path: "assess-dc"
-    type: "pages"
-  values:
-    layout: "assess-dc"
-# avoiding the globbing here (assess-dc/*) as it is slows down the build about 60% https://jekyllrb.com/docs/configuration/front-matter-defaults/#glob-patterns-in-front-matter-defaults
--
-  scope:
-    path: "assess-dc/metrics"
-    type: "pages"
-  values:
-    layout: "assess-dc"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "societal-metrics"
+      type: "pages"
+    values:
+      layout: "societal-metrics"
+  -
+    scope:
+      path: "assess-dc"
+      type: "pages"
+    values:
+      layout: "assess-dc"
+  # avoiding the globbing here (assess-dc/*) as it is slows down the build about 60% https://jekyllrb.com/docs/configuration/front-matter-defaults/#glob-patterns-in-front-matter-defaults
+  -
+    scope:
+      path: "assess-dc/metrics"
+      type: "pages"
+    values:
+      layout: "assess-dc"

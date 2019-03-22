@@ -1,5 +1,6 @@
 ---
-title: 'Compassion'
+title: Compassion
+description: Open socialism has a tenet of being compassionate to make our lives eminently livable.
 ---
 
 Compassion is that transcendent quality that can act as a great fuel for society. It is greatly motivating when someone cares or helps for no particular benefit of their own.

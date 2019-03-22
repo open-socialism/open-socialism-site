@@ -1,5 +1,6 @@
 ---
-title: 'Culture'
+title: Culture
+description: Democratic capitalism promotes culture with diversity, but the commercial nature of cultural expression can stymie it.
 ---
 
 ## Artistic Endeavor

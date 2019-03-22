@@ -1,5 +1,6 @@
 ---
-title: 'The free market is inefficient'
+title: The free market is inefficient
+description: The free market is an inefficient way for humans to work towards the greater good.
 ---
 
 Free enterprise is an inefficient system of contributing towards the greater good.

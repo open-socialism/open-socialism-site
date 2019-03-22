@@ -1,5 +1,6 @@
 ---
-title: 'Happiness'
+title: Happiness
+description: Democratic capitalism does not greatly promote happiness due to the divergence of professional work and humans desire to protect and strengthen their communities.
 ---
 
 DC is quite poor in terms of happiness.

@@ -1,5 +1,6 @@
 ---
-title: 'Prefer Long Term Thinking'
+title: Prefer Long Term Thinking
+description: Open socialism has a tenet of no openness.
 ---
 
 Long term thinking is obviously more advantageous in the long run. Too much long term thinking can have averse effects however.

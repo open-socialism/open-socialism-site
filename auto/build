@@ -3,4 +3,4 @@ set -Eexuo pipefail
 
 cd "$(dirname "$0")"/..
 
-auto/dev-environment bundle exec jekyll build
+auto/dev-environment bundle exec jekyll build --safe

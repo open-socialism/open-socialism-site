@@ -1,5 +1,6 @@
 ---
-title: 'Wealth Equality'
+title: Wealth Equality
+description: Democratic capitalism has poor wealth equality as wealth naturally accumulates and those without wealth start with significant disadvantages.
 ---
 
 DC has a fairly poor distribution of wealth.

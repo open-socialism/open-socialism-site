@@ -1,6 +1,7 @@
 ---
 placeholder: true
-title: 'Information'
+title: Information
+description: How is information managed by open socialism.
 ---
 
 {% include link-children.html %}

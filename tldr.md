@@ -1,5 +1,6 @@
 ---
 title: tl;dr (Too Long Didn’t Read)
+description: A brief summary of the arguments for a change away from democratic capitalism and for the open socialism system as a replacement.
 ---
 
 ## tl;dr of the tl;dr

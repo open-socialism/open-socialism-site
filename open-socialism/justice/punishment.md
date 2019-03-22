@@ -1,5 +1,6 @@
 ---
-title: 'Punishment'
+title: Punishment
+description: Open socialism's policies on punishment.
 ---
 
 There are a few factors to consider when someone is punished for a crime.

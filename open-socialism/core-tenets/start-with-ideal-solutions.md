@@ -1,5 +1,6 @@
 ---
-title: 'Start With Ideal Solutions'
+title: Start With Ideal Solutions
+description: Open socialism has a tenet starting with ideal solutions, then mitigating possible issues.
 ---
 
 Often when solving a problem there is an ideal solution and a pessimistic solution. It is usually better to start with the ideal solution as a base and then augment it to deal with any problems.

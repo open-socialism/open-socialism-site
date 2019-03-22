@@ -1,5 +1,6 @@
 ---
-title: 'Justice'
+title: Justice
+description: Democratic capitalism has good principles around justice, but wealth trumps a lot of the ideals.
 ---
 
 DC is pretty good with justice in that the courts and the jury system tends to be quite impartial. However it does have a few problems.

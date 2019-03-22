@@ -1,5 +1,6 @@
 ---
-title: 'Privacy'
+title: Privacy
+description: Democratic capitalism has good ideals around privacy, but in practice tactics employed by companies diminish the effective privacy of individuals.
 ---
 
 DC is pretty good in terms of privacy. The government creates laws that protect privacy and companies need to follow these laws. It does have a few downsides though.

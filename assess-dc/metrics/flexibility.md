@@ -1,5 +1,6 @@
 ---
-title: 'Flexibility'
+title: Flexibility
+description: Democratic capitalism has constrained flexibility due to systemic corruption and limits of the democratic process.
 ---
 
 ## Range of flexibility

@@ -1,5 +1,6 @@
 ---
-title: 'Normal Human Corruption'
+title: Normal Human Corruption
+description: Humans are naturally self serving and corrupt.
 ---
 
 Given the [motivations of people](what-motivates-people) how do humans operate?

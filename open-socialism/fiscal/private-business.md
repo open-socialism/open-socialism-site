@@ -1,5 +1,6 @@
 ---
-title: 'Private Business'
+title: Private Business
+description: Private business is disallowed under open socialism to prevent unrestricted wealth accumulation.
 ---
 
 Private business is not allowed under OS as that would allow unrestricted wealth accumulation, which will eventually lead to power centralization and corruption.

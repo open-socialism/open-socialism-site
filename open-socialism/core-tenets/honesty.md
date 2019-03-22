@@ -1,5 +1,6 @@
 ---
-title: 'Honesty'
+title: Honesty
+description: Open socialism has a tenet of honesty.
 ---
 
 Individuals and groups should strive towards being honest. In particular they should be honest when this makes them vulnerable and open to criticism.

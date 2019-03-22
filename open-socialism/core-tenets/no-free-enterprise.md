@@ -1,5 +1,6 @@
 ---
-title: 'No Free Enterprise'
+title: No Free Enterprise
+description: Open socialism has a tenet of no free enterprise, which leads to wealth and power centralization.
 ---
 
 [Free enterprise has many inefficiencies that make it on paper much less efficient](/open-socialism/arguments/the-free-market-is-inefficient).

@@ -1,5 +1,6 @@
 ---
-title: 'Flexibility'
+title: Flexibility
+description: The breadth of actions available at any given time is a key societal metric.
 ---
 
 To what degree can society adapt to varying challenges. There are a few metrics surrounding this.

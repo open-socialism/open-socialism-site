@@ -1,5 +1,6 @@
 ---
-title: 'The Media'
+title: The Media
+description: Open socialism would have limited need for specific media organisations.
 ---
 
 There would be some news organization responsible for breaking down and communicating the news.

@@ -1,5 +1,6 @@
 ---
-title: 'Corruption'
+title: Corruption
+description: Societies have a classical problem of corruption.
 ---
 
 Corruption is normal for humans as we want to get ahead, however extreme corruption, at a societal level can be very detrimental over time. There are two kinds of corruption.

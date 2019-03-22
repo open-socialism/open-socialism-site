@@ -1,5 +1,6 @@
 ---
-title: 'Rights Equality'
+title: Rights Equality
+description: Democratic capitalism has good principles around rights equality, however wealth has a large impact on effective rights.
 ---
 
 DC has, at a legal level, quite a fair system where on paper everyone has the same rights. Let's look at how this works for some different areas.

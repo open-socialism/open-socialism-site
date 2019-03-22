@@ -1,5 +1,6 @@
 ---
-title: 'Circles'
+title: Circles
+description: Open socialism manages the process of work by breaking down society into 'circles' which orchestrate specific efforts.
 ---
 
 A circle is an autonomous committee charged with governing a specific area of society. All levels of society work this way including the top level.

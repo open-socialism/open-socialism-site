@@ -1,5 +1,6 @@
 ---
-title: 'Corruption'
+title: Corruption
+description: Democratic capitalism suffers from extensive systemic corruption.
 ---
 
 ## Systemic Corruption

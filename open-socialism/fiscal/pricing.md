@@ -1,5 +1,6 @@
 ---
-title: 'Pricing'
+title: Pricing
+description: How does open socialism determine the pricing of goods.
 ---
 
 The pricing of goods and services is tricky. The ultimate goal is to balance the amount of effort spent on the greater long term good vs the enjoyment of the day to day.
