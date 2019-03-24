@@ -7,13 +7,14 @@ description: A brief summary of the arguments for a change away from democratic 
 
 Democratic capitalism (DC) had some good years and achieved a lot, but it has started to be highly inequitable and exploitative. With modern technology, science and advances in project and team management, there is a huge range of techniques that can be employed to create much better systems. We can create a cooperative system that is much more equitable and productive than DC.
 
-## Democratic capitalism not so good
+## Democratic capitalism is failing
 
-Democratic capitalism is used within most of the powerful countries. More importantly it, in particular capitalism, it has become the dominant global system.
+Democratic capitalism is used within most of the powerful countries. More importantly it has become the dominant global system.
 
-* DC is performing really poorly in terms of being equitable. [The wealthiest 26 people in the world have more wealth than the bottom 3,800,000,000](https://www.theguardian.com/business/2019/jan/21/world-26-richest-people-own-as-much-as-poorest-50-per-cent-oxfam-report){:target="_blank"}.
+* DC has become extremely inequitable. [The wealthiest 26 people in the world have more wealth than the bottom 3,800,000,000](https://www.theguardian.com/business/2019/jan/21/world-26-richest-people-own-as-much-as-poorest-50-per-cent-oxfam-report){:target="_blank"}.
 * Numbers like this are startling but still hard to appreciate. [Check out this graph for family wealth in the US](https://www.cbo.gov/publication/51846){:target="_blank"} (significantly less inequality than at a global level though).
-* DC is damaging the environment. Worst example, [Elon Musk sums up the global warming issue really well and talks about how 97% of scientists believe the transition to sustainable energy will be catastrophic](https://www.youtube.com/watch?v=xKCuDxpccYM){:target="_blank"}. Another example, [We are expending the resources of 1.6 planets per year](http://www.footprintnetwork.org/en/index.php/GFN/page/world_footprint/){:target="_blank"}.
+* DC is unsustainably damaging the environment. Worst example, [Elon Musk sums up the global warming issue really well and talks about how 97% of scientists believe the transition to sustainable energy will be catastrophic](https://www.youtube.com/watch?v=xKCuDxpccYM){:target="_blank"}.
+* Another example, [We are expending the resources of 1.7 planets per year](https://www.footprintnetwork.org/our-work/ecological-footprint/#worldfootprint){:target="_blank"}.
 
 [More on the case for change](/why-create-a-new-system)
 
