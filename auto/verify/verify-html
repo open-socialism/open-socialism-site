@@ -9,7 +9,6 @@ cd "$(dirname "$0")"/../..
 FLAGS=" \
   --url-ignore=#,#0,/vimeo.com/85490944/,/github.com/open-socialism/open-socialism-site/edit/master/,/opensocialism.com/ \
   --assume-extension \
-  --check_external_hash \
   --check-favicon \
   --check_opengraph \
   --check_html \
