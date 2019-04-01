@@ -1,8 +1,8 @@
 # matches https://pages.github.com/versions
-# pinned to sha for reproducability, notably with the hunspell version
+# pinned to sha for reproducability
 FROM ruby:2.5.3@sha256:ae790cc668ca4dd837399a801fbb235d22769ad3e899f8e1b409490d011ff2ba
 
- # ruby base doesn't specify locale
+ # ruby base doesn't specify locale https://github.com/docker-library/ruby/issues/45
 ENV LANG C.UTF-8
 
  # need the latest hunspell (or at least 1.6+ . 1.4 is in stable debian channel.)
