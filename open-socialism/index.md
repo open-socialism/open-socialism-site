@@ -17,6 +17,25 @@ State owned socialism has inherent risks as a societal system. Those at the top 
 
 Humans are [inherently corrupt and will seek advantage for themselves](arguments/normal-human-corruption), dealing with corruption is the most important issue for any society to deal with.
 
+OS deals with this in a few ways. Primarily, like the [open source model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"}, almost all information around decision making, deliberation and work is publicly available, both in real time and historical. This includes mechanisms to allow the public to flag questionable decisions (and also generally contribute if they please). As such, corruption needs to happen under the nose of the entirety of society. The higher up in society a decision is being made, the more scrutiny that can be expected.
+
+## Structure
+
+In OS the means of production are state owned and there is no free enterprise. How does OS manage with everyone working for the one giant organization?
+
+### Autonomous Teams
+
+### Consensus Seeking Decision Making
+
+### Continual Improvement
+
+## Focus
+
+### High Level Goals
+
+### Individual Motivation
+
+
 ## Want To Keep Reading?
 
 [OS Goals](goals)
