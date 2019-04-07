@@ -1,64 +1,65 @@
 ---
 title: The Open Socialism System
-description: A detailing of the logic leading to the open socialism system.
+description: A high level overview of the open socialism system.
 ---
 
 Open Socialism (OS) is a societal system that is designed to be the highly equitable, productive and favor long term thinking. It combines ideas from socialism, communism, capitalism, democracy, [the open source software movement](https://en.wikipedia.org/wiki/Open-source_movement){:target="_blank"}), [agile software development](https://en.wikipedia.org/wiki/Agile_software_development){:target="_blank"} and [evolutionary psychology](https://en.wikipedia.org/wiki/Evolutionary_psychology){:target="_blank"}.
 
-The core logic for OS is as follows.
+## Goals
 
-## Start with a Communism
+OS has the following [goals](goals) in order of importance.
 
-Communism (in the sense that the people collectively own and run the means of production) is on paper much more efficient than Capitalism.
+1. Ensure the long term survival of society and its people.
+2. Have a society that is sustainable for the people who live in it. People should be happy, needed, productive but not overworked. Without a happy populace the system will destabilize.
+3. Scientific and technological advancement.
 
-Capitalism has wastage due to:
+This is unlike capitalism which does not have clear goals and is struggling to ensure humanity's long term survival.
 
-* duplication of effort (all companies need to run a HR department)
-* duplication of research
-* advertising
-* legal defense and offense
-* regulation (still required in Communism but self regulation is more efficient than the law creation, auditing, policing process)
-* taxation efforts
-* shareholder reporting
-* [rent seeking behavior](https://en.wikipedia.org/wiki/Rent-seeking) which decreases overall wealth
+1 does not imply the blind persistence of OS. If a better societal system comes along, OS should make way for it, or adapt to include the good parts.
 
-Consolidating the production of goods and services into the one organization is much more efficient.
+## Socialism
 
-## Hmm but Communism has always failed
+OS starts with the concept of a state owned socialist system. To have clear and deliberate goals society needs to use a cooperative model with a top-down aligning of societies purpose.
 
-Communism has always failed because, like Democratic Capitalism (DC), it has never been set up with specific mechanisms to counter normal human corruption that lead to extreme power inequality (or it has been fascism/dictatorism wearing the mask of Communism to seize power).
+Humans cooperating is more efficient at providing value to the greatest number of people when compared with a capitalist society. This is because under capitalism [resources are expended in competition between groups and companies do not work towards the good of all](arguments/the-free-market-is-inefficient).
 
-The problem is it can never be assumed that humans won't be corrupt in any system. Humans instinctively try to gain advantage for themselves which improves their chances of passing on their genes and their offspring in turn passing on their genes. Corruption is not humans being 'bad', it is humans being humans!
+OS greatly differs here from capitalism. It takes an optimistic base concept of cooperation and then attempts to mitigate the issues, rather than basing the whole system on something non-optimal. This is how OS can, in theory, be a great improvement over democratic capitalism.
 
-The tribal system dealt with this perfectly in that humans were living close to the brink so they had to work together. Helping one's tribe was helping oneself since the individual is entirely dependent on the tribe for survival. Being corrupt and hoarding food for example would result in an individual being ostracized so corruption was limited. As such self interested behavior was the kind that would also help the tribe as whole.
+## Reward Individual Effort
 
-This problem of having self interested behavior also help the group is a core issue that any system including Communism needs to solve. It is more important in Communism because if everyone works for the state those who run the state have an incredible amount of power. They have the power to rule over the entirety of society and them working for their own self interest is much more destructive.
+Humans are [inherently self serving and will seek advantage for themselves](arguments/normal-human-corruption). It is inhuman to expect people to follow ideals like ["from each according to their ability, to each according to their need"](https://en.wikipedia.org/wiki/From_each_according_to_his_ability,_to_each_according_to_his_needs){:target="_blank"}.
 
-## OK OK, so we should as a first step try and align self interest with the good of society
+If individuals cannot strive for personal success within the system, they will be forced to attempt to circumvent it. Thus OS recognizes humans inherent self-serving nature and rewards people rising up in society and doing great work. However, unlike capitalism the difference between the top and bottom of society need not be excessive. 5 times the salary may be sufficient incentive, but this is a knob to be tuned. [Humans do not need extreme rewards to be driven to strive!](arguments/people-will-be-incentivized-to-work)
 
-Humans want to be selfish and get ahead. They want to be prestigious and to have more wealth than others. OK no problem!
+## Corruption
 
-Society will have different levels of leaders and those that get ahead should get more money and prestige. However, the difference in wealth between someone at the top of society should not be hugely different than a member at the bottom of society. It might be something like 5 times as much, although this is a knob to be tuned. More evenly distributed wealth will mean (particularly when modern technology is factored in) that the 'lowest' members of society will have an abundance and so should be satisfied.
+State owned socialism has inherent risks as a societal system. Those at the top can have control to a far greater degree than is possible under capitalism, where a lot of the power rests with companies and individuals. Incentivizing rising up the ranks with increased remuneration will stimulate corruption and nepotism. OS acknowledges the criticality of directly addressing normal human corruption, particularly in cooperative directed societies.
 
-With everyone striving for and being rewarded for providing value to society itself and not a private company this means self interest is very nicely aligned with the good of society.
+### Openness
 
-## Sounds good, but what about corruption?
+Under OS almost all information is publicly available, both in real time and historical. This is much like the [open source model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"}. Mechanisms are also included to allow the public to flag questionable decisions (and also generally contribute if they please). As such, corruption needs to happen under the nose of the entirety of society. The higher up in society a decision is being made, the more scrutiny that can be expected.
 
-Yes, corruption should still be expected.
+### Consensus Based Decision Making
 
-OK, let's make virtually all information and decision making completely open and available on the internet, from all levels of society, both in real time and historically. This means that any corruption needs to be done under the nose of the entirety of society. We should also have feedback mechanisms where anyone can flag a decision as corrupt (or simply bad) and this feedback will reach the decision makers.
+OS favors consensus based decision making. Decisions made by a group of people are far less likely to be corrupt. This is because influencing a decision requires corrupting multiple decision makers as opposed to just corrupting a single individual leader.
 
-Let's also have important decisions made using the [consensus seeking model](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making){:target="_blank"}. So there is a committee and they try and achieve consensus to make a decision. This promotes discussion to achieve a good result. However, if consensus cannot be achieved a 2/3 majority vote is required to make a decision. If repeatedly a 2/3 majority cannot be a reached a final vote can be had that only requires a 50% majority. The voting system means that the committee will not be bogged down forever trying to reach a consensus.
+Consensus based decision making can be slow with consensus difficult to reach. OS uses the [consensus seeking](https://en.wikipedia.org/wiki/Consensus-seeking_decision-making){:target="_blank"} variant which aims for consensus but falls back to voting if consensus cannot be reached. OS recognizes the value of the democratic process! However, it is a tool to be applied only when and where it makes sense.
 
-The great thing about this system is that to corrupt a decision it is necessary to corrupt over 50% of a committee which is obviously far more difficult than corrupting a single leader.
+## Structure
 
-## Conclusion
+In OS the whole of society is managed by one giant organization. This presents a number of challenges.
 
-It should be possible to start with a idealistic cooperative and highly productive base and use human intellect and technology to deal with the classic societal problems of corruption and providing motivation to individuals to work towards the greater good.
+### Autonomous Teams
 
-Starting with an pessimistic system such as DC is not necessary and it has shown itself to be highly inequitable and inefficient. At the very least starting with an idealistic base as per OS it should be possible to outperform DC in terms of societal metrics.
+Society in OS is managed by small autonomous teams known as [circles](hierarchy/circles). There is a hierarchy of circles from the top of society all the way to the bottom. eg. `Main Leadership -> Health -> Disease Prevention And Treatment -> Cancer Research`. Circles define the purpose and charter of sub-circles, however they do not control them. Business has shown us that top-down orchestration is highly ineffective. There is no reason that `Disease Prevention And Treatment` circle could make better decisions than `Cancer Research` when deciding on a cancer research strategy. This kind of autonomy is even more necessary for OS as the size of the organization is too large for any kind of top-down controlling model.
 
-There is a lot more to OS than this, but these are the core concepts of a highly cooperative society that has minimal corruption, whilst also rewarding individuals.
+Circles are focused on leadership and do not perform actual work. Instead a circle will create a [project](hierarchy/projects) and assign members to enact a specific piece of work. A clear separation of leadership (circle) and producing value through work (project) helps each of these concerns be better and more explicitly addressed.
+
+### Flexibility
+
+Circles use ideas like consensus seeking decision making, openness, sub-circle and project creation to do their job. However, society is large with many different areas. [Agile software development practices](https://en.wikipedia.org/wiki/Agile_software_development){:target="_blank"} has shown that there is no one size fits all practices and flexibility is required. Circles can adjust how they work down to the fundamentals. Continual experimentation and improvement is the best way to achieve long term value.
+
+This is not without its risks. Circles may change in ways that broaden the scope of possible corruption such as appointing an individual leader. A parent circle has the charge of monitoring its sub-circles. If they destabilize the parent circle can dissolve the sub-circle (and recreate) it as necessary.
 
 ## Want To Keep Reading?
 
