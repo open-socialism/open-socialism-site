@@ -24,4 +24,4 @@ Wikipedia links are more reliable than links to articles as they are constantly 
 
 Use a conversational tone to communicate as clearly as possible. [http://paulgraham.com/talk.html](http://paulgraham.com/talk.html) explains this concept in more detail.
 
-The goal is to be clear and convincing. Not wow people with big words or grand prose.
+The goal is to be clear and convincing. Not wow people with big words or grand prose. [This article also has some good tips to keep to keep the text reader focused](https://stevenpressfield.com/2009/10/writing-wednesdays-2-the-most-important-writing-lession-i-ever-learned/)
