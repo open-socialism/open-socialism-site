@@ -3,10 +3,12 @@
 // Headings, body text, lists, and other misc typographic elements.
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   margin-bottom: .5rem;
-  font-weight: bold;
+  font-weight: 400;
   line-height: 1.25;
   color: #313131;
+  letter-spacing: -.025rem;
   text-rendering: optimizeLegibility;
 }
 
@@ -23,21 +25,21 @@ h2 {
 h3 {
   margin-top: 1.5rem;
   font-size: 1.15rem;
-  color: #00357b !important; // I really don't understand why these styles aren't cascading..
-  font-weight: bold !important;
-}
-
-h4 {
-  display: inline-block;
-  margin-top: 0 !important;
-  color: #454545 !important;
-  font-weight: bold !important;
+  color: #00357b;
+  font-weight: bold;
 }
 
 h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
   font-style: italic;
+}
+
+h4 {
+  display: inline-block;
+  margin-top: 0;
+  color: #454545;
+  font-weight: bold;
 }
 
 p {
