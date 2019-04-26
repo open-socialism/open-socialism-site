@@ -1,3 +1,23 @@
+.container.home {
+  max-width: 48rem;
+}
+
+
+.home-header {
+  text-align: center;
+  margin-bottom: 20px;
+
+  h1 {
+    font-size: 3.7rem;
+  }
+
+  small {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #6c6c6c;
+  }
+}
+
 .tile-list {
   .row {
     margin-bottom: 25px;
@@ -9,6 +29,8 @@
     color: #7e57c2;
   }
 }
+
+
 
 @media (max-width: 48em) {
   .tile-list {

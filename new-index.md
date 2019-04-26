@@ -1,8 +1,12 @@
 ---
 layout: default
+container-class: home
 ---
 
-# Welcome To Open Socialism
+<header class="home-header">
+  <h1>Open Socialism</h1>
+  <small>a compelling alternative to democratic capitalism</small>
+</header>
 
 Open Socialism is a rethink on how to run a society. It takes the best parts from communism, socialism, capitalism, democracy and a variety of other sources and offers a new and radically different system than the currently popular democratic capitalism.
 
