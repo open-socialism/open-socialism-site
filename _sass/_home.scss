@@ -1,8 +1,13 @@
 .container.home {
-  max-width: 48rem;
 
   h2 {
     margin-top: 0;
+  }
+}
+
+@media (min-width: 56em) {
+  .container.home {
+    max-width: 48rem;
   }
 }
 
