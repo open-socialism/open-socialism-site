@@ -1,10 +1,16 @@
 ---
 layout: default
+container-class: home
 ---
 
-# Welcome To Open Socialism
+<header class="home-header">
+  <h1>Open Socialism</h1>
+  <small>a compelling alternative to democratic capitalism</small>
+</header>
 
 Open Socialism is a rethink on how to run a society. It takes the best parts from communism, socialism, capitalism, democracy and a variety of other sources and offers a new and radically different system than the currently popular democratic capitalism.
+
+## Features
 
 <div class="tile-list">
   <div class="row">
@@ -24,7 +30,11 @@ Open Socialism is a rethink on how to run a society. It takes the best parts fro
   </div>
 </div>
 
-Democratic capitalism as a system has served humanity well and for a period of time there has been great technological advancement. However, it is outgrowing its usefulness as recurring problems of wealth inequality, financial crisis and environmental destruction worsen. Now that we have advanced so far with technology and modern business we have the tools to create much superior systems that are equitable for everyone in society and greatly productive.
+## Why A New System?
+
+Democratic capitalism as a system has served humanity well and for a period of time there has been great technological advancement. However, it is outgrowing its usefulness as recurring problems of wealth inequality, financial crisis and environmental destruction worsen. Now that we have advanced so far with technology and modern business, we have the tools to create much superior systems that are equitable for everyone in society and greatly productive.
+
+## Learn More
 
 Open Socialism is in a very early draft status. Everything is open to change and the goal is to develop the system as an [open source](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} project. [Want to help?](contribute)
 
