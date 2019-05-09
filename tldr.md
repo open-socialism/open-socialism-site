@@ -21,7 +21,7 @@ Democratic capitalism is used within most of the powerful countries. More import
 ## We should be able to design a better system
 
 * Democracy and capitalism are roughly 300 years old. Surely a modern rethink is possible.
-* Humanity has achieved incredible technology. Entirely new ways of organizing is now feasible.
+* Humanity has achieved incredible technology. Entirely new ways of organizing are now feasible.
 * Humans themselves are now much more deeply understood through scientific studies.
 * Modern business, in particular technology companies, have continually advanced how they as small societies operate (notably, [agile software development](https://en.wikipedia.org/wiki/Agile_software_development){:target="_blank"}). This has resulted in many techniques that are broadly useful and can be employed at the societal level.
 * [Open source software](https://en.wikipedia.org/wiki/Open-source_software){:target="_blank"} has also advanced techniques to manage teams and culture. The [open source model](https://en.wikipedia.org/wiki/Open-source_model){:target="_blank"} has a lot relevance to managing a society.
