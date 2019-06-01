@@ -20,7 +20,7 @@ Open socialism on the other hand is very similar to the methods of organizing us
 
 ### Cooperative systems
 
-In business people work together for a common goal. Purpose is provided in a top-down manner, however people work in teams with a fair amount of autonomy. Overly top-down controlling bureaucratic systems have been shown to ineffective.
+In business people work together for a common goal. Purpose is provided in a top-down manner, however people work in teams with autonomy of how they achieve said purpose. Overly top-down controlling bureaucratic systems have been shown to ineffective.
 
 ### Limited inequality
 
@@ -30,4 +30,8 @@ Overall most employees are not greatly different in income to their colleagues. 
 
 ### Limited internal competition
 
+There is an attempt to diminish competition between groups within companies. Modern companies attempt to reduce political maneuvering and increase a company wide view point between groups.
+
 ### Tribal systems
+
+Increasingly [modern companies are forming tribal structures](https://www.chieflearningofficer.com/2018/04/16/nature-business-tribes/).
