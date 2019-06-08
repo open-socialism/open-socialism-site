@@ -1,6 +1,6 @@
 ---
 title: Modern Companies Mirror Open Socialism
-description: Modern companies are quite similar to the open socialism system.
+description: Modern companies use similar systems internally to open socialism.
 ---
 
 ## Democracy and capitalism in business
@@ -20,13 +20,13 @@ Open socialism on the other hand is very similar to the methods of organizing us
 
 ### Cooperative systems
 
-In business people work together for a common goal. Purpose is provided in a top-down manner, however people work in teams with autonomy of how they achieve said purpose. Overly top-down controlling bureaucratic systems have been shown to ineffective.
+In business people work together for a common goal. Purpose is provided in a top-down manner, however people work in teams with autonomy to choose how they achieve said purpose. Overly top-down controlling bureaucratic systems have been shown to ineffective.
 
 ### Limited inequality
 
-With most modern companies there is relatively limited income inequality. On the extreme end [the top 350 US companies averaged the CEO making 312 times as much as an average worker in their companies](https://howmuch.net/articles/how-much-more-ceos-make-than-workers){:target="_blank"}. 312 times is somewhat alarming, but smaller companies and less successful companies should less inequality.
+With most modern companies there is relatively limited income inequality. On the extreme end [the top 350 US companies averaged the CEO making 312 times as much as an average worker](https://howmuch.net/articles/how-much-more-ceos-make-than-workers){:target="_blank"}. 312 times is somewhat alarming, but smaller companies and less successful companies should have less of a disparity.
 
-Overall most employees are not greatly different in income to their colleagues. This level of inequality is much less when employees between companies are compared, or compared to the unemployed.
+Overall most employees do not have greatly differing incomes to their colleagues. Compared to the inequality seen within a society, internal company inequality is much smaller.
 
 ### Limited internal competition
 
