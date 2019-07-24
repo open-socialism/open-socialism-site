@@ -5,7 +5,7 @@ description: Democratic capitalism has been very successful over the past 300 ye
 
 ## Democratic Capitalism (DC) Isn't That Bad Right?
 
-Yes DC is pretty good. In fact it is better than any system we have had before. DC largely offers equal legal rights regardless of one's race, gender or sexual preference and abolishes outright servitude. Technology under DC has undergone explosive advancement and in terms of most metrics eg. life expectancy it is far beyond the systems that came before it.
+Yes DC is pretty good. In fact it is better than any system we have had before. DC offers equal legal rights regardless of one's race, gender or sexual preference and abolishes outright servitude. Technology under DC has undergone explosive advancement and in terms of most metrics eg. life expectancy it is far beyond the systems that came before it.
 
 If so, shouldn't we just stick with DC?
 
@@ -13,15 +13,15 @@ If so, shouldn't we just stick with DC?
 
 DC was an answer to feudalism. It was the next iterative step to take once feudalism crumbled around the world and it was a better system.
 
-However, that was 300 years ago. Since then a massive amount has changed, not least the explosion of technology. It almost goes without saying that of course now if we start from scratch and factor in modern knowledge and technology we can devise a better system.
+However, that was 300 years ago. Since then a massive amount has changed, not least of which the explosion of technology. It almost goes without saying that of course now if we start from scratch and factor in modern knowledge and technology we can devise a better system.
 
 ## DC has been getting worse
 
 DC improved in terms of wealth equality leading up to the 1970s and [since then it has steadily gotten worse](http://www.pewresearch.org/fact-tank/2013/12/05/u-s-income-inequality-on-rise-for-decades-is-now-highest-since-1928/){:target="_blank"}. Productivity is continuing to dramatically improve and yet only those already very rich are seeing the benefits. The wealth is not [trickling down](https://en.wikipedia.org/wiki/Trickle-down_economics){:target="_blank"} and the global middle class is constantly shrinking. [President Obama has called wealth inequality 'the defining challenge of our time'](https://www.whitehouse.gov/the-press-office/2013/12/04/remarks-president-economic-mobility){:target="_blank"}.
 
-On a global scale as well, DC is destructive in that it exploits poverty for cheap labor. Poor nations employ their people for global corporations for minimal wages. Meanwhile workers in developed countries are losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. On the global level there is now startling wealth inequality. [The wealthiest 26 people in the world have more wealth than the bottom 3,800,000,000](https://www.theguardian.com/business/2019/jan/21/world-26-richest-people-own-as-much-as-poorest-50-per-cent-oxfam-report){:target="_blank"}.
+On a global scale as well, DC is destructive in that it exploits poverty for cheap labor. Poor nations employ their people for global corporations for minimal wages. Meanwhile workers in developed countries are losing their jobs due to this offshoring and can no longer afford to buy goods that stimulate their own countries economies. On the global level there is now a startling level of wealth inequality. [The wealthiest 26 people in the world have more wealth than the bottom 3,800,000,000](https://www.theguardian.com/business/2019/jan/21/world-26-richest-people-own-as-much-as-poorest-50-per-cent-oxfam-report){:target="_blank"}.
 
-DC is causing repeated financial crisis in a boom bust boom pattern that is quite destructive for everyone but those already wealthy. All the while it is proving to be highly destructive to the environment which is totally unacceptable for our generation to be doing. The worst example of this is of course global warming. [Elon Musk sums up what we are doing very well in this video](https://www.youtube.com/watch?v=xKCuDxpccYM).
+DC is causing repeated financial crisis in a boom bust boom pattern that is quite destructive for everyone but those already wealthy. All the while it is proving to be highly destructive to the environment which is totally unacceptable for our generation to be doing. The worst example of this is of course man-made climate change. [Elon Musk sums up what we are doing very well in this video](https://www.youtube.com/watch?v=xKCuDxpccYM).
 
 Democracy is also compromised with big money corrupting politics via the [lobbying system](https://en.wikipedia.org/wiki/Lobbying){:target="_blank"}. [President Obama on some of the issues with democracy in the USA](https://www.youtube.com/watch?v=AxuwazaXOMg){:target="_blank"}.
 
@@ -33,7 +33,7 @@ Check out [thisistheworld.net](https://thisistheworld.net/){:target="_blank"} wh
 
 Also, ['What about a good example of DC such as Norway?'](/open-socialism/criticisms/there-are-great-dc-countries)
 
-## Even the president of the USA recognizes the issues, but why is no one talking about alternative systems?
+## Even a recent president of the USA recognizes the issues, but why is no one talking about alternative systems?
 
 This is the startling thing. Why is there no talk publicly about alternative systems when DC, a 300 year old system, has all these problems. Why aren't you looking at this going 'Oh not another person with a new political system' but are instead probably thinking 'Oh wow, some DC alternative? Hmm but we know that communism doesn't work right, what else could there be? Democracy, equal rights, freedom, these are all great things?'.
 
@@ -43,7 +43,7 @@ A map of the world that does not include Utopia is not worth even glancing at, f
 
 Shouldn't we be looking for the next Utopia? Or at least look to take big steps to achieve a better world?
 
-[Utopia for realists](https://thecorrespondent.com/utopia-for-realists/){:target="_blank"} is an excellent book on large strides we can make with the existing system. It is also a remarkably rare example of media that strongly questions the current system. However, even more remarkably there are no current compelling examples of proposed alternative systems. With the number of highly educated people in the world this is quite amazing.
+[Utopia for realists](https://thecorrespondent.com/utopia-for-realists/){:target="_blank"} is an excellent book on large strides we can make with the existing system. It is also a rare example of media that strongly questions the current system. However, even more remarkably there are no current compelling examples of proposed alternative systems. With the number of highly educated people in the world this is quite amazing.
 
 ## There is value in considering what a modern utopian society would look like
 
