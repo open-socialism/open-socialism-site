@@ -71,4 +71,4 @@ auto/update/update-docker
 
 ### Browser Support
 
-These browsers and versions https://browsehappy.com
+The latest version of the major browsers.
