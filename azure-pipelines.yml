@@ -2,31 +2,31 @@ variables:
   defaultImage: ubuntu-latest
 
 jobs:
-  - job: Verify html links
+  - job: verify-html-links
     pool:
       vmImage: $(defaultImage)
     steps:
       - script: auto/verify/verify-html
 
-  - job: Verify spelling
+  - job: verify-spelling
     pool:
       vmImage: $(defaultImage)
     steps:
       - script: auto/verify/verify-spelling
 
-  - job: Verify yaml
+  - job: verify-yaml
     pool:
       vmImage: $(defaultImage)
     steps:
       - script: auto/verify/verify-yaml
 
-  - job: Verify dockerfiles
+  - job: verify-docker
     pool:
       vmImage: $(defaultImage)
     steps:
       - script: auto/verify/verify-docker
 
-  - job: Verify shell scripts
+  - job: verify-shell
     pool:
       vmImage: $(defaultImage)
     steps:
