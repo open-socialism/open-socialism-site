@@ -8,7 +8,7 @@ container-class: home
   <small>a compelling alternative to democratic capitalism</small>
 </header>
 
-Open Socialism is a rethink on how to run a society. It takes the best parts from communism, socialism, capitalism, democracy and a variety of other sources and offers a new and radically different system than the currently popular democratic capitalism.
+Open Socialism is a rethink on how to run a societzy. It takes the best parts from communism, socialism, capitalism, democracy and a variety of other sources and offers a new and radically different system than the currently popular democratic capitalism.
 
 ## Features
 
