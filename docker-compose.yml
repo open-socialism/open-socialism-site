@@ -21,7 +21,7 @@ services:
 
   prod:
     environment:
-      - JEKYLL_ENV=production
+    - JEKYLL_ENV=production
     extends:
       service: dev-run
 
