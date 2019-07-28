@@ -4,30 +4,30 @@ variables:
 jobs:
   - job: Verify html links
     pool:
-      vmImage: $defaultImage
+      vmImage: $(defaultImage)
     steps:
       - script: auto/verify/verify-html
 
   - job: Verify spelling
     pool:
-      vmImage: $defaultImage
+      vmImage: $(defaultImage)
     steps:
       - script: auto/verify/verify-spelling
 
   - job: Verify yaml
     pool:
-      vmImage: $defaultImage
+      vmImage: $(defaultImage)
     steps:
       - script: auto/verify/verify-yaml
 
   - job: Verify dockerfiles
     pool:
-      vmImage: $defaultImage
+      vmImage: $(defaultImage)
     steps:
       - script: auto/verify/verify-docker
 
   - job: Verify shell scripts
     pool:
-      vmImage: $defaultImage
+      vmImage: $(defaultImage)
     steps:
       - script: auto/verify/verify-shell
