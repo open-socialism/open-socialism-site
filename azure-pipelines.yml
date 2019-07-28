@@ -6,32 +6,36 @@ jobs:
     pool:
       vmImage: $(defaultImage)
     steps:
-      - displayName: Verify html links
-        script: auto/verify/verify-html
+      - script: auto/verify/verify-html
+        displayName: Verify html links
+
 
   - job: verify_spelling
     pool:
       vmImage: $(defaultImage)
     steps:
-      - displayName: Check spelling
-        script: auto/verify/verify-spelling
+      - script: auto/verify/verify-spelling
+        displayName: Check spelling
+
 
   - job: verify_yaml
     pool:
       vmImage: $(defaultImage)
     steps:
-      - displayName: Lint yaml
-        script: auto/verify/verify-yaml
+      - script: auto/verify/verify-yaml
+        displayName: Lint yaml
 
   - job: verify_docker
     pool:
       vmImage: $(defaultImage)
     steps:
-      - displayName: Lint dockerfiles
       - script: auto/verify/verify-docker
+        displayName: Lint dockerfiles
+
 
   - job: verify_shell
     pool:
       vmImage: $(defaultImage)
     steps:
       - script: auto/verify/verify-shell
+        displayName: Lint bash scripts
