@@ -10,7 +10,7 @@ jobs:
 
   - job: Verify spelling
     pool:
-    vmImage: $defaultImage
+      vmImage: $defaultImage
     steps:
       - script: auto/verify/verify-spelling
 
