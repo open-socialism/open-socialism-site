@@ -1,18 +1,23 @@
 pool:
   vmImage: 'ubuntu-latest'
 
-steps:
-  - script: auto/verify/verify-html
-    displayName: 'Verify html links'
+jobs:
+  - job: Verify html links
+    steps:
+      - script: auto/verify/verify-html
 
-  - script: auto/verify/verify-spelling
-    displayName: 'Verify spelling'
+  - job: Verify spelling
+    steps:
+      - script: auto/verify/verify-spelling
 
-  - script: auto/verify/verify-yaml
-    displayName: 'Verify yaml'
+  - job: Verify yaml
+    steps:
+      - script: auto/verify/verify-yaml
 
-  - script: auto/verify/verify-docker
-    displayName: 'Verify dockerfiles'
+  - job: Verify dockerfiles
+    steps:
+      - script: auto/verify/verify-docker
 
-  - script: auto/verify/verify-shell
-    displayName: 'Verify shell scripts'
+  - job: Verify shell scripts
+    steps:
+      - script: auto/verify/verify-shell
