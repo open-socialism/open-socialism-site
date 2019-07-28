@@ -1,4 +1,4 @@
-# open-socialism-site
+# Open Socialism Website
 
 [![Build Status](https://dev.azure.com/opensocialism/open-socialism/_apis/build/status/open-socialism.open-socialism-site?branchName=master)](https://dev.azure.com/opensocialism/open-socialism/_build/latest?definitionId=2&branchName=master)
 
