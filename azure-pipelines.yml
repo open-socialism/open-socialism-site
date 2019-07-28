@@ -3,6 +3,7 @@ variables:
 
 jobs:
   - job: verify_html_links
+    displayName: Verify html links
     pool:
       vmImage: $(defaultImage)
     steps:
@@ -11,6 +12,7 @@ jobs:
 
 
   - job: verify_spelling
+    displayName: Check spelling
     pool:
       vmImage: $(defaultImage)
     steps:
@@ -19,6 +21,7 @@ jobs:
 
 
   - job: verify_yaml
+    displayName: Lint yaml
     pool:
       vmImage: $(defaultImage)
     steps:
@@ -26,6 +29,7 @@ jobs:
         displayName: Lint yaml
 
   - job: verify_docker
+    displayName: Lint dockerfiles
     pool:
       vmImage: $(defaultImage)
     steps:
@@ -34,6 +38,7 @@ jobs:
 
 
   - job: verify_shell
+    displayName: Lint bash scripts
     pool:
       vmImage: $(defaultImage)
     steps:
