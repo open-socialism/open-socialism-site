@@ -1,19 +1,18 @@
-# Starter pipeline
-# Start with a minimal pipeline that you can customize to build and deploy your code.
-# Add steps that build, run tests, deploy, and more:
-# https://aka.ms/yaml
-
-trigger:
-- master
-
 pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
+  - script: auto/verify/verify-html
+    displayName: 'Verify html links'
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+  - script: auto/verify/verify-spelling
+    displayName: 'Verify spelling'
+
+  - script: auto/verify/verify-yaml
+    displayName: 'Verify yaml'
+
+  - script: auto/verify/verify-docker
+    displayName: 'Verify dockerfiles'
+
+  - script: auto/verify/verify-shell
+    displayName: 'Verify shell scripts'

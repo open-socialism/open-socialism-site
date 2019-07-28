@@ -25,6 +25,14 @@ services:
     extends:
       service: dev-run
 
+  azure-cli:
+    build:
+      dockerfile: support/azure-cli/Dockerfile
+      context: .
+    volumes:
+      - .:/work
+    working_dir: /work
+
   yamllint:
     build: support/yamllint
     command: support/yamllint/run

@@ -9,3 +9,4 @@ VERSION=v1.17.1
 
 docker run --rm "hadolint/hadolint:$VERSION" < support/dev/Dockerfile
 docker run --rm "hadolint/hadolint:$VERSION" < support/yamllint/Dockerfile
+docker run --rm "hadolint/hadolint:$VERSION" < support/azure-cli/Dockerfile
